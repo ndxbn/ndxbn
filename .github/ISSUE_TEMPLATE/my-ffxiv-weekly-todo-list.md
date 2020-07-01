@@ -2,7 +2,7 @@
 name: My FFXIV Weekly ToDo List
 about: 毎週火曜日の17時頃に ISSUE を作ってね
 title: ''
-labels: ''
+labels: ffxiv weekly
 assignees: ndxbn
 
 ---
