@@ -2,7 +2,7 @@
 
 ## 運用・管理してるもの
 
-- [さなボタン(2)](https://github.com/sanabutton/sanabutton.github.io): VTuber 名取さなの声を再生する `<button>` がたくさんあるサイト。
+- [さなボタン(2)](https://natorisana.love/): VTuber 名取さなの声を再生する `<button>` がたくさんあるサイト。
 
 ## 自分用のリンク
 
