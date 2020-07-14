@@ -1,16 +1,9 @@
-## このリポジトリについて
+# [ndxbn.tokyo](https://ndxbn.tokyo)
 
-このリポジトリは、私が日々のアレコレを管理したりするために使っています。
+## 運用・管理してるもの
 
-ToDo リストだったり、写真や画像などのメディアファイルをアップロードしたり。
+- [さなボタン(2)](https://github.com/sanabutton/sanabutton.github.io): VTuber 名取さなの声を再生する `<button>` がたくさんあるサイト。
 
-## 私のリポジトリの一覧
+## 自分用のリンク
 
-### 各言語のライブラリ・パッケージ・モジュール
-
-- [ndxbn-node](//github.com/ndxbn/ndxbn-node): Node.js で使える npm package のモノレポ。
-- [ndxbn-deno](//github.com/ndxbn/ndxbn-deno): Deno のプロジェクトテンプレートを考えるのに使ってるリポジトリ。
-
-### Web Site
-
-- [ndxbn.github.io](//github.com/ndxbn/ndxbn.github.io): [www.ndxbn.tokyo](//www.ndxbn.tokyo) のソースコード。すべて SSR される。
+- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22ffxiv+weekly%22)
