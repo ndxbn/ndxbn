@@ -1,7 +1,7 @@
 ---
 name: testing something
 about: testing something
-title: '{{ date | date.format("YYYY-MM-DD") }}'
+title: '{{ date | date('dddd, MMMM Do') }}'
 assignees: ndxbn
 ---
 
