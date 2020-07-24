@@ -6,4 +6,5 @@
 
 ## 自分用のリンク
 
-- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22ffxiv+weekly%22)
+- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/labels/ffxiv%20weekly)
+- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/labels/ffxiv%20daily)
