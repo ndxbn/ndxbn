@@ -1,8 +1,9 @@
 ---
 name: testing something
 about: testing something
-title: '{{ date | date('dddd, MMMM Do') }}'
+title: '{{ date("YYYY-MM-DD#) }}'
 assignees: ndxbn
+
 ---
 
 {{ title }}
