@@ -3,7 +3,7 @@ name: create daily ffxiv todo issue
 on:
   schedule:
     # - cron: '0 15 * * *'
-    - cron: '8 9 * * *'
+    - cron: '15 9 * * *'
 
 jobs:
   main:
