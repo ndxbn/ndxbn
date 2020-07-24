@@ -1,8 +1,8 @@
 ---
 name: testing something
 about: testing something
-title: '[date]'
+title: '{{date}}'
 assignees: ndxbn
 ---
 
-[date]
+{{date}}
