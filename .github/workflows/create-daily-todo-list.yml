@@ -13,5 +13,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/ISSUE_TEMPLATE/daily-todo-list.md
+          filename: .github/ISSUE_TEMPLATE/my-xiv-daily-task-list.md
           assignees: ndxbn
