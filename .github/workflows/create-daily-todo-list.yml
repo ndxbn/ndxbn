@@ -1,8 +1,8 @@
 name: create daily ffxiv todo issue
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: '0 15 * * *'
 
 jobs:
   main:
