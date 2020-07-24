@@ -1,14 +1,13 @@
 ---
-name: My Weekly Task List
+name: My FFXIV Weekly Task List
 about: 毎週火曜日の17時頃に ISSUE を作ってね
-title: "{{ date | date('YYYY-MM-DD') }}"
+title: "FFXIV Daily: {{ date | date('YYYY-MM-DD') }}"
 labels: ffxiv weekly
 assignees: ndxbn
 
 ---
 
-## FF XIV
-### 8人レイド
+## 8人レイド
 
 - [ ] ノーマル1
 - [ ] ノーマル2
@@ -19,14 +18,14 @@ assignees: ndxbn
 - [ ] 零式3
 - [ ] 零式4
 
-### モブハン
+## モブハン
 
 - [ ] 新生
 - [ ] クラン
 - [ ] ベテラン
 - [ ] ナッツクラン
 
-### その他
+## その他
 
 - [ ] アラガントームストーン
 - [ ] クロの空想帳
