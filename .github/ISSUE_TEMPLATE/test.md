@@ -1,6 +1,6 @@
 ---
 name: testing something
-title: [date]
+title: '[date]'
 assignees: ndxbn
 ---
 
