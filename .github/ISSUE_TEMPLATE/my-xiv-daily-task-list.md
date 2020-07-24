@@ -1,14 +1,13 @@
 ---
-name: My Daily ToDo List
+name: My FFXIV Daily Task List
 about: 日付変更前後に ISSUE を作ってね
-title: ''
+title: "FFXIV Daily: {{ date | date('YYYY-MM-DD') }}"
 labels: ffxiv daily
 assignees: ndxbn
 
 ---
 
-## FF XIV
-### ルーレット・チャレンジ
+## ルーレット・チャレンジ
 
 - [ ] エキスパート
 - [ ] レベル 80 ダンジョン
@@ -22,14 +21,14 @@ assignees: ndxbn
 - [ ] メンター
 - [ ] フロントライン
 
-### モブハン
+## モブハン
 
 - [ ] 新生
 - [ ] クラン
 - [ ] ベテラン
 - [ ] ナッツクラン
 
-### その他
+## その他
 
 - [ ] 冒険者小隊
 - [ ] 蛮族クエ
