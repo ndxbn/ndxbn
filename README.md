@@ -1,10 +1,3 @@
-# [ndxbn.tokyo](https://ndxbn.tokyo)
-
-## 運用・管理してるもの
-
-- [さなボタン(2)](https://natorisana.love/): VTuber 名取さなの声を再生する `<button>` がたくさんあるサイト。
-
-## 自分用のリンク
-
-- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/labels/ffxiv%20weekly)
-- [FFXIV のウェークリーの管理](https://github.com/ndxbn/ndxbn/labels/ffxiv%20daily)
+<div align="center">
+  <img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif">
+</div>
