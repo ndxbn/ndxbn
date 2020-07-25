@@ -1,7 +1,7 @@
 ---
 name: My FFXIV Weekly Task List
 about: 毎週火曜日の17時頃に ISSUE を作ってね
-title: "FFXIV Daily: {{ date | date('YYYY-MM-DD') }}"
+title: 'FFXIV Daily: {{ date | date(''YYYY-MM-DD'') }}'
 labels: ffxiv weekly
 assignees: ndxbn
 
