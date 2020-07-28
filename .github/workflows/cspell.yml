@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Setup Node.js environment
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v2.2.1
     - name: Run cspell
       run: npx cspell "**/*"
     - name: Run cspell for dotfiles
