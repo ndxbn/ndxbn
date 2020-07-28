@@ -4,12 +4,11 @@ about: 日付変更前後に ISSUE を作ってね
 title: "FFXIV Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
 labels: ffxiv daily, routine work
 assignees: ndxbn
-
 ---
 
 ## ルーレット・チャレンジ
 
-クリアしたら☑
+クリアしたら ☑
 
 - [ ] エキスパート
 - [ ] レベル 80 ダンジョン
@@ -25,7 +24,7 @@ assignees: ndxbn
 
 ## モブハン
 
-完了したら☑
+完了したら ☑
 
 - [ ] 新生
 - [ ] クラン

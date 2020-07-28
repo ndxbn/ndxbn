@@ -2,7 +2,7 @@ name: create weekly task list
 
 on:
   schedule:
-    - cron: '0 8 * * 2'
+    - cron: "0 8 * * 2"
 
 jobs:
   main:
