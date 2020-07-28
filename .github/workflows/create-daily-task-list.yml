@@ -1,4 +1,4 @@
-name: create daily ffxiv todo issue
+name: create daily task list
 
 on:
   schedule:
