@@ -17,6 +17,6 @@ jobs:
     - name: cspell for ./.github
       run: npx cspell ".github/**/*"
     - name: prettier
-      run: npx prettier "**/*.{md,yaml,yml}"
+      run: npx prettier --check "**/*.{md,yaml,yml}"
     - name: prettier for ./.github
-      run: npx prettier "./github/**/*.{md,yaml,yml}"
+      run: npx prettier --check "./github/**/*.{md,yaml,yml}"
