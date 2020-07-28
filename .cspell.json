@@ -14,11 +14,11 @@
         "fonts",
         "filetypes",
         "npm",
-        "contributers",
+        "names",
         "my-misc"
     ],
     "dictionaryDefinitions": [
-        { "name": "contributers", "path": "./.dics/contributers.txt" },
+        { "name": "names", "path": "./.dics/names.txt" },
         { "name": "my-misc", "path": "./.dics/misc.txt" },
     ]
 }
