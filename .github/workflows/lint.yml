@@ -12,7 +12,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Setup Node.js environment
       uses: actions/setup-node@v2.1.1
-    - name: Run cspell
+    - name: cspell
       run: npx cspell "**/*"
-    - name: Run cspell for ./.github
+    - name: cspell for ./.github
       run: npx cspell ".github/**/*"
+    - name: prettier
+      run: npx prettier "**/*.{md,yaml,yml}"
+    - name: prettier for ./.github
+      run: npx prettier "./github/**/*.{md,yaml,yml}"
