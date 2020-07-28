@@ -14,5 +14,5 @@ jobs:
       uses: actions/setup-node@v2.1.1
     - name: Run cspell
       run: npx cspell "**/*"
-    - name: Run cspell for dotfiles
-      run: npx cspell ".*/**/*"
+    - name: Run cspell for ./.github
+      run: npx cspell ".github/**/*"
