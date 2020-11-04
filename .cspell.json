@@ -19,6 +19,10 @@
     ],
     "dictionaryDefinitions": [
         { "name": "names", "path": "./.dics/names.txt" },
-        { "name": "my-misc", "path": "./.dics/misc.txt" },
+        { "name": "my-misc", "path": "./.dics/misc.txt" }
+    ],
+    "ignorePaths": [
+        "package.json",
+        "yarn.lock"
     ]
 }
