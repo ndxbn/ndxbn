@@ -5,6 +5,7 @@ title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
 labels: ffxiv daily, routine work, daily
 assignees: ndxbn
 ---
+
 # FF14
 
 ## ルーレット・チャレンジ
