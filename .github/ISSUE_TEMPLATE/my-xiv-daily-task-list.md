@@ -6,6 +6,7 @@ labels: ffxiv daily, routine work
 assignees: ndxbn
 ---
 # FF14
+
 ## ルーレット・チャレンジ
 
 クリアしたら ☑
