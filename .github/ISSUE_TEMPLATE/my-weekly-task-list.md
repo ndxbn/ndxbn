@@ -1,8 +1,8 @@
 ---
-name: My FFXIV Weekly Task List
+name: My Weekly Task List
 about: 毎週火曜日の17時頃に ISSUE を作ってね
-title: "FFXIV Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{ date | date('add', 9, 'hours') | date('add', 6, 'days') | date('YYYY-MM-DD') }}"
-labels: ffxiv weekly, routine work
+title: "Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{ date | date('add', 9, 'hours') | date('add', 6, 'days') | date('YYYY-MM-DD') }}"
+labels: ffxiv weekly, routine work, weekly
 assignees: ndxbn
 ---
 
