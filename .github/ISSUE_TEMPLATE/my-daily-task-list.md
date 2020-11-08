@@ -1,11 +1,13 @@
 ---
-name: My FFXIV Daily Task List
+name: My Daily Task List
 about: 日付変更前後に ISSUE を作ってね
-title: "FFXIV Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
-labels: ffxiv daily, routine work
+title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
+labels: ffxiv daily, routine work, daily
 assignees: ndxbn
 ---
+
 # FF14
+
 ## ルーレット・チャレンジ
 
 クリアしたら ☑

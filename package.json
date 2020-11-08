@@ -4,7 +4,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:cspell": "cspell \"**/*\"",
     "lint:cspell-github": "cspell \".github/**/*\"",
-    "lint:prettier": "prettier --check \"**/*.{md,yaml,yml}\""
+    "lint:prettier": "prettier --check \"**/*.{md,yaml,yml}\"",
+    "fmt": "prettier --write \"**/*.{md,yaml,yml}\""
   },
   "devDependencies": {
     "cspell": "4.1.3",
