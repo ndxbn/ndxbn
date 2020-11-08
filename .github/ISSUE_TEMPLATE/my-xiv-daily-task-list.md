@@ -5,7 +5,7 @@ title: "FFXIV Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
 labels: ffxiv daily, routine work
 assignees: ndxbn
 ---
-
+# FF14
 ## ルーレット・チャレンジ
 
 クリアしたら ☑
@@ -39,3 +39,7 @@ assignees: ndxbn
 - [ ] ミニくじ
 - [ ] 蛮族クエ（受注したら ☑）
 - [ ] 地図の取得
+
+# Maple Royals
+
+- [ ] Vote （9:05 JST リセット）
