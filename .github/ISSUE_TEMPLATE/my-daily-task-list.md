@@ -56,4 +56,4 @@ assignees: ndxbn
 
 # Maple Royals
 
-- [ ] Vote （9:05 JST リセット）
+- [ ] [Vote](https://mapleroyals.com/?page=vote) （9:05 JST リセット）
