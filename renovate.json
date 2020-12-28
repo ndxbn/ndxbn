@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:js-lib",
+    ":automergeMinor",
+    ":rebaseStalePrs",
+    ":respectLatest",
+    ":prHourlyLimitNone",
+    "group:linters",
+    "preview:dockerVersions",
+    "preview:dockerCompose"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  }
+}
