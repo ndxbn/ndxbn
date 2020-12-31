@@ -326,10 +326,10 @@ cspell-io@^5.1.0:
     iconv-lite "^0.6.2"
     iterable-to-stream "^1.0.1"
 
-cspell-lib@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-5.1.1.tgz#b21573e441bdd9e544f4c31dccbcc18863280899"
-  integrity sha512-yTF7/Yd3UFK+LzUIuJwlMExRIUu/H2U2irqhbpEp5OchnF6XAB4YyaSsYFf7salV7Xea7JUUJReybZZqWDUePQ==
+cspell-lib@^5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/cspell-lib/-/cspell-lib-5.1.2.tgz#ce63399c741ce0ec3eb206a03ab0ccba2ae8f18f"
+  integrity sha512-vTa/TKPOm6vi0pRCwLaF7Ml0cdNp7JhEmTDWwlm79EVA2Z7LDYidwlY92lz7Q4+oE3k+/ZTEAkmsf7/PlDSFpg==
   dependencies:
     "@cspell/cspell-bundled-dicts" "^5.1.0"
     comment-json "^4.1.0"
@@ -357,16 +357,16 @@ cspell-util-bundle@^5.1.1:
   resolved "https://registry.yarnpkg.com/cspell-util-bundle/-/cspell-util-bundle-5.1.1.tgz#57b0eb5bf336d504aad3e6c3b7f557984816cb2a"
   integrity sha512-KkeAnhGp3y8AoRVwZD50Rix41mHzaEWx41rwBK+jSbPcR7eWMzyS6rUIynAeY6j0N/gA7Q2PMGATQaYoo2rBkA==
 
-cspell@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/cspell/-/cspell-5.1.1.tgz#5d8b3980142a9045451d7132ce36466843f75073"
-  integrity sha512-KQIMO8Zl0m4ke6Zqt8Vwy6ytwsmlkRB+3C5Nl7Z/D9ggi1yGb9cXIume+ec2o+vgwoCWmbePQlo4eFM/h5mOMQ==
+cspell@5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/cspell/-/cspell-5.1.2.tgz#a32b3acb09a6d67647dc98db9ac0575c21ea3705"
+  integrity sha512-2G+hCNQMvTOpSI8wTivem7epcA3KuF8DlIJvetpuu26duUKbE4Cw1CqzjFVsDRCHAPTiZdfkbvUtVeQ8QaiDOw==
   dependencies:
     chalk "^4.1.0"
     commander "^6.2.1"
     comment-json "^4.1.0"
     cspell-glob "^5.1.0"
-    cspell-lib "^5.1.1"
+    cspell-lib "^5.1.2"
     fs-extra "^9.0.1"
     get-stdin "^8.0.0"
     glob "^7.1.6"
