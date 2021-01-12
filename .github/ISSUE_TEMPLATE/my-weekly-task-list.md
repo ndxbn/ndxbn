@@ -37,7 +37,7 @@ assignees: ndxbn
 - [ ] ソーチョー（クリアしたら ☑）
 - [ ] ドマ町人地（納品したら ☑）
 - [ ] ジャンボくじ（土曜）
-- [ ] ファッションチェック（土曜）
+- [ ] ファッションチェック（土曜） [blogbear.xyz](https://www.blogbear.xyz/article/category/fashioncheck)
 - [ ] リーヴ権（0 に戻したら ☑）
 - [ ] お得意様（完了したら ☑）
 - [ ] クロの空想帳（受け取ったら ☑）
