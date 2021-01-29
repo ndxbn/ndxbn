@@ -1,3 +1,9 @@
 # Node.js
 package-lock.json
 node_modules/
+
+# yarn
+.yarn/
+.pnp.jp
+
+
