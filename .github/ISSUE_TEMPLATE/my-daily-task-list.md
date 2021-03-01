@@ -67,8 +67,8 @@ assignees: ndxbn
 - [ ] 24人レイド（ミニオン目的）
 -->
 
-# Maple Royals
+# その他
 
-- [ ] [Vote](https://mapleroyals.com/?page=vote) （9:05 JST リセット）
+- [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （9:05 JST リセット）
 - [ ] マンガ UP！（0000 JST）
 - [ ] マンガ UP！（1500 JST）
