@@ -23,6 +23,7 @@
     ],
     "ignorePaths": [
         "package.json",
-        "yarn.lock"
+        "yarn.lock",
+        "node_modules"
     ]
 }
