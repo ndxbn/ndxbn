@@ -2,7 +2,7 @@
 name: My Daily Task List
 about: 日付変更前後に ISSUE を作ってね
 title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
-labels: ffxiv daily, routine work, daily
+labels: ffxiv, daily
 assignees: ndxbn
 ---
 
