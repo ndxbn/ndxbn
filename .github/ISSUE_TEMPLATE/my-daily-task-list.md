@@ -46,5 +46,5 @@ assignees: ndxbn
 
 # その他
 
-- [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （9:05 JST リセット）
+- [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
 - [ ] マンガ UP！（0000 JST）
