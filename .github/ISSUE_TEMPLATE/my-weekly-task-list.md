@@ -6,6 +6,8 @@ labels: ffxiv, weekly, todo
 assignees: ndxbn
 ---
 
+# FF14
+
 ## 8 人レイド
 
 クリアしたら ☑
@@ -59,3 +61,9 @@ assignees: ndxbn
     - [ ] トリプルトライアド 10 勝、ルーム 5 戦 3 勝、トーナメント参加
     - [ ] LoVM 5 回対戦
     - [ ] 麻雀 2 回参加
+
+# その他
+
+- [ ] `cup -y all` ノート PC
+- [ ] `cup -y all` メイン PC
+- [ ] `apt update -y && apt upgrade -y` 各サーバ
