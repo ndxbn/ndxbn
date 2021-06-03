@@ -6,6 +6,12 @@ labels: monthly, todo
 assignees: ndxbn
 ---
 
+# 家事
+
+## 掃除
+
+- [ ] 風呂ジャバ
+
 # その他
 
 ## 購読している雑誌
