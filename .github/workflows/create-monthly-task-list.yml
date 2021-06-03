@@ -1,4 +1,4 @@
-name: create monthry task list
+name: create monthly task list
 
 on:
   schedule:
@@ -13,5 +13,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/ISSUE_TEMPLATE/my-monthry-task-list.md
+          filename: .github/ISSUE_TEMPLATE/my-monthly-task-list.md
           assignees: ndxbn
