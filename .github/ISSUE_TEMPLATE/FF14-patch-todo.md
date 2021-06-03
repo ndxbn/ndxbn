@@ -1,17 +1,12 @@
+---
+name: FF14 patch todo
+about: 
+title: ""
+labels: ffxiv, daily, todo
+assignees: ndxbn
+---
 パッチノート： ＜＜ここに URL ＞＞
 
-## エモート
-
-## マウント
-
-## ミニオン
-
-## チョコボ装甲
-
-## ファッションアクセサリー
-
-## アチーブ、称号
-
-## 髪型
+## クエスト
 
 ## そのた
