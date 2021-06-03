@@ -1,0 +1,17 @@
+name: create monthry task list
+
+on:
+  schedule:
+    - cron: "0 8 1 * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/ISSUE_TEMPLATE/my-monthry-task-list.md
+          assignees: ndxbn
