@@ -2,7 +2,7 @@
 name: My Monthly Task List
 about: （このテンプレートは手動では使いません）
 title: "Monthly: {{ date | date('add', 9, 'hours') | date('YYYY-MM') }}"
-labels: ffxiv, monthly, todo
+labels: monthly, todo
 assignees: ndxbn
 ---
 
