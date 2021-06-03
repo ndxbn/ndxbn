@@ -5,6 +5,7 @@ title: ""
 labels: ffxiv, todo, ffxiv-major
 assignees: ndxbn
 ---
+
 パッチノート： ＜＜ここに URL ＞＞
 
 ## クエスト
