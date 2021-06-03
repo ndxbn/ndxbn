@@ -1,8 +1,8 @@
 ---
 name: FF14 patch todo
-about: 
+about: todo list for each FF14 major version up
 title: ""
-labels: ffxiv, daily, todo
+labels: ffxiv, todo
 assignees: ndxbn
 ---
 パッチノート： ＜＜ここに URL ＞＞
