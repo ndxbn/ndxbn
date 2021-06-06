@@ -13,13 +13,13 @@ class Account
 note bottom
   use to login.
 end note
-interface Charactor
-class PlayerCharactor implements Charactor
-class NonPlayerCharactor implements Charactor
-class Retainer extends NonPlayerCharactor
+interface Character
+class PlayerCharacter implements Character
+class NonPlayerCharacter implements Character
+class Retainer extends NonPlayerCharacter
 
 User *--> Account : almost 1 user has only 1 account
-Account *--> PlayerCharactor
-PlayerCharactor *-> Retainer
+Account *--> PlayerCharacter
+PlayerCharacter *-> Retainer
 @enduml
 ```
