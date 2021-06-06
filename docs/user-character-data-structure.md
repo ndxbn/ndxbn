@@ -1,4 +1,4 @@
-![data structure diagram](./bO-zIaD148NxVOefLOXWQn4YzYA23p1U9-R2_iZkB9XETmK5Uviq4a4HKOiqWe8FCwZaBTnBhX6YZTsStUyRvgXUOFGSZLPSioQGD9PqB-b6yaJokQHJIG-IhoNVINgIz2RvLKuU9P-LeSIFsulfyPNaby_Hy_Ho_3wQg4fZ2B0Ro2lhc41JdnK0mY0QjB3aV9dt72yhillG8AsoKLKkMf.png)
+![data structure diagram](./user-charactor-data-structure-diagram.png)
 
 FF14 の場合のデータ構造だけれど、おそらく他のネトゲなどにも適用できる構造だと思う。
 
