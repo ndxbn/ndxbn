@@ -1,3 +1,5 @@
+![data structure diagram](./bO-_IWD14CRxVOefDH0XO6KX4I6bYE03hEV47EmVsPq3q-Ls1SLKDZPf988YGItI20e-pA2Ijt2ZTmhHncvc-Fs6xsjxaeuAhGJbf10wdTOgS3dXyepBSmv37fGSnXmc7AuvJZcUSZZcSCVnYkCjXmSEBnoVkRpdU9A6jBxT36U3IuvFxwF7sSNuTJGLcPBUmwv79umb18LT4W0IUe.png)
+
 ```puml
 @startuml
 title FF14 における、アカウントやキャラクターのデータ構造・相関図
