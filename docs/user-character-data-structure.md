@@ -1,4 +1,4 @@
-![data structure diagram](./user-charactor-data-structure-diagram.png)
+![data structure diagram](./user-character-data-structure-diagram.png)
 
 FF14 の場合のデータ構造だけれど、おそらく他のネトゲなどにも適用できる構造だと思う。
 
