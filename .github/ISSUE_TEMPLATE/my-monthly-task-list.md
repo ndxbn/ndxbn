@@ -14,6 +14,12 @@ assignees: ndxbn
 
 - [ ] 風呂ジャバ（初週コン目）
 
+# FF14
+
+- [ ] オオヌシの予定をカレンダーに入れる（初日コン目）
+  - [紅蓮](https://jp.finalfantasyxiv.com/lodestone/character/433058/blog/4067712/)
+  - [漆黒](https://jp.finalfantasyxiv.com/lodestone/character/433058/blog/4747021/)
+
 # その他
 
 ## 購読している雑誌
