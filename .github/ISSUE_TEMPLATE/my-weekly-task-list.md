@@ -63,6 +63,8 @@ assignees: ndxbn
 
 # その他
 
+週末にやる
+
 - [ ] `cup -y all` ノート PC
 - [ ] `cup -y all` メイン PC
 - [ ] `apt update -y && apt upgrade -y` 各サーバ
