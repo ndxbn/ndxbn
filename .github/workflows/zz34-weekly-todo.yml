@@ -1,8 +1,8 @@
-name: create twice a month task list
+name: create weekly task list
 
 on:
   schedule:
-    - cron: "0 8 1,15 * *"
+    - cron: "0 8 * * 2"
 
 jobs:
   main:
@@ -13,5 +13,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/ISSUE_TEMPLATE/my-twice-a-month-task-list.md
+          filename: .github/ISSUE_TEMPLATE/zz34-weekly-todo.md
           assignees: ndxbn
