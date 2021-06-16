@@ -1,8 +1,8 @@
-name: create weekly task list
+name: create daily task list
 
 on:
   schedule:
-    - cron: "0 8 * * 2"
+    - cron: "0 15 * * *"
 
 jobs:
   main:
@@ -13,5 +13,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/ISSUE_TEMPLATE/my-weekly-task-list.md
+          filename: .github/ISSUE_TEMPLATE/zz33-daily-todo.md
           assignees: ndxbn
