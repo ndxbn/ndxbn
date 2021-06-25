@@ -67,4 +67,5 @@ assignees: ndxbn
 
 - [ ] `cup -y all` ノート PC
 - [ ] `cup -y all` メイン PC
+- [ ] `apt update -y && apt upgrade -y` メイン PC
 - [ ] `apt update -y && apt upgrade -y` 各サーバ
