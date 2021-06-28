@@ -204,14 +204,14 @@
   integrity sha512-vHCqETX1idT9tN1plkxUFnXMIHjbbrNOINZh1PYSvVlBrOdahSaL/g6dOJZC5QTaaidoU4WXUlgnNb/7JN4Plg==
 
 "@cspell/dict-powershell@^1.0.16":
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-powershell/-/dict-powershell-1.0.16.tgz#06a2966b2dca7a0d97938ff90fcfc74354cfb7ba"
-  integrity sha512-cbauyYR6H53gfd/J9B3wgly9kg1joLSVxxqbry+y0BqF7FBtkctnXev2WHRbX68o6X9iQPhUz6+3zGKwFW5Stg==
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-powershell/-/dict-powershell-1.0.17.tgz#52f6a1f00c028e3cb643bcddea686a1cba011b90"
+  integrity sha512-BwvfXcR3pdbDjkheBELH63CooWnTZ1k5+MZfU0xwdbrc+zKkEPnbO593Lk7KE2RNr//mD5Ye5P/JUgIv2xB7gA==
 
 "@cspell/dict-python@^1.0.35":
-  version "1.0.35"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-1.0.35.tgz#0f9880626a1422cdd2be39b18086ae0cd59b4c3f"
-  integrity sha512-vVlx01SG8VjNHAQGaE/OGSShX1CoiXmdmCBsPX2sip6JmBluengGPtRPhpVLQOMxnXvTKg96eGtcnVRrYkVzag==
+  version "1.0.36"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-1.0.36.tgz#fea51fe43bba23631d8b900ac817e799c45f0999"
+  integrity sha512-nB79GPLh2EgRpqzkkjj1zT5/au+RERvP3NwNlFcu+1juc+dU5bUZ13qtoO2gfhrobkuCwSjOG9MLgiqs/4/sJg==
 
 "@cspell/dict-ruby@^1.0.14":
   version "1.0.14"
