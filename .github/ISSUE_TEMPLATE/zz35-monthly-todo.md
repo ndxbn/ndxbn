@@ -23,6 +23,10 @@ assignees: ndxbn
   - [紅蓮](https://jp.finalfantasyxiv.com/lodestone/character/433058/blog/4067712/)
   - [漆黒](https://jp.finalfantasyxiv.com/lodestone/character/433058/blog/4747021/)
 
+# メイプルストーリー
+
+- [ ] メインキャラのスロット拡張（ ETC ＞ 消費 ＝ 装備 ＞ 設置）
+
 # その他
 
 ## 購読している雑誌
