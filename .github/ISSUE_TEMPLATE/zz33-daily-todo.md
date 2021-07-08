@@ -45,12 +45,19 @@ assignees: ndxbn
 - [ ] グンヒルドディルーブラム
 
 # メイプルストーリー
+## 常設
 
 - [ ] [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
-- [ ] [Web メイポン](https://maplestory.nexon.co.jp/campaign/neo/precampaign/)
 - [ ] デイリーギフト
 - [ ] ユニオンコイン回収
+
+## 期間限定
+
+- [ ] [Web メイポン](https://maplestory.nexon.co.jp/campaign/neo/precampaign/)
+- [ ] ネオジェム
+
 <!--
+
 - [ ] シンボルデイリー
 - [ ] エルダスペクトラム
 - [ ] 腹ペコのムト
