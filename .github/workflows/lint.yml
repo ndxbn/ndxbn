@@ -6,6 +6,22 @@ on:
     branches: [master]
 
 jobs:
+  reformat:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        # Make sure the actual branch is checked out when running on pull requests
+        ref: ${{ github.head_ref }}
+    - name: Prettify code
+      uses: creyD/prettier_action@v3.3
+      with:
+        # This part is also where you can pass other options, for example:
+        prettier_options: -w -u **/*
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   main:
     runs-on: ubuntu-latest
     steps:
@@ -14,6 +30,7 @@ jobs:
         uses: actions/setup-node@v2.2.0
       - name: yarn install
         run: yarn
+
       - name: cspell
         run: yarn lint:cspell
       - name: cspell for ./.github
