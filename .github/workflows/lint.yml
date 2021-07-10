@@ -6,31 +6,32 @@ on:
     branches: [master]
 
 jobs:
-  reformat:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      with:
-        # Make sure the actual branch is checked out when running on pull requests
-        ref: ${{ github.head_ref }}
-    - name: Prettify code
-      uses: creyD/prettier_action@v3.3
-      with:
-        # This part is also where you can pass other options, for example:
-        prettier_options: -w -u **/* .github/*
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   main:
     runs-on: ubuntu-latest
     steps:
+      # 1. Reformat
+      ## 1.1 checkout
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+      ## 1.2 do reformat
+      - name: Prettify code
+        uses: creyD/prettier_action@v3.3
+        with:
+          prettier_options: -w -u **/* .github/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # 2. Linting
+      ## 2.1 checkout again to opt out push permission
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.2.0
       - name: yarn install
         run: yarn
-
+      ## 2.2 do lints
       - name: cspell
         run: yarn lint:cspell
       - name: cspell for ./.github
