@@ -1,0 +1,3 @@
+# omit .github directory
+## If exists some changed files under `.github` directory, GitHub Actions workflow would throw an error at `git push`!!
+.github/
