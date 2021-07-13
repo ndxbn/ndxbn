@@ -55,6 +55,7 @@ assignees: ndxbn
 
 - [ ] [Web メイポン](https://maplestory.nexon.co.jp/campaign/neo/precampaign/)
 - [ ] ネオジェム
+- [ ] ネオストーン
 
 <!--
 
