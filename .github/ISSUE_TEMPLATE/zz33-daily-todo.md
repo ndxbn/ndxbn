@@ -49,7 +49,6 @@ assignees: ndxbn
 
 - [ ] [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
 - [ ] デイリーギフト
-- [ ] ユニオンコイン回収
 
 ## 期間限定
 
