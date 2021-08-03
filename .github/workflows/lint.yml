@@ -28,7 +28,7 @@ jobs:
       ## 2.1 checkout again to opt out push permission
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.3.0
+        uses: actions/setup-node@v2.3.1
       - name: yarn install
         run: yarn
       ## 2.2 do lints
