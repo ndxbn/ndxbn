@@ -5,6 +5,7 @@
     ":rebaseStalePrs",
     ":respectLatest",
     ":prHourlyLimitNone",
+    ":disableDependencyDashboard",
     "group:linters",
     "preview:dockerVersions",
     "preview:dockerCompose"
