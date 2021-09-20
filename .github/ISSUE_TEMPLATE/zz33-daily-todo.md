@@ -115,3 +115,4 @@ assignees: ndxbn
 
 - [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
 - [ ] マンガ UP！（0000 JST）
+- [ ] ラジオ体操とリングフィットアドベンチャー
