@@ -5,7 +5,7 @@ title: "Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{
 labels: ffxiv, weekly, todo
 assignees: ndxbn
 ---
-
+[修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
 # FF14
 <!--
 ## 8 人レイド
@@ -34,8 +34,8 @@ assignees: ndxbn
 
 ## その他
 
+<!-- - [ ] アライアンスレイド（クリアしたら ☑）-->
 - [ ] マスクカーニバル ウィークリーターゲット
-- [ ] アライアンスレイド（クリアしたら ☑）
 - [ ] ソーチョー（クリアしたら ☑）
 - [ ] ドマ町人地（納品したら ☑）
 - [ ] アラガントームストーン（週制限に到達したら ☑）
