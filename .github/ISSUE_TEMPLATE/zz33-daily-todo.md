@@ -5,7 +5,7 @@ title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
 labels: ffxiv, daily, todo
 assignees: ndxbn
 ---
-
+[修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz33-daily-todo.md)
 # 家事
 
 - [ ] 洗濯機のフィルター掃除
@@ -41,8 +41,8 @@ assignees: ndxbn
 
 <!--
 - [ ] 水やり
--->
 - [ ] 24 人レイド（ミニオン目的）
+-->
 - [ ] 地図の取得
 - [ ] 冒険者小隊
 - [ ] ミニくじ
