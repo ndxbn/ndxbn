@@ -58,7 +58,6 @@ assignees: ndxbn
 ## 常設
 
 - [ ] [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
-- [ ] [ララメイポン | メイプルストーリー公式](https://maplestory.nexon.co.jp/campaign/onair/precampaign1/)
 
 <!--
 
