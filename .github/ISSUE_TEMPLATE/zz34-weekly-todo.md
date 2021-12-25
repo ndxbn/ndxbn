@@ -7,7 +7,6 @@ assignees: ndxbn
 ---
 [修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
 # FF14
-<!--
 ## 8 人レイド
 
 クリアしたら ☑
@@ -16,11 +15,11 @@ assignees: ndxbn
 - [ ] ノーマル 2
 - [ ] ノーマル 3
 - [ ] ノーマル 4
+<!--
 - [ ] 零式 1
 - [ ] 零式 2
 - [ ] 零式 3
 - [ ] 零式 4
-
 -->
 
 ## モブハン
