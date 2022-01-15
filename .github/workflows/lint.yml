@@ -18,7 +18,7 @@ jobs:
           ref: ${{ github.head_ref }}
       ## 1.2 do reformat
       - name: Prettify code
-        uses: creyD/prettier_action@v3.3
+        uses: creyD/prettier_action@v4.2
         with:
           prettier_options: -w -u .github/*
         env:
