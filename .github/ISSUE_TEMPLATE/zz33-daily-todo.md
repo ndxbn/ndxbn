@@ -47,13 +47,14 @@ assignees: ndxbn
 - [ ] 水やり
 - [ ] 24 人レイド（ミニオン目的）
 - [ ] グラカン納品
+- [ ] イシュガルド復興（１時間）
+- [ ] グンヒルドディルーブラム
 -->
 - [ ] 地図の取得
 - [ ] 冒険者小隊
 - [ ] ミニくじ
 - [ ] 蛮族クエ（受注したら ☑）
-- [ ] イシュガルド復興（１時間）
-- [ ] グンヒルドディルーブラム
+- [ ] FATE
 
 # メイプルストーリー
 ## 常設
@@ -113,4 +114,4 @@ assignees: ndxbn
 - [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
 - [ ] [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
 - [ ] マンガ UP！（0000 JST）
-- [ ] ラジオ体操とリングフィットアドベンチャー
+- [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
