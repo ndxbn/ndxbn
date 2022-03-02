@@ -29,6 +29,8 @@ assignees: ndxbn
 
 # その他
 
+- [ ] [今月の Yearly タスクの消化](https://github.com/ndxbn/ndxbn/issues/937)
+
 ## サイトの更新チェック
 
 - [ ] [アニメ CD とかゲームとかの発売予定のやつ](https://calendar.gameiroiro.com/text-index.php)
