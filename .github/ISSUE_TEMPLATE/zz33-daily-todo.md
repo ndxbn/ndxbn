@@ -123,3 +123,4 @@ assignees: ndxbn
 - [ ] [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
 - [ ] マンガ UP！（0000 JST）
 - [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
+- [ ] 政府インターネットテレビ 当日の更新分
