@@ -11,6 +11,10 @@ assignees: ndxbn
 
 - [ ] Monthly タスクリストの更新
 
+## 2 月
+
+- [ ] 花粉症アレルギーの薬を処方してもらいに行く
+
 ## 5 月
 
 - [ ] astar* professional のライセンス更新
