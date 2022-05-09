@@ -145,9 +145,9 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.2.tgz#0106063ef390dcd3fb1e69113f402735164b75d4"
-  integrity sha512-iFiz1DXJUlU/sFqGPc58790RoCFf7xVr5OxCUVy5cvGHvm5o5Cx1AZ4Gj9ugPJYUXfJjLcfsUJDhL2SkD5tV0g==
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.4.tgz#20abce3eabe048aa5d858de7b9475c6c290cdc1e"
+  integrity sha512-gblsvIPLNAK+pRR/Mn2m2kRQLVFeoORQJeaZKlGHWckA3s0iuTN49hSSTbK66k3aWlzhirtSoux7IdvT2RpgnQ==
 
 "@cspell/dict-filetypes@^2.0.1":
   version "2.0.1"
