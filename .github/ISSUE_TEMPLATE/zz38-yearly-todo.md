@@ -18,6 +18,7 @@ assignees: ndxbn
 ## 5 月
 
 - [ ] astar* professional のライセンス更新
+- [ ] GitHub Pro のライセンス更新（自動更新なので支払いのメールが来たら ✔️ ）
 
 ## 12 月
 
