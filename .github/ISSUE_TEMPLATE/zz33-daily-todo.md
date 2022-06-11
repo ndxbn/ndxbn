@@ -122,5 +122,5 @@ assignees: ndxbn
 - [ ] [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
 - [ ] マンガ UP！（0000 JST）
 - [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
-- [ ] 政府インターネットテレビ 当日の更新分
+- [ ] [政府インターネットテレビ](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnettv.gov-online.go.jp%2Frss%2Frss.xml) 当日の更新分
 - [ ] [GitHub Notifications](https://github.com/notifications)
