@@ -131,9 +131,9 @@
   integrity sha512-GkJdJv6cmzrKcmq2/oxTXjKF5uv71r4eTqnFmgPbNBW1t+G4VYpzOf0QrVQrhx2RC4DdW5XfcTf+iS0FxHOTmw==
 
 "@cspell/dict-docker@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-docker/-/dict-docker-1.1.0.tgz#16d4a6c0c27f402060fe8223a85d9eae517f08c7"
-  integrity sha512-2OI5srKxeoiOnAD34jGK2pDGbgeQDnBCuE64bM04Uct7QxPjIv1RDpWLa3VMWhFIzeoyNSNWwDB+x5ufVc6VXA==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-docker/-/dict-docker-1.1.1.tgz#f9cc1c732a9be2f31a5a4aa079d045798b97b01d"
+  integrity sha512-UEYoeRDm7oUN9yz1mYSozz6D4+2N14S/cd2Re9et6Xzq6yi62s4ky3knF92Of2weelADjnN41UA22VBhRAf7Sw==
 
 "@cspell/dict-dotnet@^2.0.1":
   version "2.0.1"
@@ -151,14 +151,14 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^2.2.5":
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.5.tgz#7a1c325d54a7c9b8171da6e61f095ad34395ff68"
-  integrity sha512-gRHem02ZY83AQUTYBxtiVNmtM6gWFCJKumRoAKLj7vWYelmNLcCBsMA3BOOOJ7cZNKCI04lDEdh0u2f2akKZtQ==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.6.tgz#13ce28c12a29620d3996d1015c8aa20060dd62b6"
+  integrity sha512-TJ4edLus8TV6Tr7ceOxHG5ZV2MhKJioteNT9jhdcSTdySsfQJjDAx6AIGiVVeRu5s9yR61oL5In7UyMCA80RWQ==
 
 "@cspell/dict-filetypes@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-filetypes/-/dict-filetypes-2.0.1.tgz#a77467dad8fee31c28d623f85a15ce6fca3e2fdc"
-  integrity sha512-bQ7K3U/3hKO2lpQjObf0veNP/n50qk5CVezSwApMBckf/sAVvDTR1RGAvYdr+vdQnkdQrk6wYmhbshXi0sLDVg==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-filetypes/-/dict-filetypes-2.0.2.tgz#4b05efbbaeab86f4f69c995d52c4b76803ed2ec0"
+  integrity sha512-do7/Iwxjx+FHybe6UTocsWNRF1ar4cwhQoV2K2YzYTm73CoU5LMEwi2LY0Mwp/mn90TKbpPPQGCJ0sRpvaZ4AA==
 
 "@cspell/dict-fonts@^2.0.0":
   version "2.0.0"
@@ -191,19 +191,19 @@
   integrity sha512-04K7cPTcbYXmHICfiob4gZA1yaj4hpfM+Nl5WIJ1EAZsSGHdqmGEF28GuCjyQ8ZeKiJAsPt/vXuLBbjxkHqZyQ==
 
 "@cspell/dict-html@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-3.0.1.tgz#d5d10ef9b62361d8250cf9fe8564606993faa9df"
-  integrity sha512-sbuFd+nSjgbrGf5eYwSddFhm1eLLePKWyH6Zn8Zb0OODrBK5e4vGn1/scI/MOH5a2IvNs8W9wp84uMBFJcQZtw==
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-3.0.2.tgz#acd0a06a9adcbff85d1ed6044c0636fb5294b078"
+  integrity sha512-ugMVQHZTvpYA/w8/E2dbSx2hdfFU9y91Omx40VUC6cNyF7jx00VKueK6gcRF3QZoB1PUhjla2YzxqRxuXI908A==
 
 "@cspell/dict-java@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-java/-/dict-java-3.0.2.tgz#796e1ab947c00b21871f66edd74e3fb181fd5de8"
-  integrity sha512-OUhtLruqN+ztDEViEQDw22L883xaignSZHyl7CnD8rTwcuhcaumdAhu4c3mygIDnFGtk/a+pk4ZaXk1ZINvK7g==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-java/-/dict-java-3.0.3.tgz#687dd9d85f05e99cf687d3fb29e9f6ea72dc73c7"
+  integrity sha512-aARF22BmO03YgV0robADNVf32KnvF/wMMoByYQk4IaQWh8kJ1s///S44aY/4n/Cg2tX/1kNa60VMkdCNFD7FPw==
 
 "@cspell/dict-latex@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-latex/-/dict-latex-2.0.5.tgz#4702ee23a4cb5bbbc694553858cbb38b5eb0df5d"
-  integrity sha512-r6aOaLWzvH3lZteVo/TiS6Ee2vng2qDwtvHLEHrzsq/SaIeHb6FoKJxnMpaNE1H85G/LMkG0LA1tMtl0C3JxsQ==
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-latex/-/dict-latex-2.0.6.tgz#9ebbb8087b0a0cee5e7e784633a17ce7c491c472"
+  integrity sha512-DCe/YlUMnY+/BaaHLIs2LYPgpWF4to5V9lggEkJy4CsHyD0WPqV4JpoaOMrcsK/jbUrD39T91NruwlcPJoo7xQ==
 
 "@cspell/dict-lorem-ipsum@^2.0.0":
   version "2.0.0"
@@ -256,9 +256,9 @@
   integrity sha512-qGqhYfFeoBOashv/l0Kj5o4ilyvfq0s+t+r32juPOkOnbHz+hzxnJo2tMMg/L/UdjVV7Y8ovg4LDBC/seVrMYQ==
 
 "@cspell/dict-rust@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-rust/-/dict-rust-2.0.0.tgz#89acc6c251164b09c424d23abb5ee560a4484ee6"
-  integrity sha512-EWlQivTKXMU3TTcq/Pi6KPKTQADknasQ700UrxRPzxhwQ4sKVZ88GDu6VZJlsbFUz8Vko289KS6wjiox/7WpmQ==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-rust/-/dict-rust-2.0.1.tgz#2923392a41784e76ee00b9456d581f86a83097fb"
+  integrity sha512-ATDpIh0VWpQdUIZa8zqqJY4wQz3q00BTXlQCodeOmObYSb23+L6KWWzJ8mKLgpbc1lqTkogWrqxiCxlrCmqNmg==
 
 "@cspell/dict-scala@^2.0.0":
   version "2.0.0"
