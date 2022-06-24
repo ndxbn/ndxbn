@@ -9,16 +9,16 @@ assignees: ndxbn
 
 ## 1 月
 
-- [x] Monthly タスクリストの更新
+- [ ] Monthly タスクリストの更新
 
 ## 2 月
 
-- [x] 花粉症の処方をしてもらう
+- [ ] 花粉症の処方をしてもらう
 
 ## 5 月
 
-- [x] astar* professional のライセンス更新
-- [x] GitHub Pro のライセンス更新（自動更新なので支払いのメールが来たら ✔️ ）
+- [ ] astar* professional のライセンス更新
+- [ ] GitHub Pro のライセンス更新（自動更新なので支払いのメールが来たら ✔️ ）
 
 ## 6 月
 
