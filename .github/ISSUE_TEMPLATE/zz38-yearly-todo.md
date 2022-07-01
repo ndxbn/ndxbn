@@ -10,6 +10,7 @@ assignees: ndxbn
 ## 1 月
 
 - [ ] Monthly タスクリストの更新
+- [ ] Slack のライセンス更新（ 19 日にクレカから自動更新）
 
 ## 2 月
 
@@ -24,6 +25,10 @@ assignees: ndxbn
 
 - [ ] 室内換気システムのメンテナンス
 
+## 11 月
+
+- [ ] Jetbrains All Product Pack のライセンス更新（ 4 日にクレカから自動更新）
+
 ## 12 月
 
 - [ ] 室内換気システムのメンテナンス
@@ -31,6 +36,3 @@ assignees: ndxbn
 ## （不明）
 
 判明し次第、該当する月のチェックリストへ移動
-
-- [ ] Slack のライセンス更新
-- [ ] Jetbrains All Product Pack のライセンス更新
