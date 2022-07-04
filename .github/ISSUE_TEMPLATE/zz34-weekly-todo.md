@@ -17,6 +17,7 @@ assignees: ndxbn
 - [ ] ソーチョー（クリアしたら ☑）
 - [ ] マスクカーニバル ウィークリーターゲット
 - [ ] ドマ町人地（納品したら ☑）
+- [ ] AW
 - [ ] アラガントームストーン（週制限に到達したら ☑）
 - [ ] ジャンボくじ（土曜）
 - [ ] ファッションチェック（土曜） [blogbear.xyz](https://www.blogbear.xyz/article/category/fashioncheck)
