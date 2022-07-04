@@ -18,7 +18,7 @@ assignees: ndxbn
 
 ## 5 月
 
-- [ ] astar* professional のライセンス更新
+- [ ] [astar* professional のライセンス更新](https://astah.change-vision.com/ja/faq/faq-license/pro-renew.html)
 - [ ] GitHub Pro のライセンス更新（自動更新なので支払いのメールが来たら ✔️ ）
 
 ## 6 月
