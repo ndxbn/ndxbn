@@ -63,13 +63,12 @@ assignees: ndxbn
 - [ ] 蛮族クエ（受注したら ☑）
 - [ ] FATE
 
+<!--
 # メイプルストーリー
 ## 常設
-
-- [ ] [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
+--?
 
 <!--
-
 - [ ] シンボルデイリー
 - [ ] エルダスペクトラム
 - [ ] 腹ペコのムト
@@ -118,10 +117,12 @@ assignees: ndxbn
 
 # その他
 
-- [ ] [雀魂](https://game.mahjongsoul.com)
-- [ ] [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
-- [ ] [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
-- [ ] マンガ UP！（0000 JST）
 - [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
 - [ ] [政府インターネットテレビ](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnettv.gov-online.go.jp%2Frss%2Frss.xml) 当日の更新分
-- [ ] [GitHub Notifications](https://github.com/notifications)
+- [ ] すぐに終わるもの
+  - [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
+  - [雀魂](https://game.mahjongsoul.com) (0600 JST) <!-- 3 日分までストックできるため -->
+  - [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
+  - [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
+  - [GitHub Notifications](https://github.com/notifications)
+  - マンガ UP！（0000 JST）
