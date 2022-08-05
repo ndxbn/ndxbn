@@ -55,7 +55,7 @@ assignees: ndxbn
 
 週末にやる
 
-- [ ] [onetab のバックアップ](chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/import-export.html) を [GitHub にする](https://github.com/ndxbn/ndxbn/edit/master/backups/onetab.txt)
+- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/master/backups/onetab.txt)
 - [ ] `cup -y all` ノート PC
 - [ ] `cup -y all` メイン PC
 - [ ] `apt update -y && apt upgrade -y` メイン PC
