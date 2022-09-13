@@ -24,6 +24,7 @@
     "ignorePaths": [
         "package.json",
         "yarn.lock",
-        "node_modules"
+        "node_modules",
+        "backups/onetab.txt"
     ]
 }
