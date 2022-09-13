@@ -60,4 +60,4 @@ assignees: ndxbn
 - [ ] `cup -y all` メイン PC
 - [ ] `apt update -y && apt upgrade -y` メイン PC
 - [ ] `apt update -y && apt upgrade -y` 各サーバ
-- [ ] Google Keep にあるタスクを Issue に移す
+- [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
