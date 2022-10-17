@@ -272,9 +272,9 @@
   integrity sha512-MUwA2YKpqaQOSR4V1/CVGRNk8Ii5kf6I8Ch+4/BhRZRQXuwWbi21rDRYWPqdQWps7VNzAbbMA+PQDWsD5YY38g==
 
 "@cspell/dict-software-terms@^2.2.11":
-  version "2.2.12"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.2.12.tgz#2cdf890409311144c2b0f67d915167e851832b2d"
-  integrity sha512-wVVy4on8Uq5VAWm3cqrrhewTRRbpmNxtmTURGQ5rT6FqUtJvZ7W2Pj3QquzXsA9zSFZhGFQR3U7IdFesET9yAg==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.3.0.tgz#1953b6be012fe6bb6849ad51bafa04b3661e57bc"
+  integrity sha512-rl+quUw68IxjWgeX/QDMgQsImZ1DaKzFyYMSGrCNcNPp4b4SMLwHCKoJ97/uOnUnw0jaBxueXoqp2iyN/QiOVw==
 
 "@cspell/dict-sql@^1.0.4":
   version "1.0.4"
