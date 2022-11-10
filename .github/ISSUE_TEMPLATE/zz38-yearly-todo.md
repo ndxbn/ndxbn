@@ -25,6 +25,10 @@ assignees: ndxbn
 
 - [ ] 室内換気システムのメンテナンス
 
+## 10 月
+
+- [ ] PlayStation Plus 12ヶ月利用権の更新の確認。21 日付けで更新、メールが来ます
+
 ## 11 月
 
 - [ ] Jetbrains All Product Pack のライセンス更新（ 4 日にクレカから自動更新）
