@@ -655,9 +655,9 @@ fs.realpath@^1.0.0:
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
 
 gensequence@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/gensequence/-/gensequence-4.0.2.tgz#7c6147cf04451e9f6efe3872be9d46bb8d9c2603"
-  integrity sha512-mQiFskYFPFDSUpBJ/n3ebAV2Ufu6DZGvUPXzyWYzFfJr6/DyOOZVnjx6VTWE4y0RLvYWnc5tZq5sCjzEWhRjqQ==
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/gensequence/-/gensequence-4.0.3.tgz#69ce05b4d7507ee667d9641377a0df834cdc350b"
+  integrity sha512-izr+MKqJKjexkvLiPGhW96elQX8TuUR/su/xzILxjqzU1RDz1n1ZbqwDUnNFaRcq0gFR3oQfNH2JOH4Je1x/QA==
 
 get-stdin@^8.0.0:
   version "8.0.0"
@@ -1015,9 +1015,9 @@ universalify@^2.0.0:
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
 vscode-languageserver-textdocument@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.7.tgz#16df468d5c2606103c90554ae05f9f3d335b771b"
-  integrity sha512-bFJH7UQxlXT8kKeyiyu41r22jCZXG8kuuVVA33OEJn1diWOZK5n8zBSPZFHVBOu8kXZ6h0LIRhf5UnCo61J4Hg==
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.8.tgz#9eae94509cbd945ea44bca8dcfe4bb0c15bb3ac0"
+  integrity sha512-1bonkGqQs5/fxGT5UchTgjGVnfysL0O8v1AYMBjqTbWQTFn721zaPGDYFkOKtfDgFiSgXM3KwaG3FMGfW4Ed9Q==
 
 vscode-uri@^3.0.6:
   version "3.0.6"
