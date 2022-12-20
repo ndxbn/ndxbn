@@ -1,7 +1,7 @@
 ---
 name: My Yearly Task List
 about: （このテンプレートは手動では使いません）
-title: "Yearly: {{ date | date('add', 9, 'hours') | date('YYYY') }}"
+title: "Yearly: {{ date | date('add', 1, 'year') | date('YYYY') }}"
 labels: yearly, todo
 assignees: ndxbn
 ---
