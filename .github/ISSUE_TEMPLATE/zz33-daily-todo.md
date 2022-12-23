@@ -1,4 +1,6 @@
 ---
+name: My Daily Task List
+about: （このテンプレートは手動では使いません）
 title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
 labels: ffxiv, daily, todo
 assignees: ndxbn
