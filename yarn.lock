@@ -125,9 +125,9 @@
   integrity sha512-1JMofhLK+4p4KairF75D3A924m5ERMgd1GvzhwK2geuYgd2ZKuGW72gvXpIV7aGf52E3Uu1kDXxxGAiZ5uVG7g==
 
 "@cspell/dict-css@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-css/-/dict-css-4.0.1.tgz#f5abd92a7f961be0d893d0a89f99e86ff91ed709"
-  integrity sha512-jxsncdeiN/wkZGqU8iLtn24n3e0Fwugj6T48rjWUItn/i3C9j2W7RXOVqd7ZIeWeV8ibyq0WWiwA8Ajg6XaKpA==
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-css/-/dict-css-4.0.2.tgz#0691622a931a8f3e18d94f006669ba12619f0f62"
+  integrity sha512-0NxBcB36b1Jy23Tf5YLrD8+PvBhE3FgBci3rwtw2DEqVigEX6uodecfoh9I4kcU8PZlVsDujrUfwgzYCWh/feQ==
 
 "@cspell/dict-dart@^2.0.1":
   version "2.0.1"
@@ -160,9 +160,9 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^4.1.2":
-  version "4.1.4"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-4.1.4.tgz#779e1d2101f487694cf798a1355126bf9072f747"
-  integrity sha512-smRT8Rx38+z1kiNl3kBvadoPdYgxCovxw2rsuO4/XtLRlSEcGPQgYJ0CCdcXMd9bhMY5roXPCcvYkBsyUVvg4A==
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-4.2.0.tgz#21489afca8af70533a815de0d83a2dbe85d6e6f4"
+  integrity sha512-n5hz8vQ6FAp4f+ZW/raN/f4G69V1LrhNZ7kgXM+Nirmkrz16oXmd1defTulbd7yf2T2XU8DmsrTnkuRG9mSQKw==
 
 "@cspell/dict-filetypes@^3.0.0":
   version "3.0.0"
@@ -175,9 +175,9 @@
   integrity sha512-zTZni0AbwBVG1MKA0WpwPyIJPVF+gp6neXDQzHcu4RUnuQ4uDu0PVEuZjGHCJWwwFoR5JmkqZxVSg1y3ufJODA==
 
 "@cspell/dict-fullstack@^3.0.0":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.0.1.tgz#c34e1d0ad2fa46edb4ab385327b642578d47d0aa"
-  integrity sha512-r077HcbxGQ0gSjs4eqryvb9cu8/Noe7pzl9QksxFIEaMgyP180DEaCLAOnat4KHl7X0wntipY+naY5PVRQUI9A==
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.1.1.tgz#d1d35fd104fe6e0396ee3066f1c4164ce180dad1"
+  integrity sha512-w2n3QvqEiufmvlBuNduury/pySrhfOcWFfCvvpUXTJvWbfRVGkt6ANZuTuy3/7Z2q4GYUqsd139te4Q8m0jRHQ==
 
 "@cspell/dict-gaming-terms@^1.0.3":
   version "1.0.4"
@@ -285,9 +285,9 @@
   integrity sha512-sIiCQDIMMnNns/fzD61z5npbh5pypaKq07Orqe0+eRfdQpika8iRSGUGFHVbtdd1JzB1DyTCV2e8OwdaQiXqJQ==
 
 "@cspell/dict-software-terms@^3.0.7":
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.0.9.tgz#ce6cdf697e052ac04bb7338e667ea7ed62a9ebad"
-  integrity sha512-NZ/bpYIrzKY3yHnVNT/HD4KGXIodu8qviB+Gqike96qe85khnx6zk1bYvMXe2sw5pLUyWzlEevaQunNtVYUXDw==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.0.tgz#1928ef6c459fa89e71391a3c686c2812fef437a7"
+  integrity sha512-KQVpHmuGJprkriClbwTf1TfCjkCkS+GqLBO8ytltmYylCHZumJMfA3sM10e3zmsVIlungrtNLG9xz5opIdm/2A==
 
 "@cspell/dict-sql@^2.0.1":
   version "2.0.1"
@@ -689,9 +689,9 @@ glob@^7.1.3:
     path-is-absolute "^1.0.0"
 
 glob@^8.0.3:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/glob/-/glob-8.0.3.tgz#415c6eb2deed9e502c68fa44a272e6da6eeca42e"
-  integrity sha512-ull455NHSHI/Y1FqGaaYFaLGkNMMJbavMrEGFXG/PGrg6y7sutWHUHrz6gy6WEBH6akM1M414dWKCNs+IhKdiQ==
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-8.1.0.tgz#d388f656593ef708ee3e34640fdfb99a9fd1c33e"
+  integrity sha512-r8hpEjiQEYlF2QU0df3dS+nxxSIreXQS1qRhMJM0Q5NDdR386C7jb7Hwwod8Fgiuex+k0GFjgft18yvxm5XoCQ==
   dependencies:
     fs.realpath "^1.0.0"
     inflight "^1.0.4"
@@ -845,16 +845,16 @@ minimatch@^3.1.1:
     brace-expansion "^1.1.7"
 
 minimatch@^5.0.1:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.2.tgz#0939d7d6f0898acbd1508abe534d1929368a8fff"
-  integrity sha512-bNH9mmM9qsJ2X4r2Nat1B//1dJVcn3+iBLa3IgqJ7EbGaDNepL9QSHOxN4ng33s52VMMhhIfgCYDk3C4ZmlDAg==
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.4.tgz#4e2d39d872684e97b309a9104251c3f1aa4e9d1c"
+  integrity sha512-U0iNYXt9wALljzfnGkhFSy5sAC6/SCR3JrHrlsdJz4kF8MvhTRQNiC59iUi1iqsitV7abrNAJWElVL9pdnoUgw==
   dependencies:
     brace-expansion "^2.0.1"
 
 node-fetch@^2.6.7:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
-  integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
+  version "2.6.8"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.8.tgz#a68d30b162bc1d8fd71a367e81b997e1f4d4937e"
+  integrity sha512-RZ6dBYuj8dRSfxpUSu+NsdF1dpPpluJxwOp+6IoDp/sH2QNDSvurYsAa+F1WxY2RjA1iP93xhcsUoYbF2XBqVg==
   dependencies:
     whatwg-url "^5.0.0"
 
