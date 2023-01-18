@@ -14,7 +14,6 @@ assignees: ndxbn
 - [ ] トイレ掃除（初週）
   - 大盛り泡
   - ブルーレット
-- [ ] トイレ掃除（２回目）
   - トイレスタンプ
 
 # FF14
@@ -23,34 +22,6 @@ assignees: ndxbn
   - [紅蓮](https://jp.finalfantasyxiv.com/lodestone/character/433058/blog/4067712/)
   - [漆黒](https://yuworks.net/ff14_5-5_bigfish/)
 
-# メイプルストーリー
-
-// 特になし
-
 # その他
 
 - [ ] [今月の Yearly タスクの消化](https://github.com/ndxbn/ndxbn/issues/937)
-
-## サイトの更新チェック
-
-- [ ] [アニメ CD とかゲームとかの発売予定のやつ](https://calendar.gameiroiro.com/text-index.php)
-  - アニメCD
-  - ゲームCD
-  - アニメDVD・ブルーレイ
-  - 雑誌（コミック・アニメ・BL/ゲーム情報/ライトノベル）
-  - Switch
-  - PS5/PS4
-  - PC
-  - フィギュア
-
-## 購読している雑誌
-
-読んだら ☑
-
-- [ ] ヤングガンガン 1
-- [ ] ヤングガンガン 2
-- [ ] 少年ガンガン
-- [ ] ビックガンガン
-- [ ] 花とゆめ 1
-- [ ] 花とゆめ 2
-- [ ] コミックキューン
