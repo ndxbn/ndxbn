@@ -181,9 +181,9 @@
   integrity sha512-zTZni0AbwBVG1MKA0WpwPyIJPVF+gp6neXDQzHcu4RUnuQ4uDu0PVEuZjGHCJWwwFoR5JmkqZxVSg1y3ufJODA==
 
 "@cspell/dict-fullstack@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.1.1.tgz#d1d35fd104fe6e0396ee3066f1c4164ce180dad1"
-  integrity sha512-w2n3QvqEiufmvlBuNduury/pySrhfOcWFfCvvpUXTJvWbfRVGkt6ANZuTuy3/7Z2q4GYUqsd139te4Q8m0jRHQ==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.1.2.tgz#6b9867779a527f000c7e97837e391699f7606998"
+  integrity sha512-Xw9DkEGGxI/6Wce1sThnuiO2JDjRxMQle1EOxVPf7mpsLjVHermKhSysK70ujxB2jc93rhY9ar2+5xlizapxig==
 
 "@cspell/dict-gaming-terms@^1.0.4":
   version "1.0.4"
