@@ -36,6 +36,7 @@ assignees: ndxbn
 ## 12 月
 
 - [ ] 室内換気システムのメンテナンス
+- [ ] [monthly タスクにある Yearly タスクへのリンクを更新](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz35-monthly-todo.md)
 
 ## （不明）
 
