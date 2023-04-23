@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "cspell": "6.31.1",
-    "prettier": "2.8.7"
+    "prettier": "2.8.8"
   }
 }
