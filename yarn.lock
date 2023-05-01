@@ -106,14 +106,14 @@
   integrity sha512-8czAa/Mh96wu2xr0RXQEGMTBUGkTvYn/Pb0o+gqOO1YW+poXGQc3gx0YPqILDryP/KCERrNvkWUJz3iGbvwC2A==
 
 "@cspell/dict-companies@^3.0.9":
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.9.tgz#dfc35ad35478c8bee20a8ecd9f7509c359fe334b"
-  integrity sha512-wSkVIJjk33Sm3LhieNv9TsSvUSeP0R/h8xx06NqbMYF43w9J8hZiMHlbB3FzaSOHRpXT5eBIJBVTeFbceZdiqg==
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.10.tgz#8abe386ecf7ff14c7dc62d1f526afac5a8a3bd6f"
+  integrity sha512-LgPi7t9cMc2gBL63jkx/H3LAAtM/DjgZEsnmYmGqrCPWYVmKY1Y4sH2PBaV2ocE9CypV83M0DellGiUNb0kmug==
 
 "@cspell/dict-cpp@^5.0.2":
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-cpp/-/dict-cpp-5.0.2.tgz#ab6fd2b91a08c30602426ac782a4855f239cd1e7"
-  integrity sha512-Q0ZjfhrHHfm0Y1/7LMCq3Fne/bhiBeBogUw4TV1wX/1tg3m+5BtaW/7GiOzRk+rFsblVj3RFam59VJKMT3vSoQ==
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-cpp/-/dict-cpp-5.0.3.tgz#231c03019dba4db59bcfee0fda5a710d70569052"
+  integrity sha512-7sx/RFsf0hB3q8chx8OHYl9Kd+g0pqA1laphwaAQ+/jPwoAreYT3kNQWbJ3bIt/rMoORetFSQxckSbaJXwwqpw==
 
 "@cspell/dict-cryptocurrencies@^3.0.1":
   version "3.0.1"
@@ -126,9 +126,9 @@
   integrity sha512-1JMofhLK+4p4KairF75D3A924m5ERMgd1GvzhwK2geuYgd2ZKuGW72gvXpIV7aGf52E3Uu1kDXxxGAiZ5uVG7g==
 
 "@cspell/dict-css@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-css/-/dict-css-4.0.5.tgz#2233138a03c163f82b0f6fbe0cdd2aada3ca4afc"
-  integrity sha512-z5vw8nJSyKd6d3i5UmMNoVcAp0wxvs9OHWOmAeJKT9fO3tok02gK24VZhcJ0NJtiKdHQ2zRuzdfWl51wdAiY6A==
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-css/-/dict-css-4.0.6.tgz#39cf199e68d6e17b9518938fa64368cec2f7f9ca"
+  integrity sha512-2Lo8W2ezHmGgY8cWFr4RUwnjbndna5mokpCK/DuxGILQnuajR0J31ANQOXj/8iZM2phFB93ZzMNk/0c04TDfSQ==
 
 "@cspell/dict-dart@^2.0.2":
   version "2.0.2"
@@ -266,9 +266,9 @@
   integrity sha512-baKkbs/WGEV2lCWZoL0KBPh3uiPcul5GSDwmXEBAsR5McEW52LF94/b7xWM0EmSAc/y8ODc5LnPYC7RDRLi6LQ==
 
 "@cspell/dict-python@^4.0.2":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.0.3.tgz#408295135f3cc7beb8471a41af2ffc5a16c118bc"
-  integrity sha512-tUEMEbtV5kjuiX//K1SFo4ayO6q+bY9ghqTAo3bdlraZy59MFx8KVLYHnRndVqGwM8rRwRhp9Kmb6boAnBl+Kw==
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.0.4.tgz#9d327ee40e3654c891fc508b40f939fc81d480e1"
+  integrity sha512-whCrxsALD66PxSbxZ++xV1HQzxpRZMiX6LXEkZlj4gWuptrzyZUdTMiI8EqVEVfyf5G4EW7HNCTz35kNL5Zl+w==
 
 "@cspell/dict-r@^2.0.1":
   version "2.0.1"
@@ -291,9 +291,9 @@
   integrity sha512-ph0twaRoV+ylui022clEO1dZ35QbeEQaKTaV2sPOsdwIokABPIiK09oWwGK9qg7jRGQwVaRPEq0Vp+IG1GpqSQ==
 
 "@cspell/dict-software-terms@^3.1.6":
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.6.tgz#27a6fd2919e7118bb793e541960ea1eeed6d0b3c"
-  integrity sha512-w46+pIMRVtrDuTZXK/YxDP5NL5yVoX0ImEPO0s9WbxdyyfhzAF3sGYHBGN/50OGLHExcqe6Idb9feoRC9mCLxw==
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.8.tgz#f222c19236ac1d5d538053992fc2da2660620d52"
+  integrity sha512-gXJWSqnr8U50wHo/tpplLaZUQBQQGOwaJFHyMhN+DVNO92setoApHQ0zSqy4KSSkfvdbgYP0nPAj0MAo9/TvOw==
 
 "@cspell/dict-sql@^2.1.0":
   version "2.1.0"
