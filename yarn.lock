@@ -106,9 +106,9 @@
   integrity sha512-8czAa/Mh96wu2xr0RXQEGMTBUGkTvYn/Pb0o+gqOO1YW+poXGQc3gx0YPqILDryP/KCERrNvkWUJz3iGbvwC2A==
 
 "@cspell/dict-companies@^3.0.9":
-  version "3.0.12"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.12.tgz#b5b89aa0d9f41ad6a22e8c3ebae65933a8ae225d"
-  integrity sha512-JZlTFHXMShWfDT8zKhXk2xv+/Wam2j4/Au7QvHwkjTWKgAgc6DMRy9mgI09IJ2zNouM5O0mE+M5OdJvJasXHQQ==
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.13.tgz#81a6385d001a48fd23bfa1c6643f86067e6f90dd"
+  integrity sha512-7fYRZOaa2fBGXdIessWYT0/L28k4Vj3V+xE5ZMog58mY4Yrp7lAkArIga0xgi4fYqMupPkOjOTeALAqWWzEgVA==
 
 "@cspell/dict-cpp@^5.0.2":
   version "5.0.3"
@@ -291,9 +291,9 @@
   integrity sha512-ph0twaRoV+ylui022clEO1dZ35QbeEQaKTaV2sPOsdwIokABPIiK09oWwGK9qg7jRGQwVaRPEq0Vp+IG1GpqSQ==
 
 "@cspell/dict-software-terms@^3.1.6":
-  version "3.1.10"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.10.tgz#030a13679a543c5a0914d1f8bd53f2c29b69d8e6"
-  integrity sha512-BWzpmXeNehVbn5ZgEvx/gNZrLt+yyQEU4lQkV+ojg9Os5fCIoVBL1tAGFH1ljDhk625b7zAqFwtS5XseYNUlbA==
+  version "3.1.11"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.11.tgz#1c69387da6f991123d9e7532b03b73486526cbed"
+  integrity sha512-3T8Q90YtkHTO49gEI8ALQhOt5Ae1MpUzeo8s0THVXmE0tXfD24ASgdiKcKiAjjokJAj4Bs9Lkb4NcaBhXq5+rw==
 
 "@cspell/dict-sql@^2.1.0":
   version "2.1.0"
