@@ -3,23 +3,23 @@
 
 
 "@babel/code-frame@^7.0.0":
-  version "7.21.4"
-  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.21.4.tgz#d0fa9e4413aca81f2b23b9442797bda1826edb39"
-  integrity sha512-LYvhNKfwWSPpocw8GI7gpK2nq3HSDuEPC/uSYaALSJu9xjsalaaYFOq0Pwt5KmVqwEbZlDu81aLXwBOmD/Fv9g==
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.22.5.tgz#234d98e1551960604f1246e6475891a570ad5658"
+  integrity sha512-Xmwn266vad+6DAqEB2A6V/CcZVp62BbwVmcOJc2RPuwih1kw02TjQvWVWlcKGbBPd+8/0V5DEkOcizRGYsspYQ==
   dependencies:
-    "@babel/highlight" "^7.18.6"
+    "@babel/highlight" "^7.22.5"
 
-"@babel/helper-validator-identifier@^7.18.6":
-  version "7.19.1"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.19.1.tgz#7eea834cf32901ffdc1a7ee555e2f9c27e249ca2"
-  integrity sha512-awrNfaMtnHUr653GgGEs++LlAvW6w+DcPrOliSMXWCKo597CwL5Acf/wWdNkf/tfEQE3mjkeD1YOVZOUV/od1w==
+"@babel/helper-validator-identifier@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.22.5.tgz#9544ef6a33999343c8740fa51350f30eeaaaf193"
+  integrity sha512-aJXu+6lErq8ltp+JhkJUfk1MTGyuA4v7f3pA+BJ5HLfNC6nAQ0Cpi9uOquUj8Hehg0aUiHzWQbOVJGao6ztBAQ==
 
-"@babel/highlight@^7.18.6":
-  version "7.18.6"
-  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.18.6.tgz#81158601e93e2563795adcbfbdf5d64be3f2ecdf"
-  integrity sha512-u7stbOuYjaPezCuLj29hNW1v64M2Md2qupEKP1fHc7WdOA3DgLh37suiSrZYY7haUB7iBeQZ9P1uiRF359do3g==
+"@babel/highlight@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.22.5.tgz#aa6c05c5407a67ebce408162b7ede789b4d22031"
+  integrity sha512-BSKlD1hgnedS5XRnGOljZawtag7H1yPfQp0tdNJCHoH6AZ+Pcm9VvkrK59/Yy593Ypg0zMxH2BxD1VPYUQ7UIw==
   dependencies:
-    "@babel/helper-validator-identifier" "^7.18.6"
+    "@babel/helper-validator-identifier" "^7.22.5"
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
@@ -106,9 +106,9 @@
   integrity sha512-8czAa/Mh96wu2xr0RXQEGMTBUGkTvYn/Pb0o+gqOO1YW+poXGQc3gx0YPqILDryP/KCERrNvkWUJz3iGbvwC2A==
 
 "@cspell/dict-companies@^3.0.9":
-  version "3.0.13"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.13.tgz#81a6385d001a48fd23bfa1c6643f86067e6f90dd"
-  integrity sha512-7fYRZOaa2fBGXdIessWYT0/L28k4Vj3V+xE5ZMog58mY4Yrp7lAkArIga0xgi4fYqMupPkOjOTeALAqWWzEgVA==
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.15.tgz#ff1d8b712a38cabc4535b4bb99338f81efe3c0a1"
+  integrity sha512-SbSy8/YjRHNqAx8H+r5C2FxYbmW5bTDa1acqWIJxUkwACJIzwwOrtK9WWQVhiTtOGo7BVYXydXDgCBFf2H8+9A==
 
 "@cspell/dict-cpp@^5.0.2":
   version "5.0.3"
@@ -134,6 +134,11 @@
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@cspell/dict-dart/-/dict-dart-2.0.2.tgz#714285f4f8bd304c1c477779ccbbfae5949819d7"
   integrity sha512-jigcODm7Z4IFZ4vParwwP3IT0fIgRq/9VoxkXfrxBMsLBGGM2QltHBj7pl+joX+c4cOHxfyZktGJK1B1wFtR4Q==
+
+"@cspell/dict-data-science@^1.0.0":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-data-science/-/dict-data-science-1.0.2.tgz#e91c04def7956add354de9e856dca4370aac91ed"
+  integrity sha512-ZyOumj/4HKXc8q0u8aa0nvGE/nBTCbiU3BA+etqs5ghh421uUwKcXN1bgJM/L/MwOihdivvTbSWmK+134BCpUw==
 
 "@cspell/dict-django@^4.0.2":
   version "4.0.2"
@@ -196,9 +201,9 @@
   integrity sha512-n1AxyX5Kgxij/sZFkxFJlzn3K9y/sCcgVPg/vz4WNJ4K9YeTsUmyGLA2OQI7d10GJeiuAo2AP1iZf2A8j9aj2w==
 
 "@cspell/dict-golang@^6.0.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-golang/-/dict-golang-6.0.1.tgz#86496bac8566fa97015f62cc81e6ec96bd98500f"
-  integrity sha512-Z19FN6wgg2M/A+3i1O8qhrGaxUUGOW8S2ySN0g7vp4HTHeFmockEPwYx7gArfssNIruw60JorZv+iLJ6ilTeow==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-golang/-/dict-golang-6.0.2.tgz#dcba58b9e658c1cc713c19965a358185d15d1987"
+  integrity sha512-5pyZn4AAiYukAW+gVMIMVmUSkIERFrDX2vtPDjg8PLQUhAHWiVeQSDjuOhq9/C5GCCEZU/zWSONkGiwLBBvV9A==
 
 "@cspell/dict-haskell@^4.0.1":
   version "4.0.1"
@@ -266,9 +271,11 @@
   integrity sha512-baKkbs/WGEV2lCWZoL0KBPh3uiPcul5GSDwmXEBAsR5McEW52LF94/b7xWM0EmSAc/y8ODc5LnPYC7RDRLi6LQ==
 
 "@cspell/dict-python@^4.0.2":
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.0.6.tgz#e007d02833fc857dd80594d9570a2226fd0f8525"
-  integrity sha512-24AhYyTZdOTLqkoiwXlEZrqEHkOwmePWQqRc9YigV9X69EtzBMrdMhYBvkJCVnQZD2ckT05U3A36YFYaxZ39Pg==
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.1.0.tgz#f9102d847dd7c5c35360ea00a889b5a13324d86a"
+  integrity sha512-H4g3c25axmm0rvcZ/Dy+r+nKbhIeVdhe0OxlOGH8rolDiiP12ulh4Asnz07kKvYZ55sGCtXqzJ3YTzExwIR6Tw==
+  dependencies:
+    "@cspell/dict-data-science" "^1.0.0"
 
 "@cspell/dict-r@^2.0.1":
   version "2.0.1"
@@ -291,9 +298,9 @@
   integrity sha512-ph0twaRoV+ylui022clEO1dZ35QbeEQaKTaV2sPOsdwIokABPIiK09oWwGK9qg7jRGQwVaRPEq0Vp+IG1GpqSQ==
 
 "@cspell/dict-software-terms@^3.1.6":
-  version "3.1.11"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.11.tgz#1c69387da6f991123d9e7532b03b73486526cbed"
-  integrity sha512-3T8Q90YtkHTO49gEI8ALQhOt5Ae1MpUzeo8s0THVXmE0tXfD24ASgdiKcKiAjjokJAj4Bs9Lkb4NcaBhXq5+rw==
+  version "3.1.15"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.15.tgz#15d1112b5ac3d7d6deeee24f50ea972f128364cc"
+  integrity sha512-EHnLozXWeJr3mUzLz8uH58EvnQTPZ7Y4wHDDxbQTF+QIbu41mLbPjgN/fU1pHAEsV4BzDc08E0EzAZlHxJfEKQ==
 
 "@cspell/dict-sql@^2.1.0":
   version "2.1.0"
