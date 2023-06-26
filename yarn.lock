@@ -136,9 +136,9 @@
   integrity sha512-jigcODm7Z4IFZ4vParwwP3IT0fIgRq/9VoxkXfrxBMsLBGGM2QltHBj7pl+joX+c4cOHxfyZktGJK1B1wFtR4Q==
 
 "@cspell/dict-data-science@^1.0.0":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-data-science/-/dict-data-science-1.0.2.tgz#e91c04def7956add354de9e856dca4370aac91ed"
-  integrity sha512-ZyOumj/4HKXc8q0u8aa0nvGE/nBTCbiU3BA+etqs5ghh421uUwKcXN1bgJM/L/MwOihdivvTbSWmK+134BCpUw==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-data-science/-/dict-data-science-1.0.3.tgz#9decc3f2b7fe940159613ce7122be9366a83b07d"
+  integrity sha512-rnm9dCvqNDacSWB6V6S6o1fHd4jkUI0oNwI2D9HCA2PgsI8I00d7hAWyOXiwTYpbkSdUjElEk8wvEMJDRhttnQ==
 
 "@cspell/dict-django@^4.0.2":
   version "4.0.2"
@@ -271,9 +271,9 @@
   integrity sha512-baKkbs/WGEV2lCWZoL0KBPh3uiPcul5GSDwmXEBAsR5McEW52LF94/b7xWM0EmSAc/y8ODc5LnPYC7RDRLi6LQ==
 
 "@cspell/dict-python@^4.0.2":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.1.0.tgz#f9102d847dd7c5c35360ea00a889b5a13324d86a"
-  integrity sha512-H4g3c25axmm0rvcZ/Dy+r+nKbhIeVdhe0OxlOGH8rolDiiP12ulh4Asnz07kKvYZ55sGCtXqzJ3YTzExwIR6Tw==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.1.1.tgz#c9e74abebfe6d55b33ac76cde1919bd6ad1175b8"
+  integrity sha512-gllGfnunCC3HhNuiF/e8OHq+EZG3bErydmnE1TlvSSngChLo/0O46hD7U+chHyTakZ6z4ancH5O+0cQ78e8XDA==
   dependencies:
     "@cspell/dict-data-science" "^1.0.0"
 
@@ -298,9 +298,9 @@
   integrity sha512-ph0twaRoV+ylui022clEO1dZ35QbeEQaKTaV2sPOsdwIokABPIiK09oWwGK9qg7jRGQwVaRPEq0Vp+IG1GpqSQ==
 
 "@cspell/dict-software-terms@^3.1.6":
-  version "3.1.15"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.15.tgz#15d1112b5ac3d7d6deeee24f50ea972f128364cc"
-  integrity sha512-EHnLozXWeJr3mUzLz8uH58EvnQTPZ7Y4wHDDxbQTF+QIbu41mLbPjgN/fU1pHAEsV4BzDc08E0EzAZlHxJfEKQ==
+  version "3.1.16"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.16.tgz#eadefdc9b5e1b87a82dff6e840300bb88f8c656c"
+  integrity sha512-+gsJQlf7YEgLYtAKOxE5q6Xchw3E5xrvd1/5W0WPr1vE/HB/E4YP2YmUlUXV2OBEOudh82ZobX1mwf73c9r6Kw==
 
 "@cspell/dict-sql@^2.1.0":
   version "2.1.0"
@@ -1024,9 +1024,9 @@ semver@^6.0.0:
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
 semver@^7.3.8:
-  version "7.5.2"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.2.tgz#5b851e66d1be07c1cdaf37dfc856f543325a2beb"
-  integrity sha512-SoftuTROv/cRjCze/scjGyiDtcUyxw1rgYQSZY7XTmtR5hX+dm76iDbTH8TkLPHCQmlbQVSSbNZCPM2hb0knnQ==
+  version "7.5.3"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.3.tgz#161ce8c2c6b4b3bdca6caadc9fa3317a4c4fe88e"
+  integrity sha512-QBlUtyVk/5EeHbi7X0fw6liDZc7BBmEaSYn01fMU1OUYbf6GPsbTtd8WmnqbI20SeycoHSeiybkE/q1Q+qlThQ==
   dependencies:
     lru-cache "^6.0.0"
 
