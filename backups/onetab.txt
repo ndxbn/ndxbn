@@ -1,3 +1,25 @@
+https://shikiho.toyokeizai.net/news/0/686197 | 国を挙げて転職支援､｢リスキリング｣普及が追い風の9銘柄｜会社四季報オンライン
+https://www.famitsu.com/news/202307/14309655.html | 『FF14』ヴァリアントダンジョン／アナザーダンジョン開発者インタビュー。これまでの開発ノウハウが通用しなかった、まったく新しい4人用コンテンツの制作秘話 | ゲーム・エンタメ最新情報のファミ通.com
+https://www.tokyo-sports.co.jp/articles/-/269596 | 政女党お家騒動で立花孝志氏から初の和解提案「扉閉じていない」 大津氏側は拒絶 | 東スポWEB
+https://japan.zdnet.com/article/35206499/ | 「Ubuntu」の10種の派生OS--自分に合ったフレーバーを探す - ZDNET Japan
+https://internet.watch.impress.co.jp/docs/news/1516510.html | IPA、「情報セキュリティ白書2023」を7月25日発売。PDF版は無料公開予定 - INTERNET Watch
+https://news.livedoor.com/article/detail/24618658/ | 政女党・大津綾香氏がイベント乱入！ 泉房穂前明石市長と密談、協力要請か - ライブドアニュース
+
+https://diamond.jp/articles/-/326156 | 管理職の素質がある人、ない人の決定的な違い…「会議の発言」で即バレ！【見逃し配信・マネジメント】 | 見逃し配信 | ダイヤモンド・オンライン
+https://diamond.jp/articles/-/322413 | 【コンサルが教える】目の前の人が「器のデカい人」か一瞬でわかる意外すぎる質問とは？ | 頭のいい人が話す前に考えていること | ダイヤモンド・オンライン
+https://diamond.jp/articles/-/326192 | コーヒーの眠気覚まし効果は「カフェインのおかげ」という通説を覆す新解釈 | ヘルスデーニュース | ダイヤモンド・オンライン
+
+https://news.yahoo.co.jp/articles/2a1aadbfe5226b45c596e2203770b603121a8362 | クラウドをやめる「脱クラウド」なぜ起こる？　「セキュリティも丸投げできる」という“勘違い”が原因であることも（TechTargetジャパン） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/fb93419e450c2bdd083039321eb61a872902fc95 | ダッフィー＆フレンズのショー、夏の東京ディズニーシー行くなら必見だよ。《フォトスポットや関連商品も》（東京バーゲンマニア） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/831ac82a92fc9db4cb42caf27758988e40d81e19 | 「決まってない！？それ、先に言ってください！」藤井聡太竜王・名人、まさかの展開に大慌て 次戦のオーダー決定まで残り13秒でプチパニック／将棋・ABEMAトーナメント（ABEMA TIMES） - Yahoo!ニュース
+
+https://ure.pia.co.jp/articles/-/1896453 | 【ディズニー】“最高に可愛い舞台”完全ガイド！「ダッフィー&フレンズのワンダフル・フレンドシップ」予約～入店～鑑賞現地レポ（1/3） - ディズニー特集 -ウレぴあ総研
+https://ure.pia.co.jp/articles/-/1896489 | 【写真たっぷり】ネタバレあり!「ダッフィー&フレンズのワンダフル・フレンドシップ」マニア目線の徹底レポート（1/6） - ディズニー特集 -ウレぴあ総研
+https://ure.pia.co.jp/articles/-/1866542 | 【ダッフィー＆フレンズ】「夏の最新スーベニア」一挙紹介！お菓子も充実♪（1/2） - ディズニー特集 -ウレぴあ総研
+
+https://atmarkit.itmedia.co.jp/ait/articles/2307/05/news007.html#utm_medium=email&utm_source=ait-tsushin&utm_campaign=20230712 | WSL／WSL 2開発担当者は「Server Core」が眼中にないらしい――WSLの正しいインストール手順は存在するのか？：山市良のうぃんどうず日記（260） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/2307/03/news009.html#utm_medium=email&utm_source=ait-tsushin&utm_campaign=20230712 | 準委任契約だけど、責任は取ってください：「訴えてやる！」の前に読む IT訴訟 徹底解説（108）（1/3 ページ） - ＠IT
+
 https://zenn.dev/publictheta/articles/100d137b81881f | Webでも動く小説用VS Code拡張機能を作る
 https://zenn.dev/1amageek/books/0fa93adb1feab7/viewer/2aa70f | スマートフォンの登場によって顕著になったユーザー体験の重要性
 https://zenn.dev/a_da_chi/articles/d590a69e6991d2 | Next.js + SWRでSSG or SSRとCSRを組み合わせて使用する
