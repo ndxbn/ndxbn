@@ -139,4 +139,3 @@ assignees: ndxbn
   - [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
   - [スクエニ](https://member.jp.square-enix.com/) 切り替え時間不明
   - [GitHub Notifications](https://github.com/notifications)
-  - マンガ UP！（0000 JST）
