@@ -2,7 +2,7 @@ name: create monthly task list
 
 on:
   schedule:
-    - cron: "0 0 20 12 *"
+    - cron: "0 0 2 12 *"
 
 jobs:
   main:
