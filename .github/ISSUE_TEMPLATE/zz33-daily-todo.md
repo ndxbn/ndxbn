@@ -133,6 +133,8 @@ assignees: ndxbn
 
 - [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
 - [ ] [政府インターネットテレビ](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fnettv.gov-online.go.jp%2Frss%2Frss.xml) 当日の更新分
+- [ ] パズドラ
+- [ ] ポケモンスリープ
 - [ ] すぐに終わるもの
   - [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
   - [雀魂](https://game.mahjongsoul.com) (0600 JST) <!-- 3 日分までストックできるため -->
