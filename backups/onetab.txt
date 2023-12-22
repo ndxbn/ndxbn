@@ -1,3 +1,157 @@
+https://gigazine.net/news/20231219-google-titan-security-pass-key/ | 最大250種類のパスキーの保存が可能なGoogle Titan セキュリティ キーを使ってパスキー認証してみた - GIGAZINE
+https://www.gizmodo.jp/2023/12/google-bard-with-gmail.html | Google Bard便利すぎ。Gmailから検索して表まで作るだなんて… | ギズモード・ジャパン
+https://president.jp/articles/-/76853?page=1 | 数学の本質は､その自由性にあり…｢普通の無限｣と｢でっかい無限｣をみつけた天才カントールのすごい発想 ｢究極の自由人｣が数学界のタブーを打ち破った | PRESIDENT Online（プレジデントオンライン）
+https://diamond.jp/articles/-/336077 | 「絶対に採用してはいけない人」の特徴・ワースト1 | とにかく仕組み化 | ダイヤモンド・オンライン
+https://www.ipa.go.jp/security/anshin/heads-up/alert20231221.html | 2023年度 年末年始における情報セキュリティに関する注意喚起 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構
+https://sirabee.com/2023/12/19/20163215478/ | マクドナルド、20日から“1年で1番おトク”なキャンペーン実施　「最強かよ」「たまらん…」 – Sirabee
+
+https://internet.watch.impress.co.jp/docs/news/1554199.html | JPRS、「インターネットリテラシーが学べるポスター」「国別トップレベルドメインがクイズで学べる下敷き」を教育機関へ無償配布 - INTERNET Watch
+https://forest.watch.impress.co.jp/docs/news/1546515.html | 「FFmpeg 6.1」が半年以上遅れて公開 ～「FFmpeg 7.0」は計画通り2024年2月リリースへ - 窓の杜
+https://qiita.com/python_hello_world/items/201855a70d11db7144c9 | エンジニア1年目に読んだ技術書 #Python - Qiita
+https://www.itmedia.co.jp/news/spv/2308/28/news058.html | VTuberの著作権は誰のもの？　“中の人”と“ママ”が知っておきたい、アバターの権利関係：弁護士が解説！　VTuberの法律（1/2 ページ） - ITmedia NEWS
+https://www.google.com/search?q=tepco+%E6%94%AF%E6%89%95%E3%81%84%E7%A2%BA%E8%AA%8D&oq=tepco++%E3%81%97&gs_lcrp=EgZjaHJvbWUqCQgDEAAYBBiABDIGCAAQRRg5MgkIARAAGAQYgAQyCQgCEAAYBBiABDIJCAMQABgEGIAEMgkIBBAAGAQYgAQyCQgFEAAYBBiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIJCAkQABgEGIAEMgkIChAAGAQYgAQyCQgLEAAYBBiABDIJCAwQABgEGIAEMgkIDRAAGAQYgAQyCQgOEAAYBBiABNIBCTEzMTI1ajBqN6gCALACAA&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | tepco 支払い確認 - Google 検索
+https://gigazine.net/news/20231122-amd-ryzen-threadripper-7000/ | 実売価格180万円超えの96コア192スレッドCPU「Ryzen Threadripper PRO 7995WX」は一体どれほどの性能を備えているのか？ - GIGAZINE
+https://www.itmedia.co.jp/enterprise/spv/2311/15/news009.html | 徳丸 浩氏に聞いてみた　「なぜサイバーセキュリティ人材は足りないの？」 - ITmedia エンタープライズ
+https://www.google.com/search?q=rentas+adventure&oq=rentas+a&gs_lcrp=EgZjaHJvbWUqCQgCEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCQgFEAAYExiABDIJCAYQABgTGIAEMgkIBxAAGBMYgAQyCQgIEAAYExiABDIJCAkQABgTGIAEMgsIChAAGAoYExiABDIJCAsQABgTGIAEMgkIDBAAGBMYgAQyCQgNEAAYExiABDIJCA4QABgTGIAE0gEJMTA0MTZqMWo3qAIAsAIA&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | rentas adventure - Google 検索
+https://gigazine.net/news/20231127-spotify-uruguay-phase-out/ | Spotifyが「アーティストへの公正な報酬分配を求める法案」を可決した国で撤退を宣言 - GIGAZINE
+https://logmi.jp/tech/articles/329700 | 「GitHub Copilotのおかげで“とりあえず書き切る”ができるようになった」　開発プロジェクトへの活用で感じたメリット - ログミーTech
+https://logmi.jp/business/articles/329715 | 今後5年で成長する10の職種と急速に縮小する10の職種　AIや自動化による「技術的失業」に備える、リスキリングの重要性 - ログミーBiz
+https://qiita.com/tadashiro_ninomiya/items/6e6fea807b2a16732b5b | ”Kubernetes” の基本を徹底解説 #Docker - Qiita
+https://gigazine.net/news/20231127-ian-hickson-reflecting-18-years-google/ | 2005年から18年間にわたりGoogleで勤務した人物が振り返る「古き良き時代のGoogle」とその後の変容とは？ - GIGAZINE
+https://zenn.dev/loglass/articles/76e559f1a13776 | 認可のベストプラクティスとDDDでの実装パターン
+https://coliss.com/articles/build-websites/operation/css/css-ribbon-shapes.html | これはブックマークしておくと便利！ HTMLはdiv要素一つだけ、あとはCSSをコピペするだけで100種類以上のリボンを簡単に実装できる -CSS Ribbon Shapes | コリス
+https://qiita.com/nfujita55a/items/37b05801209f6058808e | Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編) #Security - Qiita
+https://qiita.com/KNR109/items/5e0278e06e6ace5e3fcd | エンジニアが開発しやすい環境作り #プログラミング - Qiita
+https://zenn.dev/rio_dev/articles/eb69fae0557f20 | 【Next.js】ServerActionsを現場で使うテクニック
+https://gigazine.net/news/20231130-google-deepmind-finds-millions-new-materials/ | Google DeepMindがAIツールを使って220万種類の新しい結晶構造を発見、これまで発見されてきた数の45倍以上 - GIGAZINE
+https://qiita.com/yohhoy/items/c186bbf8fdf36ba9e984 | レガシーAPIとstd::unique_ptr #C++ - Qiita
+https://qiita.com/YUM_3/items/c96f35fd61bcda171f8c | スクラムマスターを1年間経験して変わったこと #新人プログラマ応援 - Qiita
+https://gigazine.net/news/20231127-amd-ryzen-threadripper-pro-7995wx-linux/ | 96コア192スレッドの超ハイエンドCPU「Ryzen Threadripper PRO 7995WX」はLinux環境でWindows環境の1.2倍の性能を発揮することが判明 - GIGAZINE
+https://qiita.com/hanhan1978/items/067abd7b28b0807e8c87 | Architecture Decision Record を一年運用してみた #ADR - Qiita
+https://qiita.com/KNR109/items/02e08d17dba01d9c2fd6 | 【まとめ】大学が公開している有益な資料 #Python - Qiita
+https://zenn.dev/sosukesuzuki/articles/e1e47e2a760e9d | 【翻訳】Prettier を Rust で書き換えたプロジェクトに $20k の報奨金を支払うプログラムは Biome が勝ちました
+https://dev.classmethod.jp/articles/aws-management-console-my-applications-ga/ | AWS利用費をアプリケーション毎に表示できる myApplications が発表されました #AWSreInvent | DevelopersIO
+https://qiita.com/midiambear/items/f38686bd4d139e0cd46c | Visual Studio Codeに入れるべき拡張機能【2023年最新版】 #VSCode - Qiita
+https://zenn.dev/mybest_dev/articles/c0570e67978673 | フロントエンドのディレクトリ設計思想
+https://qiita.com/kura_cvr/items/2107db0831170bdd4c69 | ホロライブアプリのアーキテクチャ　その1　〜MVPによるリアーキテクチャ〜 #C# - Qiita
+https://dev.classmethod.jp/articles/amazon-elasticache-serverless-ops-made-easy/ | Amazon ElastiCacheがサーバーレスになって運用がバチクソ楽になった #AWSreInvent | DevelopersIO
+https://qiita.com/nash_efp/items/b01f341ebc2e991a32ac | コードレビューの思想や心構え #コードレビュー - Qiita
+https://qiita.com/umanetes/items/e0257dafb920726c4f94 | コンテナのベストプラクティスに対しておこがましくも言ってみる #Docker - Qiita
+https://dev.classmethod.jp/articles/amazon-q-lineup/ | Amazon Q がいたるところに出てきて混乱したので整理してみた #AWSreinvet | DevelopersIO
+https://zenn.dev/kyln/articles/13637e86e3ff07 | wasmで使えるコード進行パーサーを作りました
+https://zenn.dev/monicle/articles/59ff479ae51c66 | 君もイカしたTerminal環境で開発してみなイカ？(wezterm, zsh, starship, neovim)
+https://zenn.dev/rio_dev/articles/f7d700690de8da | 【Next.js】Server Actions時代のデザインパターン入門
+https://zenn.dev/lancers/articles/b033c39ab13699?redirected=1 | CSSのmarginをあまり書かなくなった話
+https://cloud.watch.impress.co.jp/docs/event/1552390.html | Linus Torvalds氏、「テクノロジーは飛躍的に発展するものではなく一歩一歩進むものだ」 - クラウド Watch
+https://zenn.dev/zaimo/articles/12f82460bbcb26 | 事業組織全体で取り組むドメインモデリングのすすめ
+https://codezine.jp/article/detail/18754 | Webフレームワーク「Astro 4.0」の、最初のベータ版がリリース|CodeZine（コードジン）
+https://dev.classmethod.jp/articles/new-amazon-s3-express-one-zone-high-performance-storage-class/ | S3 Standardストレージクラスよりも最大10倍優れたパフォーマンスを提供する新たなストレージクラス「Amazon S3 Express One Zone」が発表されました | DevelopersIO
+https://qiita.com/_kensh/items/9e0ed0154e2ddfb3f25d | “The Five-Factor Serverless“ AWS Lambda の9年を振り返りつつ、これからを考える。 #AWS - Qiita
+https://qiita.com/EichiSanden/items/0e4f14c1e4c6e4c61982 | GitHub Copilotが便利になったのでターミナルもVSCodeで良いのでは？という話 #VSCode - Qiita
+https://zenn.dev/tenka/articles/16bit_msdos_cxx_compiler_that_can_use_template | 16 bit MS-DOS 向けにプログラムを作りたくなったので c++コンパイラを探した
+https://qiita.com/kunihirotanaka/items/06b4789b60e2e1d5c661 | なぜエンジニア組織をうまくマネジメントできないと悩む経営者が多いのか？ #組織 - Qiita
+https://gigazine.net/news/20231218-amd-threadripper-7000-hidden-fuse/ | AMDのThreadripper 7000シリーズにはオーバークロックが有効になると飛ぶヒューズが隠されている - GIGAZINE
+https://zenn.dev/watany/articles/183d40f8e31a45 | Lambda + Monolithはアンチパターンなのか？ マイクロサービスでなく「小さくはじめる」選択肢
+https://note.com/simplearchitect/n/nbecdf4a687c0 | プログラミングというより物事が出来る思考法～実践編｜牛尾　剛
+https://shisama.hatenablog.com/entry/2023/12/16/151553 | Node.js v21 の主な変更点 - 別にしんどくないブログ
+https://qiita.com/si_udy/items/cb1812d69e204dd19e3a | 今更Webスクレイピングしてみる(Node.js + Puppeteer) #Node.js - Qiita
+https://logmi.jp/business/articles/329750 | PMが各部署から忙殺され、プロジェクトが炎上気味に……　 “人をアサインしておしまい”から脱却する企画の進め方 - ログミーBiz
+https://qiita.com/tksst/items/68e8f802822913025286 | 新幹線でもQUICで快適にSSHする #SSH - Qiita
+https://qiita.com/mi2__user/items/da5aa858b7b1470139b8 | チームでGitHubを使うってこういうことなのかなぁ。 #Git - Qiita
+https://zenn.dev/yodaka/articles/0c5c5e02994b9f | TypeScript豆知識集
+https://coliss.com/articles/build-websites/operation/css/chrome-120-adds-7-new-css-features.html | CSSの進化が止まらない！ Chrome 120で追加された7つの新しいCSSの機能 | コリス
+https://gigazine.net/news/20231215-ffmpeg-cli-multi-threading/ | FFmpegコマンドラインツールのマルチスレッド化が完了、開発者いわく「数十年で最も複雑な修正」 - GIGAZINE
+https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb | 今モノレポやるならどのツール使うのがいいのん?? #JavaScript - Qiita
+https://www.lifehacker.jp/article/2312what-is-google-bard-ai-chatbot/ | Gemini搭載の「Google Bard」、ChatGPTとの違いと使い方 | ライフハッカー・ジャパン
+https://zenn.dev/chikoski/articles/webassembly-interface-type-101 | Rustで学ぶWebAssembly Interface Type入門
+https://pc.watch.impress.co.jp/docs/news/news_flash/1555029.html | 【ニュース・フラッシュ】ミヨシ、カーソル付きのBluetoothテンキー - PC Watch
+https://cloud.watch.impress.co.jp/docs/news/1554615.html | DB開発支援ツール「SI Object Browser for Oracle 24」発表、生成AIを利用した開発支援機能を強化 - クラウド Watch
+https://forest.watch.impress.co.jp/docs/news/1554543.html | Googleの新AI「Gemini Pro」がAPI経由で提供 ～無料で1分あたり60リクエストまで利用可能 - 窓の杜
+https://dev.classmethod.jp/articles/mqtt_illustrations/ | イラストで理解するMQTT | DevelopersIO
+https://qiita.com/task_jp/items/5e76f66366673d46afcd | GUI フレームワーク Slint の紹介 #Rust - Qiita
+https://codezine.jp/article/detail/18801 | Go言語で書かれたPHPアプリケーションサーバ「FrankenPHP 1.0」がリリース|CodeZine（コードジン）
+https://codezine.jp/article/detail/18786 | Google、「Chrome 120」を正式に公開、ポップアップなどを閉じる処理の実装が容易に|CodeZine（コードジン）
+https://av.watch.impress.co.jp/docs/news/1553907.html | RME、フェムト秒精度のクロックで進化した「Fireface UFX II(ver.FS)」 - AV Watch
+https://qiita.com/waitonly/items/1e03cf0dbccdf0e8bb7d | Windowsの共有ドライブ6人目が弾かれる #初心者 - Qiita
+https://gigazine.net/news/20231214-ai-website-builder-solo/ | AIを使って数分でホームページを作成＆無料公開できる「Solo」をFirefox開発元のMozillaがリリースしたので使ってみた - GIGAZINE
+https://www.google.com/search?q=%E3%83%8B%E3%83%A5%E3%83%B3%E3%81%A8%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%8A&oq=%E3%83%8B%E3%83%A5%E3%83%B3%E3%81%A8%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%8A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDYxNDZqMGo3qAIAsAIA&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ニュンとロジーナ - Google 検索
+https://zenn.dev/sdb_blog/articles/codereading_of_where_method_in_laravel | Model::whereで何が起きているのかコードリーディングしてみた
+https://zenn.dev/akfm/articles/testing-strategies-to-accelerate-team | チーム開発を加速するテストの育て方
+https://qiita.com/icoxfog417/items/4f596bde78380cd0950d | プロ驚き屋AIをチームのSlackに招待しタイムラインを荒らす #機械学習 - Qiita
+https://tjo.hatenablog.com/entry/2023/12/20/170000 | 「仮説ドリブン」という名の甘い罠 - 渋谷駅前で働くデータサイエンティストのブログ
+https://note.com/ash/n/n82b11075119a | ４年間、7色だけでUIをデザインし続けた話｜コウノ アスヤ
+https://zenn.dev/calloc134/articles/c5ae165b16b969 | 大学授業内ハッカソンでCloudflareフル活用システム開発した話
+https://qiita.com/isso_719/items/c22e617986c821b2f624 | Docker が俺の Postgres を勝手に全世界に公開しやがって色々怒られた話 #Docker - Qiita
+https://qiita.com/ay-kapi/items/b959ee60fed8a84a9973 | Zodのバリデーション実装時間を短縮しバックエンドとの整合性を保つ #React - Qiita
+https://qiita.com/16cho/items/b2442cf1a05cbc9cf562 | GodotでMagicOnionやってみる #C# - Qiita
+https://www.lifehacker.jp/article/2312-best-programs-for-tracking-your-time/ | 時間管理に最適なタイムトラッカーアプリ5選｜目的・課題別におすすめを厳選 | ライフハッカー・ジャパン
+https://qiita.com/anntoque/items/1a0b5802d6140d910cd1 | データストラテジストのための、データ戦略策定に役立つ5+1冊 #データ分析 - Qiita
+https://www.itmedia.co.jp/business/spv/2312/21/news047.html | 「ITの多重下請け構造は最悪」　エンジニアの“給料中抜き”が許せないと考えた理由 - ITmedia ビジネスオンライン
+https://zenn.dev/cloud_ace/articles/tech-blog-writing-guide | 僕が考える テックブログを書く意義 と 書き方のすゝめ
+https://zenn.dev/s_tokutake/articles/22edc021f6277f | Google Cloud Tasksのあれこれ
+https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d | 最近気に入っているOSSを淡々と紹介する
+https://codezine.jp/article/detail/18746 | エンジニア急増中のクラスターが編み出したリモートワークのベストプラクティスとは？ (1/3)|CodeZine（コードジン）
+https://dev.classmethod.jp/articles/aws-certifications-study-methods/ | 約1ヶ月でAWS認定資格を10個取得したエンジニアの学習法まとめ | DevelopersIO
+https://qiita.com/shoitsu/items/5fe5cecac1ed5a1dbfd2 | 統計検定1級に受かりたければこれをやれ #データ分析 - Qiita
+https://pc.watch.impress.co.jp/docs/news/1556778.html | ASUS、LTE対応の10.5型2in1 Chromebook - PC Watch
+https://quizknock-schole.com/articles/news/ar5wmxqrDUaSiTUnUaHLRbtg | プランとコンテンツのご案内
+https://ai-otaku-labo.com/undress-ai-review/ | 【悪用禁止】Undress AIの評判や使い方、安全性を解説！衣服が削除できる画像生成AI - AIオタクLABO
+http://blog.livedoor.jp/kinisoku/archives/5480183.html | 【動画】陽キャさん、路上で相手にわざわざ武器を渡して喧嘩を始めてしまう... : キニ速
+https://type.jp/et/feature/23853/ | VTuber事務所・ホロライブプロダクションを支える配信システム開発者が語る「グローバル視点」と「発信力」の重要性 - エンジニアtype | 転職type
+https://blog.cybozu.io/entry/2023/11/15/111500 | スクラムマスター専任と兼務の両方を経験してみて感じた違いと僕が専任を推す理由 - Cybozu Inside Out | サイボウズエンジニアのブログ
+https://www.gizmodo.jp/2023/11/google-launches-ai-weatherman-graphcast-jpn.html | Googleが最新の天気予報ソフトを開発、めっちゃ当たるってよ | ギズモード・ジャパン
+https://togetter.com/li/2258663 | 画面によってボタンの意味を変えるUIを作るやつは何をやらせてもダメ。(温度を上げようと思って+を押したら次の画面では-だった。何を言っているのかわからねーと思うが以下略) - Togetter
+https://studyhacker.net/dark-black-pen | 記憶力向上に役立つペンの特徴は「色が○○」なこと。実際に勉強で使って確かめてみた - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://japan.zdnet.com/article/35211484/ | デスクワーカーを分類する5つの働き方タイプ--Slackが1.5万人超を調査 - ZDNET Japan
+https://manba.co.jp/manba_magazines/25234 | 「もっとも麻雀をしていない麻雀漫画」という矛盾に挑む『あ、それポンです！』 | マンバ通信 - マンバ
+https://store.dji.com/jp/product/osmo-pocket-3?gad_source=1&gclid=CjwKCAiAjfyqBhAsEiwA-UdzJGbh0QnFsXEyy23n1YSgaU99fLe-qn0ySUEkowSVg1s94KL-TzVBEhoCV7cQAvD_BwE&vid=153321 | Osmo Pocket 3購入 - DJI Store
+https://www.tyojyu.or.jp/net/kenkou-tyoju/undou-kiso/Joint-by-Joint-approach.html | ジョイント・バイ・ジョイントアプローチとは | 健康長寿ネット
+https://speakerdeck.com/shibe23/ju-da-naspanoji-shu-de-fu-zhai-toxiang-kihe-isok-kerutekunituku-2023nian-qiu | 巨大なSPAの技術的負債と向き合い続けるテクニック(2023年秋) - Speaker Deck
+https://news.yahoo.co.jp/articles/3f44ea5a010ef069adfc27f363f60ecfc1d26aa0?page=2 | 「外で性犯罪を起こすよりは…」と自身の胸を触らせる母親も 障害のある子どもの性欲とどう向き合う？ 当事者家族の悩み（ABEMA TIMES） - Yahoo!ニュース
+https://www.wantedly.com/companies/wantedly/post_articles/875378 | 「データの負債は高利子である」バグの修正別リードタイム分析 | Wantedly Engineer Blog
+https://s.famitsu.com/news/202312/03326295.html | 『ARK』公式ライセンスグッズが発売。うんちやドードーがぬいぐるみに。ノグリンの帽子はインパクト大 | ゲーム・エンタメ最新情報のファミ通.com
+https://trap.jp/post/1979/ | Linuxの普段使いする楽しさについて | 東京工業大学デジタル創作同好会traP
+https://rocketnews24.com/2023/12/18/2123915/ | 新宿駅から徒歩90秒「安心お宿」が大浴場・サウナ付きでドリンクバーもアルコールもタダ！ 朝食の無料カレーも本格的で1泊約5000円はコスパ最高！ | ロケットニュース24
+https://tech.nri-net.com/entry/google_cloud_compared_them_with_aws | Google Cloud案件を1年半程度経験してみてAWSと比較しながら違いを整理してみた - NRIネットコムBlog
+https://thebridge.jp/2023/12/googles-ai-note-taking-app-notebooklm-now-available-to-all-u-s-users | Google、AIメモアプリ「NotebookLM」を全米のユーザに提供開始 - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報
+https://gori.me/apps/iphone-app-news/151059 | Blackmagic Camera、「これが無料っておかしくない？」と話題に #GTTC23 | ゴリミー
+https://www.snrec.jp/entry/2023/12/15/120000 | DiGiCoのフラッグシップ・デジタルミキシングコンソールQuantum 852発売 - サンレコ 〜音楽制作と音響のすべてを届けるメディア
+https://creators.bengo4.com/entry/2023/12/22/000000 | 型パズルを理解しTypeScript中級者になる8のポイント - 弁護士ドットコム株式会社 Creators’ blog
+https://gihyo.jp/article/2023/12/daily-linux-231221 | OpenTofuのリリース候補版が公開、正式リリースは1/10予定 | gihyo.jp
+https://blog.inductor.me/entry/2023/12/20/142235 | 4年以上待ってたEKSの改善がようやく出てきた件 - inductor's blog
+
+https://ima.goo.ne.jp/life/95903/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E6%B1%82%E3%82%81%E3%82%8B%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%80%8C%E6%AD%BB%E4%BA%A1%E5%B1%8A%E3%82%92%E5%87%BA%E3%81%97%E3%81%9F%E3%82%89%E3%80%81%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E3%80%87%E3%80%87%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%80%8D%E8%B3%9B%E5%90%8C%E3%81%AE%E5%B5%90%E3%80%8C%E3%81%BB%E3%82%93%E3%81%A8%E3%81%9D%E3%82%8C%E3%80%8D%E3%80%8C%E3%81%9D%E3%82%8C%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%9F%E3%82%89%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E4%BD%9C%E3%82%8B%E3%80%8D | マイナンバーカードに求める機能として「死亡届を出したら、自動的に〇〇してほしい」賛同の嵐「ほんとそれ」「それができたらマイナンバーカード作る」 - いまトピライフ
+https://ima.goo.ne.jp/life/96007/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%80%8C%E6%9C%89%E6%96%99%E3%80%8D%E5%89%8D%E3%81%BE%E3%81%A7%E7%84%A1%E6%96%99%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AB%E2%80%A6 | マクドナルド「有料」前まで無料だったのに… - いまトピライフ
+https://www.appbank.net/2023/12/16/iphone-application/2713960.php?page=2 | 【パズドラ】クリスマスイベント、これだけはやらないと後悔します。 : こちらの記事もぜひ！ | AppBank
+https://gigazine.net/news/20231220-terrapin-attack/ | SSH接続への中間者攻撃を可能にするエクスプロイト「Terrapin Attack」が発見される - GIGAZINE
+https://av.watch.impress.co.jp/docs/topic/1555954.html | イヤフォンの新トレンド、「MEMSドライバー」とは何か? - AV Watch
+https://www.lifehacker.jp/article/2312-tinyhack-few-seconds-rule/ | たった数秒でポジティブ思考になり、習慣を変える効果が出た「X秒ルール」3選 | ライフハッカー・ジャパン
+https://news.yahoo.co.jp/articles/54cbdf7b178d61d1271118d0aa67a6ea4641ca31 | 東大生が「3度目の正直」で最優秀賞を獲得、初応募の小学生に審査員驚愕、AIネイティブ世代の登場…「U-22プログラミング・コンテスト2023」最終審査会レポート（FINDERS） - Yahoo!ニュース
+
+https://qiita.com/advent-calendar/2023/typescript | TypeScriptのカレンダー | Advent Calendar 2023 - Qiita
+https://qiita.com/uhyo/items/c33489155e1817479948#verbatimmodulesyntax%E3%81%AE%E6%84%8F%E7%BE%A9 | TypeScriptを他のツールで取り扱うためのコンパイラオプションについて #TypeScript - Qiita
+https://qiita.com/advent-calendar/2023/php | PHPのカレンダー | Advent Calendar 2023 - Qiita
+https://typescript-eslint.io/rules/explicit-module-boundary-types/ | explicit-module-boundary-types | typescript-eslint
+https://typescript-eslint.io/developers/custom-rules/ | Custom Rules | typescript-eslint
+
+https://logmi.jp/tech/articles/329795 | 日本ではIT人材不足にもかかわらず、給与があがらない？　ブレインパッド社CEOが「IT産業が今すぐ反省すべき」と考える理由 - ログミーTech
+https://japan.zdnet.com/article/35212487/ | トーバルズ氏、Linux開発の現状や生成AIについて語る - ZDNET Japan
+https://japan.zdnet.com/article/35212639/ | Linux環境を狙うランサムウェアのシンプルで厄介な特徴 - ZDNET Japan
+https://www.lifehacker.jp/article/23125-healthy-habits-every-professional-should-practice/ | 米Googleに入社して分かった、本当に大事な健康習慣6選 | ライフハッカー・ジャパン
+
+https://www.publickey1.jp/blog/23/api_3.html | ヨドバシの中の人が語る、開発中のヨドバシAPIが目指す機能、仕組み、そしてセキュリティ（前編） － Publickey
+https://www.publickey1.jp/blog/23/api_4.html | ヨドバシの中の人が語る、開発中のヨドバシAPIが目指す機能、仕組み、そしてセキュリティ（後編） － Publickey
+https://thinkit.co.jp/article/22594 | ヨドバシAPIのアーキテクチャが目指すものとは？〜APIエコノミー、ゼロトラスト、開発生産性向上への取り組み | Think IT（シンクイット）
+
+https://president.jp/articles/-/76512?page=1 | ｢インターン中にこれを言ったらアウト｣人事担当者に聞いた就活で評価が急降下･爆上げな発言の実例 ｢この学生は1年も持たずに転職する｣と即判断される言動 | PRESIDENT Online（プレジデントオンライン）
+https://buzzap.jp/news/20231208-new-iphone-se-4th-iphone14-battery-oled-usb-typec/ | 【朗報】新型「iPhone SE（第4世代）」iPhone 14ベースに、有機ELやUSB Type-C、バッテリー容量1.6倍など飛躍的に進化へ | Buzzap！
+https://kai-you.net/article/88390 | VTuberアイアンマウス「The Game Awards 2023」クリエイターオブザイヤーを受賞 - KAI-YOU.net
+https://ascii.jp/elem/000/004/174/4174370/ | ASCII.jp：猫系女子好きにはたまらない！ 人気コスプレイヤーの猫乃ここがDVDデビュー (1/2)
+https://www.gizmodo.jp/2023/12/23andme-dna-test-hackers-stolen-data-6-million-users.html | 絶望的。遺伝子検査企業から690万人のデータ漏洩 | ギズモード・ジャパン
+https://smhn.info/202312-google-drive-evil | Google Driveの「消失バグ」、事態収拾に失敗。未解決のままスレッド強制閉鎖へ - すまほん!!
+https://gigazine.net/news/20231208-amazon-best-seller-fraudulent-product/ | Amazonのベストセラー1位商品を非破壊検査して「説明内容と異なる詐欺的代物」であることを暴くあまりに猛者過ぎるカスタマーレビューが登場し話題に - GIGAZINE
+https://s.inside-games.jp/article/2023/12/08/150803.html | VTuber関連イベントが殺害・爆破予告などの脅迫により相次いで中止へ…来場者への傷害をほのめかす凄惨な内容も | インサイド
+
 https://docs.google.com/spreadsheets/d/1oWaovmEfub8PVsXItktyUOUxqO2dIbH_/edit#gid=1805534861 | governmental_domains-2019.xlsx - Google スプレッドシート
 https://docs.google.com/spreadsheets/d/1T5UrZigAOuiUkBl4YURV4m_w2yYc80qH/edit#gid=1204004310 | governmental_domains_classifications-2019.xlsx - Google スプレッドシート
 https://www.e-gov.go.jp/government-directory/IAAs.html | 独立行政法人 | e-Govポータル
@@ -4960,18 +5114,12 @@ https://www.debugpoint.com/best-linux-distributions-2022/ | Top 10 Best Linux Di
 https://www.debugpoint.com/lubuntu-22-04-lts/ | Lubuntu 22.04 LTS - New Features and Release Details
 https://www.edo-mizube.jp/personaluse/ | 個人利用(一般開放時間)｜水辺のスポーツガーデン
 https://www.famitsu.com/news/202109/27234807.html | 『FF14』“セイブ・ザ・クイーン”を振り返る松野泰己氏×吉田直樹氏対談。松野氏が描いた“もうひとつの『紅蓮のリベレーター』”とは？ | ゲーム・エンタメ最新情報のファミ通.com
-https://www.fanbox.cc/@nagito/posts | 投稿一覧｜なぎと｜pixivFANBOX
-https://www.fanbox.cc/notifications | 通知｜pixivFANBOX
 https://www.gamespark.jp/article/2022/02/03/115641.html | 有名『FFXIV』ストリーマーがウクライナ脱出を決意―ゲーム内ファンコミュニティも全力サポート | Game*Spark - 国内・海外ゲーム情報サイト
 https://www.gdm.or.jp/pressrelease/2022/0712/447425 | Crucial、「Amazon Prime Day」にてNVMe M.2 SSDや外付けSSDをセール価格で販売 - エルミタージュ秋葉原
 https://www.gizmodo.jp/2022/06/perfect-usb-c-cable.html | いまならAmazonで“最強”のUSB-Cケーブル買えます | ギズモード・ジャパン
 https://www.gizmodo.jp/2022/07/asus-chromebook-c425ta-primeday-2022.html | Chromebookが欲しいって？ 今ちょうどASUSの｢C425TA｣が過去最安のセール中なんだけど #Amazonプライムデー | ギズモード・ジャパン
 https://www.gizmodo.jp/2022/07/eternal-ash-vr-chat.html | 足踏みし続け9時間30分。過酷すぎるVR登山で心が折れた男の話 #VRChat | ギズモード・ジャパン
 https://www.gizmodo.jp/2022/07/tp-link-wi-fi-6-archer-ax55.html | 思いきってWi-Fi 6に乗りかえたら、テレワークやエンタメなどネット生活レベルが上がったよ | ギズモード・ジャパン
-https://www.google.com/search?q=%E3%83%87%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%8D%E3%82%AA%E3%83%94%E3%82%B3&oq=%E3%83%87%E3%83%AA%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%8D%E3%82%AA%E3%83%94%E3%82%B3&aqs=chrome..69i57.383j0j7&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | デリーターネオピコ - Google 検索
-https://www.google.com/search?q=Craob+X&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | Craob X - Google 検索
-https://www.google.com/search?q=chrome+%E3%82%BF%E3%83%96+%E9%87%8D%E8%A4%87+%E5%89%8A%E9%99%A4&oq=chrome+%E3%82%BF%E3%83%96+%E9%87%8D%E8%A4%87&aqs=chrome.1.69i57j0i512j0i8i30.9055j0j7&sourceid=chrome&ie=UTF-8 | chrome タブ 重複 削除 - Google 検索
-https://www.google.com/search?q=vtube+studio&oq=vtube+studio&aqs=chrome..69i57j0i512l8.15738j0j4&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | vtube studio - Google 検索
 https://www.hallab.co.jp/blog/detail/4222/ | 新人研修2022を終えて プログラマー編 | ハル研究所
 https://www.hrbrain.jp/media/human-resources-management/dx-change | DX化とIT化は違う？DX化のメリットや課題を解説！成功事例も紹介 | HR大学
 https://www.huffingtonpost.jp/entry/story_jp_62d8edaee4b06e213fbaec28 | 「望まない転勤」やめたら、新卒応募10倍に。「会社が回らなくなる」その疑念をどう払拭したのか【2022年 上半期回顧】 | ハフポスト これからの経済
@@ -5014,7 +5162,6 @@ https://www.infoq.com/news/2022/01/openssf-scorecards-v4/ | Google and GitHub An
 
 https://www.infoworld.com/article/3646609/angularjs-reaches-end-of-life.html | AngularJS reaches end of life | InfoWorld
 https://www.infoworld.com/article/3647880/typescript-46-adds-control-flow-analysis-es2022-support.html | TypeScript 4.6 adds control flow analysis, ES2022 support | InfoWorld
-https://www.inside-games.jp/article/2022/07/07/139098.html | 【コスプレ】「VTuber」コスプレイヤーの熱き夏到来！「acosta!」参加の注目レイヤー6選【写真23枚】 | インサイド
 https://www.ipa.go.jp/about/press/20220404-1.html | プレス発表「DX実践手引書　ITシステム構築編」を改訂：IPA 独立行政法人 情報処理推進機構
 https://www.ipa.go.jp/dadc/architecture/pj_contract-payment_news_202205_1.html | 契約・決済プロジェクト 成果物経過報告を公開しました
 https://www.ipa.go.jp/ikc/our_activities/dx.html#section7 | デジタルトランスフォーメーション（DX）の推進：IPA 独立行政法人 情報処理推進機構
