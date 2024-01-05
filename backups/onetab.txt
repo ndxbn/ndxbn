@@ -1,9 +1,129 @@
+https://qiita.com/frozenbonito/items/8230d4a3cb5ea1b32802 | npm workspace の使い方 #Node.js - Qiita
+https://www.google.com/search?q=prisma+sqlite+model&rlz=1C1GCEU_jaJP893JP893&oq=prisma+sqlite+model&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDUwMTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | prisma sqlite model - Google 検索
+https://www.google.com/search?q=prisma+schema+key+snake&rlz=1C1GCEU_jaJP893JP893&oq=prisma+schema+key+snake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY4MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | prisma schema key snake - Google 検索
+https://github.com/prisma/prisma/discussions/2530 | camelcase <-> snakecase notation · prisma/prisma · Discussion #2530
+https://github.com/prisma/prisma/issues/2425 | Customize Introspection · Issue #2425 · prisma/prisma
+https://www.prisma.io/docs/orm/prisma-schema | Prisma schema | Prisma Docs
+https://www.prisma.io/docs/orm/more/comparisons/prisma-and-typeorm | Prisma vs TypeORM | Prisma Docs
+https://qiita.com/ebatan-developer/items/14031910f869b78b1439 | Prismaのschema定義で、DBのカラム名はsnake_caseだけど実際に使う時はcamelCaseにしたい人へのライフハック #TypeScript - Qiita
+https://zenn.dev/suin/scraps/20896e54419069 | npm workspacesとモノレポ探検記
+
+https://www.infoq.com/jp/articles/rust-ecosystem-review-2023/ | Rustが再評価される：エコシステムの現状と落とし穴
+https://rocketnews24.com/2024/01/01/2133145/ | 【え？】マクドナルド福袋2024の「ポテト加湿器」を使ってみた結果 → 予想外すぎる事態に | ロケットニュース24
+https://rocketnews24.com/2023/12/31/2132691/ | 【C103】超快晴の「コミックマーケット103」1日目！ 氾濫するブルアカ、「健全な対魔忍」など場内の様子とコスプレレポート!! | ロケットニュース24
+https://note.com/euskace/n/n9efa88b241a4 | オーディオインターフェイスのためのオーディオインターフェイス｜エウスケ
+https://zenn.dev/aiji42/articles/722da1db5db031 | 2023年振返り: Cloudflare Workersとデータベース接続の進歩
+https://www.businessinsider.jp/post-280587 | 小物がどうしても片付かない問題。キングジムのコレで簡単にできる｢定位置管理｣が正解だった | Business Insider Japan
+https://qiita.com/tsukky67/items/f0689e9b4c73324bb47b | 本当は教えたくない、VScode拡張の最強プログラミングアシスタントAI Phind(導入・使い方) #VSCode - Qiita
+https://pc.watch.impress.co.jp/docs/topic/special/1553875.html | Ryzenがコスパ高いのは分かった。でも"AMD機はUSBが弱い"の都市伝説はどうなの？ ～10万円台の高コスパゲーミングノート「NEXTGEAR」で10種のUSB機器を接続テスト- PC Watch[Sponsored]
+https://zenn.dev/kimitsu/articles/react-form-library-performance | パフォーマンスを気にするならReact Hook Formが無難
+https://www.businessinsider.jp/post-280167 | リスキリングが“続かない”20代と50代が、2024年にやるべきこと | Business Insider Japan
+https://k-tai.watch.impress.co.jp/docs/news/1557400.html | 「Qualcomm Cloud AI 100」搭載の「Amazon EC2」一般利用開始へ - ケータイ Watch
+https://note.com/elyza/n/n5d42686b60b7 | 130億パラメータの「Llama 2」をベースとした日本語LLM「ELYZA-japanese-Llama-2-13b」を公開しました（商用利用可）｜ELYZA, Inc.
+https://logmi.jp/tech/articles/329878 | 2位ひろゆき氏記事を抑えて1位だったのは中学1年生の開発！　2023年エンジニアに最も読まれた記事5選 - ログミーTech
+https://qiita.com/takaxp/items/fbc3e50dd2907b48cafa | 私が使う最小設定（2023年） #Emacs - Qiita
+https://zenn.dev/aiji42/articles/6656072a954a9b | VRTツールとしてLost Pixelを使ってみたらいい感じだった
+https://qiita.com/becyn/items/b7dfe8765b0acf735134 | Webアーキテクチャで迷わないためのイリティ（-ility）のすゝめ #フロントエンド - Qiita
+https://forest.watch.impress.co.jp/docs/serial/yajiuma/1556590.html | 2024年にサポート終了となるMicrosoft製品をチェック ～始まりがあれば終わりもある - やじうまの杜 - 窓の杜
+https://logmi.jp/tech/articles/329887 | 「仕様検討のボトルネック化」「技術的な手戻り」にどう対処する？　ポジティブな変化とうれしい誤算を生み出した、はじめの1歩 - ログミーTech
+https://zenn.dev/satoru_takeuchi/articles/080749dc617195 | bashの機能いろいろ
+https://akiba-pc.watch.impress.co.jp/docs/sp/1556952.html | PCパーツ各社に聞く「今年の意気込み」と「去年の売れ筋」【2024年版/IIJ、Intel、マウスコンピューター、MSI、Nextorage編】 - AKIBA PC Hotline!
+https://qiita.com/ko1nksm/items/4907c1c88d478cac0be5 | シェルとUNIXコマンドの未来 ～ これからの10年で起きるシェルスクリプトの変化 #ShellScript - Qiita
+https://qiita.com/tosiooooooo/items/fed737383d3a3d5cf0e3 | CDN業者にやられた話 #CDN - Qiita
+https://qiita.com/kota1021/items/c31d7c7d7c6fdc589b9f | プログラミング用語の中国語の漢字表記がカッコ良すぎるし初心者に優しいからもっとみんなに知ってほしい #Swift - Qiita
+https://zenn.dev/praha/articles/d4bf167240dcc6 | 「プログラマー脳」という本を読んだ！風変わりで面白かったのでメモ！
+https://akiba-pc.watch.impress.co.jp/docs/topic/popular/1556299.html | 【過去の人気記事】ダイヤルやスライダーも備えたGloriousのテンキーパッド、有線/無線対応 - AKIBA PC Hotline!
+https://zenn.dev/mm/articles/c1cd022301e398 | ES2024に入る予定の機能を眺めてみた
+https://gigazine.net/news/20231230-sandstorm/ | 多種多様なウェブアプリをボタンひとつでセルフホスト可能なプラットフォームアプリ「Sandstorm」をインストールしてみた - GIGAZINE
+https://www.gizmodo.jp/2024/01/a-day-with-generative-ai.html | 生成AI、当たり前に使うようになった人の1日はこんな感じ | ギズモード・ジャパン
+https://news.yahoo.co.jp/pickup/6486827 | Vチューバー躍進 もうけの実態 - Yahoo!ニュース
+https://dev.classmethod.jp/articles/notion-2024-mydashboard/ | Notion で2024年のダッシュボード作ってみた | DevelopersIO
+https://www.keisuke69.net/entry/2023/12/29/102242 | 2023年に読んで良かった技術書など10冊 - Sweet Escape
+https://prtimes.jp/main/html/rd/p/000000053.000038247.html | Lightblue、商用利用可能な日本語LLM「Karasu」「Qarasu」を公開 | 株式会社Lightblueのプレスリリース
+https://www.4gamer.net/games/628/G062811/20231226001/ | 大型アップデートを経て，目覚め始めた「ホロアース」。カバーCTOとプロデューサーに聞くメタバースの形，そしてVTuberの未来
+https://www.itmedia.co.jp/news/articles/2312/29/news103.html | もはや「◯軸」呼びは古すぎる　“最高のメカニカルキーボード”に不可欠なキースイッチ最新事情と選び方：ハロー、自作キーボードワールド　第13回（1/3 ページ） - ITmedia NEWS
+https://weekly.ascii.jp/elem/000/004/177/4177449/ | 4K高品質映像と最大10Gbpのデータ、100W給電を1本で - 週刊アスキー
+https://coliss.com/articles/products/kindle-sales-20231225.html | Kindle本の年末年始セールがすごすぎる！ 今年発売されたばかりのデザイン書・Web制作の解説書・イラスト解説書も最安値でお買い得です | コリス
+https://tech.timee.co.jp/entry/2023/12/25/000000 | 社内版 Rails アップグレードガイドを公開します - Timee Product Team Blog
+https://tech.nri-net.com/entry/keyboard_used_by_engineer | エンジニアが使っているキーボード(音階が付いてない方)の話 - NRIネットコムBlog
+https://news.mynavi.jp/article/20240101-2855489/ | PCテクノロジートレンド 2024 - プロセス編 | マイナビニュース
+https://www.moguravr.com/vtuber-audition-2024-01/ | 志望者必読！ VTuberオーディション情報まとめ【2024年1月】 - MoguLive
+https://realsound.jp/book/2023/12/post-1528725.html | コミケの時代が終わる？　賛否両論の原稿とファンの声から見えてきた日本最大の同人誌イベントの強み｜Real Sound｜リアルサウンド ブック
+
+https://www.lifehacker.jp/article/2312-ranking-top30-2023/ | 長期休暇を無駄にする人がやりがちな「5つの過ち」とは？｜ライフハッカー2023年人気記事TOP30 | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2312-lht-best-sellers-of-2023-ranking-stationaries/ | 2023年もっとも売れたライフハックツールTOP10【文具編】 | ライフハッカー・ジャパン
+https://news.yahoo.co.jp/articles/416b03bc981f426e783960e04d236999a45ad95d | 「東大王」と歩んできた伊沢拓司さん　振り返るテレビの存在「地上波で輝き続けている、アイツ」（withnews） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/6b235c8b6f8d4341a30815f6958480771a0b4538 | 有り金が底をつき、オフィスの水まで有料に…窮地のイーロン・マスクがテスラ社員に送った“一本のメール”「人類の未来のために…」（文春オンライン） - Yahoo!ニュース
+https://diamond.jp/articles/-/336705 | 管理職の素質がある人、ない人の決定的な違い…「会議の発言」で即バレ！【2023会員ベスト4】 | DOLベスト記事アワード | ダイヤモンド・オンライン
+https://diamond.jp/articles/-/335532 | 部下のやる気が一発で萎える「絶対に言ってはいけない」NGフレーズとは？ | とにかく仕組み化 | ダイヤモンド・オンライン
+https://qiita.com/marty_ojiya/items/29bf5fa8a367c14040c3 | 最新の技術書に出会えるサイトを自己最速でリリースした #Django - Qiita
+https://qiita.com/tanakahisateru/items/a2522e0823e2440ff207 | ちょうぜつソフトウェア設計入門から1年、オブジェクト指向を求めて #ちょうぜつ - Qiita
+https://www.avermedia.co.jp/ | AVerMedia | アバーメディア・テクノロジーズ株式会社
+https://www.avermedia.co.jp/event/product_select_jp/index.html | 製品選択ナビ - あなたに最適なキャプチャー製品を見つけよう！
+https://logmi.jp/business/articles/329860 | 会議前の「本日は長丁場になりますが…」が士気を下げる　組織のパフォーマンスを上げるリーダーの声かけ - ログミーBiz
+https://logmi.jp/business/articles/329859 | 部下が「言わなきゃよかった」と後悔する、上司のひと言　組織の心理的安全性を守れるリーダーと壊すリーダーの違い - ログミーBiz
+https://diamond.jp/articles/-/336078 | 「中途で入社して活躍できる人」「まったく活躍できない人」の決定的な差とは？ | とにかく仕組み化 | ダイヤモンド・オンライン
+https://www.ipa.go.jp/shiken/syllabus/henkou/2023/20231225.html | 情報処理技術者試験及び情報処理安全確保支援士試験における出題範囲・シラバスの一部改訂について（近年の技術動向・環境変化などを踏まえた改訂） | 試験情報 | IPA 独立行政法人 情報処理推進機構
+https://gigazine.net/news/20231228-10-things-software-developer-should-learn/ | ソフトウェア開発者が「学習」について知っておくべき10のこと - GIGAZINE
+https://www.gizmodo.jp/2023/12/elon-musk-billionaire-tesla-wealth-twitter-spacex-1.html | たった一日で資産86億ドルを失ったイーロン・マスク | ギズモード・ジャパン
 https://gigazine.net/news/20231219-google-titan-security-pass-key/ | 最大250種類のパスキーの保存が可能なGoogle Titan セキュリティ キーを使ってパスキー認証してみた - GIGAZINE
 https://www.gizmodo.jp/2023/12/google-bard-with-gmail.html | Google Bard便利すぎ。Gmailから検索して表まで作るだなんて… | ギズモード・ジャパン
-https://president.jp/articles/-/76853?page=1 | 数学の本質は､その自由性にあり…｢普通の無限｣と｢でっかい無限｣をみつけた天才カントールのすごい発想 ｢究極の自由人｣が数学界のタブーを打ち破った | PRESIDENT Online（プレジデントオンライン）
 https://diamond.jp/articles/-/336077 | 「絶対に採用してはいけない人」の特徴・ワースト1 | とにかく仕組み化 | ダイヤモンド・オンライン
 https://www.ipa.go.jp/security/anshin/heads-up/alert20231221.html | 2023年度 年末年始における情報セキュリティに関する注意喚起 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構
-https://sirabee.com/2023/12/19/20163215478/ | マクドナルド、20日から“1年で1番おトク”なキャンペーン実施　「最強かよ」「たまらん…」 – Sirabee
+https://jetstream.bz/archives/181600 | デジタル庁、「マイナンバーカード」のアプリ化を検討 – Jetstream BLOG
+https://prtimes.jp/main/html/rd/p/000000158.000012901.html | 東大クイズ王・伊沢拓司がトークイベント「クイズと、短歌と、コピーの話。」に登壇。会場のブックカフェ・文喫ではQuizKnock発の通販サイト「QurioStore」のポップアップストアも開催中！ | 株式会社batonのプレスリリース
+https://crea.bunshun.jp/ud/pressrelease/658ce8d7af6d3494fc000004 | 伊沢拓司率いる東大発の知識集団 QuizKnockが関西地方で大型イベントを初開催！　1月7日までアーカイブチケット販売中 | CREA
+https://withnews.jp/article/f0231228002qq000000000000000W02q10101qq000026485A | 「東大王」と歩んだ伊沢拓司さん　テレビとYouTubeの違いは？
+https://times.abema.tv/articles/-/10108351 | “奇跡の二次元ボディ”天木じゅんの春麗コスプレに衝撃「なんちゅう格好してんだ！」「超セクシーでかわいい」 | 芸能 | ABEMA TIMES | アベマタイムズ
+https://www.tokyo-sports.co.jp/articles/-/287274 | 大津綾香氏から郵送で党所属の同意求められた斉藤健一郎氏「気持ち的には残りたくない」 | 東スポWEB
+https://rocketnews24.com/2023/12/28/2131185/ | 毎年冬コミに全日程で参戦し、寒さに震え続けた取材班が行きついた、究極の対冬コミ用装備 | ロケットニュース24
+https://forest.watch.impress.co.jp/docs/review/1558171.html | 現状、理想にもっとも近いアイデアノート？ Markdownでメモを管理できる「Obsidian」【レビュー】 - 窓の杜
+https://tech.mirrativ.stream/entry/2023/12/28/115819 | クラウドネイティブなアーキテクチャと技術で実現するVPN - Mirrativ Tech Blog
+https://coefont.cloud/ | CoeFont (コエフォント): ナレーション ゲーム 動画制作 オーディオブック制作 …
+https://www.smartonehealth.jp/devices/oximeter/ | パルスオキシメーターの連携機器一覧｜スマートワンヘルス
+https://ja.vitejs.dev/guide/why.html | Vite を使う理由 | Vite
+http://scp-jp.wikidot.com/antimemetics-division-hub | サイトは安全ではありません
+https://i.mem.ooo/ | A fragment of memories
+https://www.oreilly.com/library/view/terraform-3/9784814400522/ | 詳解 Terraform 第3版 ―Infrastructure as Codeを実現する [Book]
+https://dev.classmethod.jp/articles/review-book-with-all-the-basics-of-project-management/ | 【書評】「プロジェクトマネジメントの基本が全部わかる本」の輪読会を開催していただいたので参加しました | DevelopersIO
+https://zenn.dev/aldagram_tech/articles/871b4dcc7b5d9c | アルダグラムが使っている技術スタック（2021年 → 2023年）
+https://www.businessinsider.jp/post-280180 | グーグルの生産性の専門家がアドバイス。在宅勤務で効率的な1日を送るための6つのポイント | Business Insider Japan
+https://president.jp/articles/-/76853?page=1 | 数学の本質は､その自由性にあり…｢普通の無限｣と｢でっかい無限｣をみつけた天才カントールのすごい発想 ｢究極の自由人｣が数学界のタブーを打ち破った | PRESIDENT Online（プレジデントオンライン）
+
+https://codezine.jp/article/detail/18818 | より使いやすくなったPHP 8.3の新機能──クラスや変数定義、エラーと例外の強化ポイントを解説 (1/3)|CodeZine（コードジン）
+https://codezine.jp/article/detail/18849 | JavaScript／TypeScript向け静的解析ツール「Oxlint」が正式に公開、Rustの採用で大幅に高速化|CodeZine（コードジン）
+https://zenn.dev/uint256_t/articles/00f9379a7e69b4 | ONNX について
+https://qiita.com/squid-cat/items/e6bb159a3c2b30e3405f | 作りたいものは作り始める前に今すぐにデプロイしよう #個人開発 - Qiita
+https://qiita.com/hryk_nu/items/d2bd69201778abecedd4 | 2023年版！エンジニア必見のチートシート集 #機械学習 - Qiita
+https://zenn.dev/uhyo/articles/async-object-stack | AsyncLocalStorageとusingで快適に構造化ロギングしたい話
+https://cloud.watch.impress.co.jp/docs/news/1557755.html | センチュリー・システムズ、屋外対応で防水化したIoTゲートウェイ／VPNルーターを発表 - クラウド Watch
+https://qiita.com/10long/items/a63cf27dcc2374b595d5 | 【promptbase】これがこれからのプログラミングなのか・・・？ #LLM - Qiita
+https://zenn.dev/knowledgework/articles/jest-to-vitest | フロントエンドのテスト基盤を Jest から Vitest に移行した話
+https://www.businessinsider.jp/post-280439 | 日程調整のメールを激減させる方法。Googleカレンダーで｢自分専用予約ページ｣を作る | Business Insider Japan
+https://pc.watch.impress.co.jp/docs/news/1556744.html | G.SKILL、情報表示したりホットキー操作できる7型液晶 - PC Watch
+https://qiita.com/yym_06/items/ae1ba9d1d15619486f82 | 【今さら聞けない?!】T3 Stack によるフルスタックWebアプリ開発 #TypeScript - Qiita
+https://internet.watch.impress.co.jp/docs/event/1557070.html | DNSの仕組みの中でも特に面倒くさい情報!? 「グルーレコード」の現状を知る――「ランチのおともにDNS」より【Internet Week 2023】 - INTERNET Watch
+https://qiita.com/higuchimmy/items/de07512c222284d10ed9 | CyberAgent内定者が考える脱初心者エンジニア論 #キャリア - Qiita
+https://qiita.com/muratak-dev/items/d86ea9e70dfdf5220ee8 | Node.js/TypeScriptの特性と現場での活用 #Node.js - Qiita
+https://logmi.jp/tech/articles/329877 | 「横に割ってダメなら縦に割りましょう」　データベースの“大きな泥だんご“状態解消に向けた垂直分割 - ログミーTech
+https://av.watch.impress.co.jp/docs/news/1557955.html | マクドナルドに「ゴジラバーガー」誕生。1月5日から提供 - AV Watch
+https://qiita.com/kyntk/items/04d00e049f8b6846939f | 「オブジェクト指向設計実践ガイド」を読んだ #Ruby - Qiita
+https://zenn.dev/sosukesuzuki/articles/81fcaadc41fa77 | 2023 年の Prettier 振り返り
+https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede | GitHubのプロフィールを充実させてみよう♪ #初心者 - Qiita
+https://logmi.jp/business/articles/329874 | 爆速成長企業が最初にITリテラシーの低い人を採用したワケ　2年でARR10億円を達成したスタートアップの営業組織の作り方 - ログミーBiz
+https://zenn.dev/hhiroshell/articles/kubernetes-startup-sequence-of-pods | Pod内に複数のコンテナがある場合の起動シーケンス
+https://www.lifehacker.jp/article/2312-microsoft-lists-review/ | Microsoft Listsでタスク管理が変わる！Excel時代との違いを実感【今日のワークハック】 | ライフハッカー・ジャパン
+https://www.itmedia.co.jp/pcuser/articles/2312/22/news132.html | 国内メーカー3社が最新規格「Wi-Fi 7」対応無線LANルーターの投入を予告 - ITmedia PC USER
+https://techblog.ap-com.co.jp/entry/2023/12/25/093000 | AWS全冠(≒All Certifications Engineer)になりました。 - APC 技術ブログ
+https://dev.classmethod.jp/articles/202312-cfn-git-sync-gitlab/ | CloudFormationの新機能「Git Sync」をGitLabで試してみた #AWSreInvent | DevelopersIO
+https://devblog.thebase.in/entry/2023/12/24/110000 | 単体テストの考え方/使い方 社内読書会をしました - BASEプロダクトチームブログ
+https://statmodeling.hatenablog.com/entry/2023/12/23/193447 | 技術記事はZennで書くことにします - StatModeling Memorandum
+https://buzzap.jp/news/20231223-t-bao-mn56u-compact-gaming-pc-price-down-under-ps5/ | FF14も遊べる格安パソコン「T-BAO MN56U」値下げ、高性能かつトリプルディスプレイ対応で仕事もプライベートも快適な1台がPS5より安価に | Buzzap！
+https://type.jp/et/feature/24126/ | 日本をダメにした「魔改造」の罠。メソッドは鵜呑みにしてこそ意味がある【牛尾剛×けんすう】 - エンジニアtype | 転職type
+https://news.denfaminicogamer.jp/news/231227k | 「ずんだもん」になれる『VTubeStudio』向け公式Live2Dモデルが無料配布開始
+https://tech-blog.rakus.co.jp/entry/20231226/GithubCopilot | GitHub Copilot全社導入で得られた効果と課題 - RAKUS Developers Blog | ラクス エンジニアブログ
+https://tech-blog.tabelog.com/entry/advent-calendar-20231223 | 設計書を書かない設計で開発効率を向上させた話 - Tabelog Tech Blog
+https://maplestory.nexon.co.jp/notice/view/?alias=61cf0f63020f4484aa43ba47477e88f3 | 6次転職のオープン日程について | お知らせ | メイプルストーリー公式サイト
 
 https://internet.watch.impress.co.jp/docs/news/1554199.html | JPRS、「インターネットリテラシーが学べるポスター」「国別トップレベルドメインがクイズで学べる下敷き」を教育機関へ無償配布 - INTERNET Watch
 https://forest.watch.impress.co.jp/docs/news/1546515.html | 「FFmpeg 6.1」が半年以上遅れて公開 ～「FFmpeg 7.0」は計画通り2024年2月リリースへ - 窓の杜
