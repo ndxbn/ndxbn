@@ -6,6 +6,12 @@ labels: ffxiv, weekly, todo
 assignees: ndxbn
 ---
 [修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
+
+# 家事
+
+- [ ] 洗濯機のフィルター掃除
+- [ ] 掃除機のゴミ捨て（月水金）
+
 # FF14
 
 メイン
