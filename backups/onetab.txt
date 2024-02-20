@@ -1,3 +1,202 @@
+https://www.publickey1.jp/blog/24/jquery_40308ie10.html | jQuery 4.0β版が登場。バージョン3.0から8年振りのメジャーバージョンアップへ。IE10以前のサポートは終了に － Publickey
+https://www.publickey1.jp/blog/24/webvscodedockerwasmwebvscode-container-wasm.html | Web版VSCodeがDockerコンテナをWASM環境で起動、Webブラウザ内ローカルマシンとして利用可能に。拡張機能「vscode-container-wasm」登場 － Publickey
+https://www.publickey1.jp/blog/24/githubsecure_code_game2.html | GitHub、脆弱性のあるコードを実際にデバッグして学べる「Secure Code Game」シーズン2がスタート － Publickey
+https://zine.qiita.com/news/2023-12-27/ | Qiitaニュース | 全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】 - Qiita Zine
+https://zine.qiita.com/news/2024-01-05/ | Qiitaニュース | 【日本人エンジニア必携】英語命名規則の決定版 - Qiita Zine
+https://sakidori.co/article/2072536 | レインスーツのおすすめ25選。メンズ・レディース・キッズ別にご紹介
+https://sakidori.co/article/2063481 | メンズボディーシェーバーのおすすめ14選。簡単にムダ毛処理ができる
+https://sakidori.co/article/2008417 | ペットボトル用ゴミ箱のおすすめ10選。大容量のモノもラインナップ
+https://sakidori.co/article/2051361 | オーディオ用USBケーブルのおすすめ15選。タイプ別にご紹介
+https://sakidori.co/article/2058344 | 軽いメガネのおすすめ11選。おしゃれで使いやすいモデルをご紹介
+https://sakidori.co/article/2099627 | 4つの燃料から選べる！優れた2次燃焼のファイヤーピット「Bondstove mini」
+https://sakidori.co/article/2055896 | 冷凍パイシートのおすすめ14選。種類や味わいの違いもあわせてご紹介
+https://sakidori.co/article/1984053 | クッキング温度計のおすすめ15選。非接触で測れる人気アイテムもご紹介
+https://sakidori.co/article/2101823 | メモ帳のおすすめ25選。おしゃれでかわいいモノもご紹介
+https://paiza.hatenablog.com/entry/2024/02/02/130000 | なぜポモドーロテクニックが最強の集中法なのか - paiza times
+https://www.infoq.com/jp/news/2024/02/pinecone-serverless-database/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | Pineconeがサーバーレスのベクトルデータベースを発表 - InfoQ
+
+https://www.lifehacker.jp/article/2402-how-to-explain-things-better/ | 一流と三流はどこが違う？ 説明の達人が実践する「伝わる話し方」 | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2402-tb-brainwriting/ | 30分で108個のアイデアが出る!? ブレストよりも効果的な「ブレインライティング」のやり方 #TrendBuzz | ライフハッカー・ジャパン
+https://www.iza.ne.jp/article/20240216-4BFYYBPHWRGIVKQIMF3EFFXZVI/ | えなこ、年収1億円の仕事内容＆撮影の裏側明かす　「TVerで学ぶ！最強の時間割」講師役で登場 - イザ！
+https://www.gizmodo.jp/2024/02/health-insurance-card-smartphone.html | 病院に行くとき身軽になる。保険証データはスマホに保存可能に | ギズモード・ジャパン
+https://internet.watch.impress.co.jp/docs/topic/special/1568154.html | インボイス制度で変わる確定申告 「2割特例」「簡易課税」「一般課税」…どうすればいい？ - INTERNET Watch[Sponsored]
+https://www.gamespark.jp/article/2024/02/16/138518.html | 『パルワールド』厄介な拠点襲撃してくるやつらを“スポーンキル”する方法が話題に…襲撃パルもお手軽に捕獲できちゃう | Game*Spark - 国内・海外ゲーム情報サイト
+https://news.goo.ne.jp/il/98113/%E3%82%B9%E3%82%BF%E3%83%90%E3%81%A7%E3%80%8C%E4%BA%88%E5%AE%9A%E6%97%A5%E3%81%84%E3%81%A4%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8D%E3%81%A8%E5%BA%97%E5%93%A1%E3%81%AB%E8%81%9E%E3%81%8B%E3%82%8C%E3%81%9F%E5%A6%8A%E5%A9%A6%E3%81%95%E3%82%93%E3%83%BB%E3%83%BB%E3%83%BB%E3%80%8C%E6%98%8E%E6%97%A5%E3%80%8D%E3%81%A8%E8%BF%94%E3%81%97%E3%81%9F%E3%82%89%EF%BC%91%E9%80%B1%E9%96%93%E5%BE%8C%E3%81%AE%E3%80%8E%E5%87%BA%E6%9D%A5%E4%BA%8B%E3%80%8F%E3%81%8C%E8%A9%B1%E9%A1%8C%E3%81%AB%E3%80%8C%E6%B0%97%E3%81%BE%E3%81%9A%E3%81%84%E3%81%AA%E3%83%BCwww%E3%80%8D%E3%80%8C%E3%81%BE%E3%81%9F%E4%BD%99%E8%A3%95%E3%81%8C%E3%81%82%E3%82%8C%E3%81%B0%E3%81%A7%E3%81%99%E3%81%8C%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%8D | スタバで「予定日いつですか？」と店員に聞かれた妊婦さん・・・「明日」と返したら１週間後の『出来事』が話題に「気まずいなーwww」「また余裕があればですが行ってみてください」 - いまトピライフ
+https://www.fnn.jp/articles/-/658575 | ナゾが解けた！霞が関の官僚がマイナ保険証を使わない理由｜FNNプライムオンライン
+https://news.mynavi.jp/article/20240216-2882430/ | Blueskyのはじめかた | マイナビニュース
+
+https://zenn.dev/miketako3/articles/0705876f451f8b | ヘルスケアデータをGrafanaで見たくない…？〜健康 Reliability Engineering〜
+https://techblog.ap-com.co.jp/entry/2024/01/26/184440 | GitHub Copilot ChatでAzureのインフラを爆速実装しよう - APC 技術ブログ
+https://zenn.dev/loglass/articles/94753ea267bb74 | 数年来の技術的負債を改修した話 - 2種類のORM並列状態からの脱却 -
+https://techblog.ap-com.co.jp/entry/2024/01/26/215603 | AWS S3 のファイルを社内からのみ URL でダウンロード可能にする（パブリックアクセスブロック有効） - APC 技術ブログ
+https://zenn.dev/hiraoku/articles/926cbb8bc35eaa | あっ、そうだ！モダンCSSをまとめておこう
+https://aws.amazon.com/jp/builders-flash/202011/migration-to-cloud-2/?awsf.filter-name=*all | マイグレーションを実現するために - 第 2 回 : 移行戦略と移行パスとは ? - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS
+https://tech.smarthr.jp/entry/2024/01/18/110929 | 型キャストの場所のせいで、秒で終わっていたクエリに1時間超かかるようになってしまった話 - SmartHR Tech Blog
+https://qiita.com/myjkyou/items/44b96bc8a9c33778b3b3 | 新卒5か月で転職し、AWS全冠を達成した話 #AWS - Qiita
+https://kakakumag.com/av-kaden/?id=20438 | ゼンハイザーからガチなスポーツ向けTWS「MOMENTUM Sport」が登場！ - 価格.comマガジン
+https://pc.watch.impress.co.jp/docs/topic/feature/1562588.html | 【特集】ミニPCをそのまま使うなんてもったいない！利便性を200%向上させる周辺機器たち - PC Watch
+https://tech.nri-net.com/entry/super_convenient_aws_mgn | 高度に自動化された移行ツール AWS MGN　超便利なその裏側で何が行われているのか！ - NRIネットコムBlog
+https://www.yodobashi.com/maker/5000012001/ | ヨドバシ.com - エムアイケミカル 通販【全品無料配達】
+https://stocker.jp/diary/web-news-jan2024/ | 2024年1月の、これだけは押さえておきたいWeb関連の動き – Stocker.jp/diary
+https://www.oricon.co.jp/prof/228972/lyrics/I199656/ | LIVING DEAD DINER GIRLSの歌詞 | 川瀬智子 | ORICON NEWS
+https://shop.hololivepro.com/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318678417628 | ゆくホロくるホロ 年末年始デートボイス ～ゆくホロ2023！～ – hololive production official shop
+
+https://news.yahoo.co.jp/articles/4cbd33c6b59df3d5f467ed926e37ec10be23f5a5 | 昨年の医療費が11万円でした。「医療費控除」でいくら還付されますか？　大した額ではないなら手間もかかるし確定申告したくないのですが。（ファイナンシャルフィールド） - Yahoo!ニュース
+https://gigazine.net/news/20240207-chatgpt-school-applications/ | 特定のワードが大学の論文で出現しまくっておりChatGPTなどの生成AIが使用されたことを示す危険信号となりつつあることが明らかに - GIGAZINE
+https://logmi.jp/tech/articles/330082 | 「無償公開していたからこそ、サブスクで売上が立てられた」　個人開発のオープンソースを元に法人化＆マネタイズ - ログミーTech
+https://logmi.jp/business/articles/330095 | 仕事ができる優秀な人ほど、部下を育成できない理由　幹部・管理職に「変われ」と言う前に、見直したい組織のあり方 - ログミーBiz
+https://logmi.jp/business/articles/330049 | “彼はすごくいい人だけど…”とグローバル企業で評価されない人の特徴　日本の優秀なマネジメント層に足りない資質 - ログミーBiz
+https://gigazine.net/news/20240207-bluesky-none-invite/ | ついにX(旧Twitter)に似たSNS「Bluesky」が招待制を廃止して誰でも参加可能になったのでアカウント作成方法をまとめてみた - GIGAZINE
+https://toyokeizai.net/articles/-/732140 | 部下との1on1を｢豊かな｣時間にする3つの糸口 "心理的安全性"を脅かさないためにできること | リーダーシップ・教養・資格・スキル | 東洋経済オンライン
+https://diamond.jp/articles/-/337962 | 「管理職にしたら絶対マズい人」を見抜く“シンプルな方法” | チームX──ストーリーで学ぶ１年で業績を13倍にしたチームのつくり方 | ダイヤモンド・オンライン
+https://www.4gamer.net/games/574/G057444/20240202062/ | 【山本一郎】「パルワールド事件」と，そこで起きてることを理解するための「補助線」
+https://forbesjapan.com/articles/detail/67574 | 部下を狂わせかねない「上司の悪しき行動」10選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://www.gizmodo.jp/2024/02/roductivity-does-not-decrease-with-remote-work.html | ｢オフィスに戻ったほうが生産性が高い｣はウソだった | ギズモード・ジャパン
+https://kai-you.net/article/88746 | ポケモンに酷似『パルワールド』 著作権に詳しい弁護士に見解を聞いてみた - KAI-YOU.net
+https://news.yahoo.co.jp/articles/36c57d0d885398c3cf9325c0450011e0dc21ba18 | 「完璧に失敗」マイナ保険証、国家公務員の利用率4.36％にあふれる憤慨…河野大臣“過去の発言”への批判も再燃（SmartFLASH） - Yahoo!ニュース
+https://jbpress.ismedia.jp/articles/-/79210 | 「聞いてないよ！」東京都が作成の善福寺川治水計画に杉並区から反対意見続々 【川から考える日本】浸水対策は悲願も…公園は廃止、住民は立ち退きの瀬戸際(1/8) | JBpress (ジェイビープレス)
+https://toyokeizai.net/articles/-/730246 | 東京都が主導する｢マッチングアプリ｣の正体 ｢リーズナブル｣｢安全｣｢男女平等｣が特徴 | 恋愛・結婚 | 東洋経済オンライン
+https://news.goo.ne.jp/article/mainichi/politics/mainichi-20240202k0000m040250000c | 404 - gooニュース
+https://logmi.jp/tech/articles/330022 | アジャイルを導入したものの続けられなかったあなたへ　誤解や理解不足で起こる“もったいない”を解消するヒント - ログミーTech
+https://gigazine.net/news/20240207-virus-like-entity-obelisks/ | 科学者が「正気の沙汰じゃない」と口走る新発見、人体から発見されたウイルスでもバクテリアでもない謎の生物的存在「オベリスク」とは？ - GIGAZINE
+
+https://tellme.tokyo/post/2022/03/02/package-manager-for-cli/#fnref:2 | 新しいコマンドラインツール向けのパッケージマネージャ | tellme.tokyo
+https://tellme.tokyo/post/2023/03/21/manage-gh-extensions/ | gh extension の管理 | tellme.tokyo
+https://cio.go.jp/guides | 標準ガイドライン群 | 政府CIOポータル
+
+https://news.yahoo.co.jp/articles/15370c8cdbd995a0ad68f6ae4fd412519c831d7c | デジタルリテラシー協議会、「ITパスポート試験」など3試験の合格者に「DX推進パスポート」デジタルバッジを発行（クラウド Watch） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/22c1ff9639dc5264bf9d44d7f6974490bc40a519 | 「ポケモンのパクリ」議論巻き起こる『パルワールド』　 ヒットの一方で「怒り」の声上がるワケ（マグミクス） - Yahoo!ニュース
+https://smhn.info/202402-docomo-peasy-fin | 続くドコモ系サービスのサ終。今度はPeasyが終了へ - すまほん!!
+https://smhn.info/202402-lightning-apple-vision-pro | 【悲報】Lightningケーブル、生存確認。なんと最新「Apple Vision Pro」にて、しかも大型化 - すまほん!!
+https://forest.watch.impress.co.jp/docs/serial/yajiuma/1565036.html | 「それはムリです」「～になっちゃいます」……「Arduino IDE」の言葉遣いがかわいい - やじうまの杜 - 窓の杜
+https://www.moguravr.com/hololive-3d-live-behind-the-scenes/ | ホロライブの「おうち3D配信」はどうやって実現している？ カバー社がトラッキング技術の裏側を紹介 - MoguLive
+https://av.watch.impress.co.jp/docs/news/1565753.html | NHKネット配信は「受信契約の対象。相応の費用負担をお願いする」 - AV Watch
+https://news.yahoo.co.jp/articles/4b082de054c52bc1e6f89bd3939ff04b96e4ddcb | ポケモン酷似ゲームで日本の芸能プロが「関わるな」とお達し 〝本家〟に配慮（東スポWEB） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/ff97aefce29749331da69f6e26522a91af09b4f9 | IPA セキュリティ10大脅威 ～ 顔ぶれ前年と変わらず 個人対象脅威の順位廃止（ScanNetSecurity） - Yahoo!ニュース
+https://www.moguravr.com/vtuber-audition-2024-2/ | 志望者必読！ VTuberオーディション情報まとめ【2024年2月】 - MoguLive
+https://logmi.jp/business/articles/330043 | 文章が3行以上続くパワポ資料は読まれない　まず全体像が伝わる、拾い読みできる提案資料の作り方 - ログミーBiz
+https://logmi.jp/tech/articles/330035 | 世界トップレベルの才能を持っていても給料は“新卒並み”　天才ホワイトハッカーたちが正しく評価されてこなかった理由 - ログミーTech
+https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001345&Mode=0 | 「AIと著作権に関する考え方について（素案）」に関する意見募集の実施について｜e-Govパブリック・コメント
+https://news.livedoor.com/article/detail/25807331/ | LINEで句点「。」は誤解を招く… “マルハラスメント”とは？ 若者世代「冷たい、怒ってる、冷めてる、もう会話が終了という意図なのかなと」 - ライブドアニュース
+https://www.tokyo-np.co.jp/article/306478 | マイナ保険証が役に立たず「医療費いったん全額請求」が753件　保団連が調査「総点検後もトラブル相次ぐ」：東京新聞 TOKYO Web
+https://www.j-cast.com/2024/01/30477217.html?p=all | 河野太郎氏「カナ入力の方が明らかに速い」も...　キーボード入力方法のアンケートに44万票超、「ローマ字派」圧倒的: J-CAST ニュース【全文表示】
+https://www.asagei.com/excerpt/298520 | 渡辺明が恐怖証言「王将戦」大記録まであと1勝の藤井聡太との対局は「自分の持ち時間だけが減る」 | アサ芸プラス
+https://diamond.jp/articles/-/338038 | 管理職の資質がある人、ない人の決定的な違い…「普段の会話」で即バレ！ | 管理職大淘汰！生き残る「上司力」 | ダイヤモンド・オンライン
+https://gigazine.net/news/20240131-tld-internal/ | ICANNが内部ネットワーク用の私用TLDとして「.internal」を暫定採用、パブリックコメント募集へ - GIGAZINE
+https://s.inside-games.jp/article/2024/01/31/152229.html | 女性VTuberがゲーム内の迷惑行為を受け「被害届」提出へ。「ネットでの誹謗中傷がひとつでもなくなれば」 | インサイド
+https://www.oricon.co.jp/news/2312713/full/ | 平野綾『らき☆すた』作者からの結婚お祝いイラスト公開「ありがとうございます」 | ORICON NEWS
+https://www.tokyo-sports.co.jp/articles/-/290731 | ポケモン酷似ゲームで日本の芸能プロが「関わるな」とお達し 〝本家〟に配慮 | 東スポWEB
+https://mdpr.jp/news/detail/4174849 | コスプレイヤー・Liyuu、大胆露出に挑戦で大人っぽい姿 - モデルプレス
+https://smart-flash.jp/sociopolitics/271917/1/1/ | 「保険証なくなったらどうなる？」マイナ保険証で医療費「10割請求」753件　総点検後も絶えないトラブルに高まる不安 | Smart FLASH/スマフラ[光文社週刊誌]
+https://type.jp/et/feature/24313/ | 話がかみ合わない、要望が正確に伝わらない…エンジニアからPMOになって分かった「開発現場の難所」突破法を発信したい【連載Vol.1】 - エンジニアtype | 転職type
+https://webnewtype.com/report/cast/entry-28176.html | 【後編】原作20周年記念「『らき☆すた』オーケストラコンサート～20周年だよ、全員再集合！～」開催特別対談　柊つかさ役・福原香織×柊かがみ役・加藤英美里 | キャスト | レポート | WebNewtype
+https://news.goo.ne.jp/iw/251319/%E3%80%8E%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%80%8F%E3%81%8B%E3%81%AA%E3%82%8A%E3%81%AE%E7%97%9B%E6%89%8B%E3%80%8C%E4%BB%96%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%81%AB%E8%A1%8C%E3%81%8F%E3%80%8D%E3%80%8C%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E2%80%A6%E3%80%8D | 『マクドナルド』かなりの痛手「他チェーンに行く」「ショック…」 - いまトピランキング
+https://japan.zdnet.com/article/35214396/ | 多くのIT部門でアジャイルアプローチが成功しない理由 - ZDNET Japan
+https://www.lifehacker.jp/article/amazon-timesale-fes-2024-0201-5/ | Apple Watchを買ったら揃えたい。スマートウォッチライフを充実させる周辺機器11選【Amazonタイムセール祭り】 | ライフハッカー・ジャパン
+https://www.famitsu.com/news/202401/31333025.html | PCゲームパスがいまだけ3ヵ月100円。『パルワールド』『P3R』『龍が如く7外伝』『Starfield』などがプレイし放題【追記あり】 | ゲーム・エンタメ最新情報のファミ通.com
+https://www.kantei.go.jp/jp/singi/titeki2/pdf/20240101_new_cooljapan.pdf | 20240101_new_cooljapan.pdf
+https://www.soumu.go.jp/menu_news/s-news/01ryutsu20_02000001_00009.html | 総務省｜報道資料｜「AI事業者ガイドライン案」に関する意見募集
+
+https://www.infoq.com/jp/news/2024/01/amazon-cloudfront-keyvalue-store/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | AWSがCloudFrontファンクション用の低遅延データストア：Amazon CloudFront KeyValueStoreを発表
+https://www.infoq.com/jp/news/2024/01/aws-kubernetes-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | AWS、Amazon EKSの新しい強化されたオブザーバビリティでKubernetesモニタリングを改善
+https://www.infoq.com/jp/news/2024/01/iam-unused-access-analyzer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | AWSが未使用のIAMロール、ユーザー、権限を自動検出する機能を追加した
+https://www.infoq.com/jp/news/2024/01/frugal-architect-werner-vogels/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | 質素なアーキテクト：AWSは持続可能性のためにコスト意識を高める
+https://www.infoq.com/jp/news/2024/01/zoom-vulnerability-score-viss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | Zoom、新しい脆弱性への影響度評価システムVISSをオープンソース化
+https://r25.jp/article/874463742857838592?utm_medium=rss&utm_source=normal | 「ダルい」の先に意見が見つかる！？ 発言のない会議をアゲる「ギャル式ブレスト」｜新R25 - シゴトも人生も、もっと楽しもう。
+https://www.infoq.com/jp/news/2024/01/openai-prompt-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | OpenAIがGPTプロンプトエンジニアリングガイドを発表
+https://www.publickey1.jp/blog/24/ruby_33yjitrubymn.html | Ruby 3.3正式リリース。YJITコンパイラの大幅な性能向上、RubyのスレッドスケジューラとしてM:Nスレッドスケジューラ導入など新機能 － Publickey
+https://r25.jp/article/870152854722052098?utm_medium=rss&utm_source=normal | 令和はギャルがビジネスを救う！？ 今身につけたいギャルマインドとは｜新R25 - シゴトも人生も、もっと楽しもう。
+https://www.publickey1.jp/blog/24/aiai12.html | マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開 － Publickey
+https://www.infoq.com/jp/articles/monolith-versus-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | モノリス対マイクロサービスという誤った二分法
+https://www.infoq.com/jp/news/2023/12/git-partial-clone-azure-devops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | マイクロソフト、Azure DevOpsでGit Partial Cloneのサポートを発表
+https://www.publickey1.jp/blog/23/mozillaaiwebsolo.html | MozillaがAIでWebサイトを自動制作してくれる「Solo」を公開。基本的な情報を基に、説明文からレイアウト、適切なフリー画像の選択までおまかせ － Publickey
+https://www.publickey1.jp/blog/23/publickey2023it.html | Publickeyの年間記事ランキングを見ながら、2023年のIT業界の出来事を振り返る － Publickey
+https://www.publickey1.jp/blog/24/publickeyit2024azureaws_it.html | PublickeyのIT業界予想2024。ハイパースケーラーの優位性高まる、AzureはAWSに追いつくか？ ITエンジニアの給与レベル上昇 － Publickey
+https://zine.qiita.com/interview/202312-hitachi-2/ | 国内のマイグレーション、モダナイゼーション案件が集まる日立製作所が始めた「ポータル」プロジェクトを探る - Qiita Zine
+https://zine.qiita.com/interview/202312-jsol/ | 新しい技術を使うと生まれる新たなセキュリティリスク。JSOLのセキュリティプロフェッショナルに対策と取り組みを聞いた - Qiita Zine
+https://zine.qiita.com/interview/202312-hitachi-3/ | 日立のAWSエンジニアたちが語る、海外エンタープライズ向けクラウドサービスを扱うダイナミズム - Qiita Zine
+https://www.publickey1.jp/blog/24/puppeteerwebdriver_bidifirefox.html | Puppeteer、テスト自動化の次世代標準「WebDriver BiDi」に対応開始。Firefoxもサポートへ － Publickey
+https://www.publickey1.jp/blog/24/githubsdkopenapisdk.html | GitHub、SDKを刷新。今後はOpenAPI仕様の生成ツールで生成したSDKを提供へ － Publickey
+https://www.publickey1.jp/blog/24/github_actionsgithub_administrationgithub.html | GitHub Actionsの認定資格やGitHub Administrationの認定資格など、GitHub公式の認定資格制度が一般向けにスタート － Publickey
+https://webdesk.jsa.or.jp/ | 日本規格協会 JSA Group Webdesk
+https://and-engineer.com/articles/ZYz2yxEAAJYpbasW | 開発標準とは？システム開発の効率化に欠かせない標準について学ぼう | アンドエンジニア
+https://nodeweekly.com/issues/516 | Node Weekly Issue 516: January 9, 2024
+https://sosukesuzuki.dev/posts/2023/ | 2023 年振り返り
+
+https://zenn.dev/aldagram_tech/articles/cc18ca783aec11 | AWSのコスト最適化を行い30%程削減した話
+https://zenn.dev/ficilcom/articles/static-typing-for-startup | スタートアップは静的型付言語しか勝たん
+https://zenn.dev/tsuboi/books/3f7a3056014458 | Auth.js v5ではじめる本格認証入門
+https://gigazine.net/news/20240113-super-mario-maker-api/ | スーパーマリオメーカー2の通信は解析済みで全データを取得するためのAPIが構築済み、任意のコースをウェブ上で閲覧可能 - GIGAZINE
+https://zenn.dev/hayato94087/articles/e45c14a901096b | Commitzenで開発環境を整備
+https://gigazine.net/news/20240111-linux-6-8-networking/ | Linuxカーネル 6.8ではネットワークが最適化されてTCPの同時接続パフォーマンスが約40％向上する見込み - GIGAZINE
+https://kakehashi-dev.hatenablog.com/entry/2024/01/09/130000 | スクラムマスターはスクラムマスターを育成する - KAKEHASHI Tech Blog
+https://av.watch.impress.co.jp/docs/news/1559796.html | ASUS、仮想PCディスプレイにもなるウェアラブルデバイス「AirVision M1」 - AV Watch
+https://azukiazusa.dev/blog/remix-spa-mode/ | Remix の SPA モード
+https://qiita.com/tatsuyai713/items/577d40f9dd73de1a062e | Secure Boot有効かつ暗号化したUbuntuのUSBを作成し、（ほぼ）どんなPCでもセキュアにUbuntuを使うようにする #Ubuntu - Qiita
+https://tech.commmune.jp/entry/2024/01/10/173000 | ドメイン駆動設計に触れてから2年たったので、開発者の取り組み方について振り返ってみる - commmune Engineer Blog
+https://www.infoq.com/jp/articles/avoid-architecture-pitfalls/ | 12のソフトウェア・アーキテクチャの落とし穴とその避け方
+https://eng-blog.iij.ad.jp/archives/22009 | ひとり情シスの味方！お手軽社内サーバ監視・リモートデスクトップ接続 | IIJ Engineers Blog
+https://www.businessinsider.jp/post-280579 | 元グーグル採用担当者が明かす、面接でやるべきこと・やってはいけないこと | Business Insider Japan
+
+https://logmi.jp/tech/articles/329933 | まつもとゆきひろ氏が“幻のPerl6”から学んだ教訓　「OSSの最大の敵」と「セカンドシステムの危険性」 - ログミーTech
+https://www.infoq.com/jp/news/2024/01/frugal-architect-werner-vogels/ | 質素なアーキテクト：AWSは持続可能性のためにコスト意識を高める
+https://toyokeizai.net/articles/-/723128 | 独り歩きする｢心理的安全性｣ 誤解と本当の意味 ｢4つの不安｣を解消し｢7つの効果｣を上げる | リーダーシップ・教養・資格・スキル | 東洋経済オンライン
+https://www.lifehacker.jp/article/2401-how-to-determine-what-input-you-really-need/ | そのインプット、本当に必要ですか？ 無駄なインプットを防ぐセルフチェック3つ | ライフハッカー・ジャパン
+
+https://www.helentech.net/chromebook-desk-setup-jan-2024/ | Chromebook メインの作業環境&デスクセットアップ(2024年1月版) | HelenTech
+https://www.lifehacker.jp/article/2401-matome-how-to-motivate/ | どうしてもやる気が出ない時の対処法。仕事を軌道に乗せる8つのメソッド | ライフハッカー・ジャパン
+https://www.moguravr.com/hololive-3d-live-change/ | ホロライブプロダクション VTuberの記念3D配信の方針を変更 タレントやスタッフの負担軽減するかたちに - MoguLive
+https://diamond.jp/articles/-/337040 | 【インボイス】クレジットカードの明細書は「領収書」になる？ ならない？ | 【インボイス対応版】ひとり社長の経理の基本 | ダイヤモンド・オンライン
+https://codezine.jp/article/detail/18770 | 『ソフトウェアアーキテクチャの基礎』島田浩二氏が語る、エンジニアが最初に知っておくべきアーキテクチャリテラシー (1/3)|CodeZine（コードジン）
+
+https://qiita.com/kunishou/items/e0244aa2194af8a1fee9 | 新しいデータ処理ライブラリの学習はもう不要！ Python 初学者のための Ibis 100 本ノック #Python - Qiita
+https://www.watch.impress.co.jp/docs/series/itsmo/1554036.html | ラズパイで無限Spotify再生マシンを作ってみた【いつモノコト】-Impress Watch
+https://logmi.jp/business/articles/329842 | 2〜3年で離職する今、「10年ぐらい働いて一人前」は過去の話　人材育成、技術の変化…製造業が抱える課題解決のカギ - ログミーBiz
+https://pc.watch.impress.co.jp/docs/news/1559244.html | Intel、最大24コア/5.8GHzで動作するゲーミングノート向け第14世代Core HX - PC Watch
+https://ascii.jp/elem/000/004/173/4173104/ | ASCII.jp：Wi-Fi要らずでどこでも繋がるASUSの最新Chromebook 使いこなし術！
+https://zenn.dev/kaz_z/articles/first-contributions | これで君もOSSコントリビューター！
+https://note.com/zono_data/n/n8fc5f8206e83 | 2024年版：データエンジニア向け推薦本リスト｜zono
+https://zenn.dev/uhyo/articles/graphql-scalar-and-typescript | GraphQLのスカラーとTypeScriptの考察
+https://qiita.com/mamimami0709/items/fd6556707e4b924c65ab | 【バックエンド】駆け出しエンジニアが目指すジュニアレベルのエンジニアとは【2024年版】 #PHP - Qiita
+https://qiita.com/Kevin-Matsunaga/items/2c88c5209d41302e5fcb | 奇跡は毎日起きている #データサイエンス - Qiita
+https://zenn.dev/shiguredo/articles/middleware-webhook | ミドルウェアとウェブフック
+https://qiita.com/bohemian916/items/46f9f1e8bb32fc0a1f99 | 祖母が就寝するとDBインサートができなくなる #RaspberryPi - Qiita
+https://qiita.com/mamimami0709/items/47e2b8735b1dcab50078 | 【2024年版】フロントエンドに求められるミドルレベルのエンジニアと達成する為にすべきこととは #JavaScript - Qiita
+https://zenn.dev/kou_pg_0131/articles/favorite-cli-tools | お気に入りのコマンドラインツールを淡々と紹介する
+https://qiita.com/rana_kualu/items/16539958b0c9d3b3dba8 | 【JavaScript】ES2024の新機能まとめ #JavaScript - Qiita
+https://qiita.com/uesyn/items/7768c2adb426e6ad2864 | Kubernetes 1.29: 変更点まとめ(What's new!)とアップグレード時の注意事項 #kubernetes - Qiita
+https://zenn.dev/open8/articles/tried-using-gemini | Gemini API 触ってみる
+https://satoru-takeuchi.hatenablog.com/entry/2024/01/07/154230 | プログラミングを始めたころとは考え方が全然変わっていることに気づいてびっくりした話 - 覚書
+https://zenn.dev/bicstone/articles/keep-you-motivated-to-output | アウトプットはどうして続かないのか？「モチベの泉」を枯らさない5つの掟
+https://dev.classmethod.jp/articles/datadog-monitoring-amazon-linux-2023-web/ | Amazon Linux 2023に構築したWebサーバーをDatadogで監視してみた | DevelopersIO
+https://qiita.com/KazukiITWeb1/items/00a97b0c8c577b45bd15 | 1000→2000時間勉強して学んだこと/身につけた習慣 #未経験エンジニア - Qiita
+https://note.com/freena_illust/n/ne1442b0563c3?sub_rt=share_pb | 2024年の画像生成AI事情のまとめと今後の考察と駆け出しクリエイターへのアドバイス｜よー清水
+https://japan.cnet.com/article/35213183/ | 血圧計を備えたスマートウォッチ「HUAWEI WATCH D」レビュー--見守りデバイスにも - CNET Japan
+https://gihyo.jp/article/2024/01/github-certifications | GitHub資格認定プログラムが一般ユーザも利用可能に | gihyo.jp
+https://blog-dry.com/entry/2024/01/09/082019 | 『詳解Rustアトミック操作とロック』（Rust Atomics and Locks） - Don't Repeat Yourself
+https://kaitorimakxas.com/column/82768/ | 全自動麻雀卓の買取業者おすすめ5選！処分・廃棄の方法も解説 | 買取マクサス
+https://news.biglobe.ne.jp/trend/0109/ym_240109_0656356234.html | 生徒の悩み、ネット空間「デジタル保健室」で…アバターで周り気にせず相談（2024年1月9日）｜BIGLOBEニュース
+
+https://zenn.dev/monicle/articles/1c06f3f75b2cb1 | 2024年こそ corepack を使おう
+https://zenn.dev/y_okt/articles/20240103_day2 | useEffect: 基礎から使用すべきでない例まで
+https://prtimes.jp/main/html/rd/p/000000330.000006894.html | 【秘密結社holoX】の研究者「博衣こより」とコラボした日本酒「理系兄弟 No.54」の再販が決定 | KURAND株式会社のプレスリリース
+https://logmi.jp/business/articles/329901 | 本人も気づかない「朝起きられない」という悩みの裏にあるもの　ストレスを抱え込んでしまう人にありがちな思い込み - ログミーBiz
+https://www.businessinsider.jp/post-280201 | AIの覇権争いはグーグルの企業文化を完全に変えた。波乱に満ちたグーグルの2023年を振り返る | Business Insider Japan
+https://ascii.jp/elem/000/004/177/4177372/ | ASCII.jp：PCの状況を可視化するモニタリングモニター「THE STAND」が人気！
+https://logmi.jp/tech/articles/329888 | 基盤開発中に起きた「認知負荷の増大」と「スプリントレビューの形骸化」　“やりたかった開発”を進めるための、それぞれの対策 - ログミーTech
+https://dev.classmethod.jp/articles/terraform-test-check/ | TerraformのChecksとTestsの使い分け | DevelopersIO
+https://zenn.dev/karaage0703/articles/d6759ea297dbf8 | Linuxのudevルールを使ってUSBデバイスを挿入する順番の制約を無くそう
+https://pc.watch.impress.co.jp/docs/topic/feature/1558511.html | 【特集】驚異の1,000円で買える12コア「Xeon E5-2650 v4」と最新GeForceでゲームがどこまで動くのか？ - PC Watch
+https://qiita.com/kaibadash@github/items/5f69d6f86742d698c560 | JavaScript の Segments の使い所を考える #JavaScript - Qiita
+https://qiita.com/YSasago/items/1e329a68abb761e6beaa | AWS Application Composer in VSCodeを使ってAPIを作ってみた #AWS - Qiita
+https://www.itmedia.co.jp/news/spv/2312/29/news103.html | もはや「◯軸」呼びは古すぎる　“最高のメカニカルキーボード”に不可欠なキースイッチ最新事情と選び方：ハロー、自作キーボードワールド　第13回（1/3 ページ） - ITmedia NEWS
+https://www.lifehacker.jp/article/2312-korekai-winter-ocitoho-standing-desk/ | サブデスクに最適！王道から外れた「スタンディングデスク」が筆者の理想にハマった理由【これ買ってよかった】 | ライフハッカー・ジャパン
+https://japan.zdnet.com/article/35213242/ | 「GNOME」ベースの「Linux」でDNSサーバーを変更するには - ZDNET Japan
+https://togetter.com/li/2287041 | 防災アプリ『特務機関NERV防災』はただのパロディではなく、気象庁から専用回線直差しだしさくらインターネットの子会社なので信用できる - Togetter
+https://yuchiki1000yen.hatenablog.com/entry/2023/04/19/223803 | 人生を仕組み化していったら結婚できた件 - Amosapientiam
+https://publickey1.jp/blog/23/api_3.html | ヨドバシの中の人が語る、開発中のヨドバシAPIが目指す機能、仕組み、そしてセキュリティ（前編） － Publickey
+https://www.pwc.com/jp/ja/knowledge/column/awareness-cyber-security/zero-trust-architecture-jp.html | NIST SP800-207 「ゼロトラスト・アーキテクチャ」の解説と日本語訳 | PwC Japanグループ
+
 https://qiita.com/frozenbonito/items/8230d4a3cb5ea1b32802 | npm workspace の使い方 #Node.js - Qiita
 https://www.google.com/search?q=prisma+sqlite+model&rlz=1C1GCEU_jaJP893JP893&oq=prisma+sqlite+model&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDUwMTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | prisma sqlite model - Google 検索
 https://www.google.com/search?q=prisma+schema+key+snake&rlz=1C1GCEU_jaJP893JP893&oq=prisma+schema+key+snake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY4MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | prisma schema key snake - Google 検索
