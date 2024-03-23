@@ -1,6 +1,6 @@
 ---
 name: My Weekly Task List
-description: （このテンプレートは手動では使いません）
+about: （このテンプレートは手動では使いません）
 title: "Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{ date | date('add', 9, 'hours') | date('add', 6, 'days') | date('YYYY-MM-DD') }}"
 labels: ffxiv, weekly, todo
 assignees: ndxbn
