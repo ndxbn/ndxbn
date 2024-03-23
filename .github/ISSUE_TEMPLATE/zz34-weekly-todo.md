@@ -1,6 +1,6 @@
 ---
 name: My Weekly Task List
-about: （このテンプレートは手動では使いません）
+description: （このテンプレートは手動では使いません）
 title: "Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{ date | date('add', 9, 'hours') | date('add', 6, 'days') | date('YYYY-MM-DD') }}"
 labels: ffxiv, weekly, todo
 assignees: ndxbn
@@ -34,7 +34,6 @@ assignees: ndxbn
 
 サブ
 
-
 - [x] 零式（クリアしたら ☑）
 - [ ] モブハン（受注したら ☑）
 - [x] 24 人レイド（クリアしたら ☑）
@@ -50,20 +49,18 @@ assignees: ndxbn
 - [ ] お得意様（完了したら ☑）
 - [ ] クロの空想帳（受け取ったら ☑）
 - [ ] 攻略手帳（満足したら ☑）
-
+<!--
 # メイプルストーリー
 
 ## 常設
 
 - [ ] ユニオンコイン回収
-
+-->
 # その他
 
 週末にやる
 
 - [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/master/backups/onetab.txt)
 - [ ] `cup -y all` ノート PC
-- [ ] `cup -y all` メイン PC
-- [ ] `apt update -y && apt upgrade -y` メイン PC
 - [ ] `apt update -y && apt upgrade -y` 各サーバ
 - [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
