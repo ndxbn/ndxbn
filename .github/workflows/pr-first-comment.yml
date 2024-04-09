@@ -1,16 +1,14 @@
+name: Pull Request First Interaction
 on:
   pull_request:
-    branches:
-    - main
-    - master
+    branches: [master]
 
 jobs:
   main:
-    name: Pull Request First Interaction
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     steps:
     - name: First interaction
-      uses: actions/first-interaction@v1.3.0
+      uses: actions/first-interaction@v1
       with:
         repo-token: "{{ secrets.GITHUB_TOKEN }}"
         pr-message: |
@@ -33,4 +31,3 @@ jobs:
           
           すべてのレビューコメントは、 **MUST**, **SHOULD**, **IMO**, **NIT** のいずれかから始まる "1行目" を入れてください。
           もしくは **"LGTM"**。
-          
