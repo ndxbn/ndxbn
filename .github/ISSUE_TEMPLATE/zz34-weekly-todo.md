@@ -61,6 +61,7 @@ assignees: ndxbn
 週末にやる
 
 - [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/master/backups/onetab.txt)
-- [ ] `cup -y all` ノート PC
-- [ ] `apt update -y && apt upgrade -y` 各サーバ
+- [ ] `cup -y all` メイン PC
+- [ ] `apt update -y && apt upgrade -y` WSL 環境
+- [x] `apt update -y && apt upgrade -y` サーバー
 - [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
