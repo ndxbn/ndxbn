@@ -1,3 +1,204 @@
+https://levtech.jp/media/article/column/detail_422/ | プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）
+https://qiita.com/yukinaka_data/items/8270e1a559e8fc3c047d | Dataikuを使って完全ノーコードで、1時間でRAG作成→AIチャットボットを作ってみた(自動車保険の約款編) #LLM - Qiita
+https://zenn.dev/raru_ex/articles/eb3aa038b38771 | フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた
+https://bufferings.hatenablog.com/entry/2024/04/30/003819 | TDDを実践する中で身につけてた「設計に関するスキル」を3つ - Mitsuyuki.Shiiba
+https://qiita.com/yasukikudan/items/dd9cf9425ef9a4fa77b7 | ED法と3値(+1,-1,0)のアイデアを元に新しい活性化関数(ExP2)を作ってGELU、ELUと性能比較してみた。MINIST精度 99.43%以上達成 #DeepLearning - Qiita
+https://qiita.com/danwatanabe/items/b3bcb0755c57ae6849aa | 非エンジニアがエンジニアとスムーズに話すために大切な「なんとなくわかる」 #初心者 - Qiita
+https://qiita.com/ysknsid25/items/b2584f6f597e21651534 | プログラミングの生産性向上のためにお金をかけてよかったもの10選 #新人プログラマ応援 - Qiita
+https://togetter.com/li/2359419 | 「うちの子がゲームばかりして勉強しない。もう禁止しようと」と相談されたが、あるアドバイスで親からも子どもからも感謝された話 - Togetter
+https://dev.classmethod.jp/articles/dynamodb-max-ondemand-ycsb/ | [アップデート] Amazon DynamoDB のオンデマンドキャパシティモードで最大スループットを指定出来るようになったので、YCSB で DynamoDB の負荷テストしてみた | DevelopersIO
+https://toyokeizai.net/articles/-/751542 | Googleの｢約束破り｣が示す検索市場の"危うさ" ヤフーへの技術提供制限で公取委が初の処分 | IT･電機･半導体･部品 | 東洋経済オンライン
+https://qiita.com/mosyaneko/items/8a084443ea60d8da9d53 | 初めての個人開発 ①要件定義・設計編 #AWS - Qiita
+https://qiita.com/ysmb-wtsg/items/c8f369caad776493e6dd | 【作業効率化】4年目エンジニアが「使わなくなった」アプリを供養する #Mac - Qiita
+https://zenn.dev/simpleform_blog/articles/2b030b5f9e842c | ローカルで GitHub Actions が実行できる act のお作法を整理する
+https://logmi.jp/business/articles/330492 | 職場で強いストレスを受けているメンバーを見抜く“一言”　5年間3,800人のデータからわかった高ストレス者の特徴と改善策 - ログミーBiz
+https://qiita.com/phyblas/items/c526c4008791cc539703 | 日本でプログラマーに転職して1ヶ月経った外国人ポスドクが語る #機械学習 - Qiita
+https://forest.watch.impress.co.jp/docs/news/1588454.html | 「Git for Windows 2.45.0」が公開 ～reftable、SHA-1/SHA-256相互運用機能に予備対応 - 窓の杜
+https://cloud.watch.impress.co.jp/docs/event/1588587.html | 「第33回 Japan IT Week 春」で見た、さまざまな最新サーバー製品を紹介 - クラウド Watch
+https://www.gizmodo.jp/2024/05/kaercher_oc-3-foldable.html | ベランダ掃除、これでいいじゃん。新作｢バケツのケルヒャー｣が手放せない | ギズモード・ジャパン
+https://dev.classmethod.jp/articles/fluent-communication-technique-for-remotework/ | リモートワークでの意思疎通に困らないためのコミュニケーションテクニック9連発 | DevelopersIO
+https://www.google.com/search?q=%E3%83%9B%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&oq=%E3%81%BB%E3%81%A3%E3%81%A8%E3%82%8A%E3%83%BC&gs_lcrp=EgZjaHJvbWUqCQgBEAAYBBiABDIGCAAQRRg5MgkIARAAGAQYgAQyCQgCEAAYBBiABDIJCAMQABgEGIAEMgkIBBAAGAQYgAQyCQgFEAAYBBiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIJCAkQABgEGIAEMgkIChAAGAQYgAQyCQgLEAAYBBiABDIJCAwQABgEGIAEMgkIDRAAGAQYgAQyCQgOEAAYBBiABNIBCDQ1NjBqMGo3qAIUsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ホットリーディング - Google 検索
+https://zenn.dev/meihei/articles/d878e997ce142d | コードレビューで本を参照として使う
+https://zenn.dev/koduki/articles/e9373cb78fcfef | 【ソフトウェア設計】例外処理を考える
+https://zenn.dev/voluntas/scraps/cdb3923dafa631 | 自社サービスのバックエンドを Go から TypeScript へ切り替えるための整理
+https://zenn.dev/akfm/articles/tdd-with-copilot | AI時代にこそTDDだと思う話
+https://togetter.com/li/2361252 | 今や定番になってるけど…このシステム考えた人マジで天才だと思う→「色は逆の方が直感的に納得できる」「目の前でトラブってた事あるわ」 - Togetter
+https://rocketnews24.com/2024/05/05/2275255/ | 【予想外】ヨドバシのおもちゃコーナーで「インバウンド客が興奮気味に撮影していた商品」がこちらです | ロケットニュース24
+https://zenn.dev/mesi/articles/23808becb50b75 | クエリのパフォーマンスチューニングの第一歩。実行計画や統計情報について入門する
+https://qiita.com/Sicut_study/items/acd49f6abb7aceab1677 | 【ハンズオン】RemixでTODOアプリを作ってReactの違いを体感しよう【TypeScript/Supabase/TailwindCSS】 #TypeScript - Qiita
+https://togetter.com/li/2361061 | 玄関の電球を人感センサー付きに変えたいんだけど、いざ8Wとという数字を見せられると、センサ付電球買う金で1年間つけっぱに出来るんだよなぁ、と思っちゃって踏み出せない。 - Togetter
+https://qiita.com/yoshitaro-yoyo/items/ed7f1855df78f0c80a25 | 『Lean と DevOps の科学』って教養ないと理解できないじゃん！っていう話 #アジャイル - Qiita
+https://syu-m-5151.hatenablog.com/entry/2024/05/06/090014 | もう一度読むObservability Engineering - じゃあ、おうちで学べる
+https://webtan.impress.co.jp/n/2024/05/10/46968 | テレワーク中の“サボり”、実際のところ何をしている？【テレリモ総研調べ】 | Web担当者Forum
+https://zenn.dev/yasuna/articles/eccc9e893b7f44 | 解説系AITuberはいいぞ(運営3ヶ月の感想)
+https://rocketnews24.com/2024/05/10/2278976/ | 新宿駅の改札内にある「空気感の違う一角」に入ったら、まったく想像してないことが起こった | ロケットニュース24
+https://zenn.dev/churadata/articles/70cabec35abea6 | Tableau Conference 2024で発表されたデータソース回りの進化３選
+https://qiita.com/kccs_hiromi-nishida/items/bef5fef67dc9f008f5fb | Not connected - Qiita - Qiita
+https://zenn.dev/canary_techblog/articles/0cd332e5ae0112
+https://www.lifehacker.jp/article/2405-your-to-do-list-is-missing-these-two-things/
+https://logmi.jp/business/articles/330507
+https://www.google.com/search?q=%E3%83%8B%E3%82%B3%E7%94%9F&oq=%E3%83%8B%E3%82%B3%E7%94%9F&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgoIAxAAGAMYBBglMgoIBBAAGAMYBBglMgoIBRAAGAMYBBglMgYIBhAFGEAyBggHEEUYQTIKCAgQABixAxiABDIHCAkQABiABDIQCAoQABiDARixAxiABBiKBTIQCAsQABiDARixAxiABBiKBTIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDE1MzlqMGo5qAIOsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ニコ生 - Google 検索
+https://note.com/simplearchitect/n/n4a337f137626 | 今のチームに来てから最も生産性が上がった考え方｜牛尾　剛
+https://zenn.dev/levtech/articles/talk-about-apis-you-dont-know | 君たちの知らないAPIデザインパターンの話をしよう
+https://zenn.dev/cloud_ace/articles/developer_cheatsheet | アーキテクチャ図だけ描いてTerraformはGoogle Cloud Developer Cheat Sheetに書いてもらおう
+https://zenn.dev/stadium/articles/scrum-master | スクラムマスターになって実践したこととその参考文献たち
+https://logmi.jp/business/articles/330388 | 仕事をがんばる“戦闘モード”が一定以上続くとどうなる？　自分をケアするために知っておきたい「観察」の方法 - ログミーBiz
+https://logmi.jp/tech/articles/330390 | フルリモートになって生まれた社員教育問題　wikiで解消できないことは「Backlog化」と「遠隔徒弟制度」で解決 - ログミーTech
+https://qiita.com/re_2osushi8888/items/1cf3db4d69532f1e428b | 個人開発者がGoogle Cloudの環境構築でお財布を守るために最初にすべきこと #GoogleCloud - Qiita
+https://togetter.com/li/2346436 | 「作」と「著」の違いって何だろう？→まさかの岩波文庫公式からの回答が - Togetter
+https://codezine.jp/article/detail/19295 | LinuxでのWebサーバー運用を学べる入門書、『ゼロからはじめるLinuxサーバー構築・運用ガイド 第2版』発売|CodeZine（コードジン）
+https://www.lifehacker.jp/article/2404-creating-the-most-effective-to-do-list/ | 生産性向上のカギを握る「To Doリスト」作成の成功法 | ライフハッカー・ジャパン
+https://edu.watch.impress.co.jp/docs/news/1583952.html | 情報処理学会「情報科全教科書用語リスト」を無料公開、5895用語をスプレッドシートで共有 高校情報科の教育支援に役立つ - こどもとIT
+https://togetter.com/li/2350161 | ベテランの現役漫画家からの「二次創作から被害を被ってきたんだが？」発言の重み。 - Togetter
+https://note.com/mickmack/n/n97a4996c7053 | ソフトウェアと愛 - あるいはOSSとAWSの確執｜ミック
+https://www.gizmodo.jp/2024/04/macbook-t2-security-chip-used-macbook-apple-1.html | Mac整備済製品の苦悩。まだ使える端末がゴミに… | ギズモード・ジャパン
+https://toyokeizai.net/articles/-/747371?page=2 | 東大生厳選！GW前に読みたい｢思考力高める3冊｣ 東大生は｢考える力｣を意識しながら読書する | リーダーシップ・教養・資格・スキル | 東洋経済オンライン
+https://levtech.jp/media/article/column/detail_412/ | 【スゴ本】ITエンジニアの「武器」を増やす5冊 | レバテックラボ（レバテックLAB）
+https://zenn.dev/mizchi/articles/moonbit-json | moonbit で json パーサーを書いてみた 感想
+https://zenn.dev/praha/articles/ebd5950bcfcb5c | はじめてのプロジェクトマネジメントでやりたい放題した結果
+https://codezine.jp/article/detail/19131 | アーキテクチャから読み解くKubernetes～Controllerの仕組み～ (1/3)|CodeZine（コードジン）
+https://codezine.jp/article/detail/19281 | エンジニアとして真に成長するには？──技術スキルだけじゃない、"すごいエンジニア"が大切にするマインドセットとは (1/3)|CodeZine（コードジン）
+https://zenn.dev/tamoto/articles/098b90b47accc0 | プログラミングで人生変わった話
+https://zenn.dev/mizchi/articles/practical-moonbit | 自分が Moonbit 言語について知っていること
+https://zenn.dev/iret/articles/9e27162f6c01f2 | 全ITエンジニア必読書である「世界一流エンジニアの思考法」を要約してみた
+https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65 | GitHubのリポジトリがGoogle検索に引っかからないのでやったこと #GitHub - Qiita
+https://togetter.com/li/2356964 | 富士山「映えスポット」苦渋の黒幕設置へ…訪日客あふれ、苦情相次ぐ。→きぬた歯科が看板設置を提案。「ローソンのオーナーがご希望すれば、きぬた看板設置しますよ。」 - Togetter
+https://dev.classmethod.jp/articles/how-to-auto-mount-mountpoint-for-amazon-s3-using-systemd/ | Mountpoint for Amazon S3 の自動マウントを systemd で実現する方法 | DevelopersIO
+https://codezine.jp/article/detail/19281?p=3 | エンジニアとして真に成長するには？──技術スキルだけじゃない、"すごいエンジニア"が大切にするマインドセットとは (3/3)|CodeZine（コードジン）
+https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a | 「誰にもできる」より良いコードを書くためのテクニック #初心者 - Qiita
+https://qiita.com/getty104/items/f38c7d881426acbc502c | プロダクトマネージャーの役割は「プロダクトマネジメントをすること」ではない #スクラム - Qiita
+https://note.com/dotinstall/n/n4383aeb277b3 | あなただけの学習ロードマップを作成します 【GW学習を加速】｜ドットインストール
+https://www.shinmai.co.jp/news/article/CNTS2024041400096 | 「私の給料削って賃上げします…」と伝えた社長の葛藤　“原資ない”が２０代の若手から求められた賃上げ　小諸市｜信濃毎日新聞デジタル　信州・長野県のニュースサイト
+https://www.simple-home.net/entry/2024/04/10/162615 | 【新学期の文房具準備】ドキュメントファイル、東大生コラボドット罫ノートなど - 心を楽に、シンプルライフ
+https://www.gdm.or.jp/review/2024/0410/531800/3 | オーディオミキサーにキャプチャ機能を統合。1台で本格的なゲーム配信ができるローランド「BRIDGE CAST X」を試す - エルミタージュ秋葉原
+https://www.roomie.jp/2024/04/1202214/ | Amazonで見つけたデスクが、テレワークの運動不足を解消してくれました | ROOMIE（ルーミー）
+https://www.dtmstation.com/archives/66015.html | AIボイスチャンジャー、Voidol 3にRVCエンジンが追加される形で無償アップデート。Voidol 3Rがリリース
+https://coliss.com/articles/build-websites/operation/work/html5-boilerplate-professional-template.html | 2024年版最近の実装に合わせた、HTMLでWebページを実装するための必要最小限をまとめたテンプレート一式 | コリス
+https://blog.koh.dev/2024-04-23-nodejs-typescript-module/ | Node.js + TypeScriptのモジュールを整理してみる
+https://www.publickey1.jp/blog/24/githubcopilot_workspaceai.html | GitHub、「Copilot Workspace」テクニカルプレビューを開始。ほとんど全ての開発工程をAIで自動化 － Publickey
+https://www.businessinsider.jp/post-286030 | 冷蔵庫の自動製氷機能、清潔に保ててる？ 不安を解決してくれたのは｢赤色の氷｣だった | Business Insider Japan
+https://tech.uzabase.com/entry/2024/04/30/184249 | AWS Security HubとSlackを利用して、セキュリティ状況の監視運用を効率化したお話 - Uzabase for Engineers
+https://www.security-next.com/156583 | 【セキュリティ ニュース】「改訂新版セキュリティエンジニアの教科書」が発売 - 日本シーサート協議会（1ページ目 / 全1ページ）：Security NEXT
+https://gentosha-go.com/articles/-/59438 | 日本人「サラリーマンの経費が控除されないのは差別だ！」　国「わかりました」⇒〈特定支出控除〉爆誕へ…“会社員が使える所得控除”の話【税理士が解説】 | ゴールドオンライン
+https://blog.serverworks.co.jp/govcloud_OtherNecessaryEquip | ガバメントクラウドAWS「以外」で必要な設備・作業を考えてみる - サーバーワークスエンジニアブログ
+https://gigazine.net/news/20240505-google-founder-search-prophecy/ | Google創業者たちの2006年の予言「広告ベースのビジネスモデルが検索エンジンの品質低下をもたらす」 - GIGAZINE
+https://dot.asahi.com/aerakids/articles/-/221401 | ゲームを禁止しなくても、子どもが「本」を手に取りたくなる仕掛けとは　行動を変える“ひと手間” | AERA with Kids＋
+https://speakerdeck.com/kota2and3kan/how-tough-is-cockroachdb | CockroachDB はどのくらい「しぶとい」のか？ / How tough is CockroachDB? - Speaker Deck
+https://orm.drizzle.team/ | Drizzle ORM - next gen TypeScript ORM.
+
+https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fcodezine.jp%2Frss%2Fnew%2F20%2Findex.xml | CodeZine:新着一覧
+https://tech.techtouch.jp/entry/renew-microservices | マイクロサービスからモジュラーモノリスを経て新マイクロサービスへ - Techtouch Developers Blog
+https://qiita.com/poly_soft/items/c71bb763035b2047d2db | 大規模サービスのインフラを全面的にリプレイスした話 #AWS - Qiita
+https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/ | Amazon Route 53 Resolver DNS Firewall がドメインリダイレクトのサポートを開始
+https://speakerdeck.com/kakehashi/okr-in-a-develoment-division | 開発組織のOKRの作り方 / OKR in a development division - Speaker Deck
+https://zenn.dev/hokaccha/articles/6415a5deee6e18 | TypeScriptとGraphQLで実現する型安全なAPI実装
+https://paiza.hatenablog.com/entry/2024/05/13/173749 | テックブログ執筆に役立つ心構え - paiza times
+
+https://honeshabri.hatenablog.com/entry/Evernote_to_Obsidian | さようなら、全てのエヴァーノート - 本しゃぶり
+https://note.com/simplearchitect/n/n4a337f137626 | 今のチームに来てから最も生産性が上がった考え方｜牛尾　剛
+https://zenn.dev/levtech/articles/talk-about-apis-you-dont-know | 君たちの知らないAPIデザインパターンの話をしよう
+https://zenn.dev/cloud_ace/articles/developer_cheatsheet | アーキテクチャ図だけ描いてTerraformはGoogle Cloud Developer Cheat Sheetに書いてもらおう
+https://zenn.dev/stadium/articles/scrum-master | スクラムマスターになって実践したこととその参考文献たち
+https://logmi.jp/business/articles/330388 | 仕事をがんばる“戦闘モード”が一定以上続くとどうなる？　自分をケアするために知っておきたい「観察」の方法 - ログミーBiz
+https://logmi.jp/tech/articles/330390 | フルリモートになって生まれた社員教育問題　wikiで解消できないことは「Backlog化」と「遠隔徒弟制度」で解決 - ログミーTech
+https://qiita.com/re_2osushi8888/items/1cf3db4d69532f1e428b | 個人開発者がGoogle Cloudの環境構築でお財布を守るために最初にすべきこと #GoogleCloud - Qiita
+https://togetter.com/li/2346436 | 「作」と「著」の違いって何だろう？→まさかの岩波文庫公式からの回答が - Togetter
+https://codezine.jp/article/detail/19295 | LinuxでのWebサーバー運用を学べる入門書、『ゼロからはじめるLinuxサーバー構築・運用ガイド 第2版』発売|CodeZine（コードジン）
+https://edu.watch.impress.co.jp/docs/news/1583952.html | 情報処理学会「情報科全教科書用語リスト」を無料公開、5895用語をスプレッドシートで共有 高校情報科の教育支援に役立つ - こどもとIT
+https://togetter.com/li/2350161 | ベテランの現役漫画家からの「二次創作から被害を被ってきたんだが？」発言の重み。 - Togetter
+https://note.com/mickmack/n/n97a4996c7053 | ソフトウェアと愛 - あるいはOSSとAWSの確執｜ミック
+https://www.gizmodo.jp/2024/04/macbook-t2-security-chip-used-macbook-apple-1.html | Mac整備済製品の苦悩。まだ使える端末がゴミに… | ギズモード・ジャパン
+https://toyokeizai.net/articles/-/747371?page=2 | 東大生厳選！GW前に読みたい｢思考力高める3冊｣ 東大生は｢考える力｣を意識しながら読書する | リーダーシップ・教養・資格・スキル | 東洋経済オンライン
+https://levtech.jp/media/article/column/detail_412/ | 【スゴ本】ITエンジニアの「武器」を増やす5冊 | レバテックラボ（レバテックLAB）
+https://zenn.dev/mizchi/articles/moonbit-json | moonbit で json パーサーを書いてみた 感想
+https://zenn.dev/praha/articles/ebd5950bcfcb5c | はじめてのプロジェクトマネジメントでやりたい放題した結果
+https://dev.classmethod.jp/articles/fluent-communication-technique-for-remotework/ | リモートワークでの意思疎通に困らないためのコミュニケーションテクニック9連発 | DevelopersIO
+https://codezine.jp/article/detail/19131 | アーキテクチャから読み解くKubernetes～Controllerの仕組み～ (1/3)|CodeZine（コードジン）
+https://codezine.jp/article/detail/19281 | エンジニアとして真に成長するには？──技術スキルだけじゃない、"すごいエンジニア"が大切にするマインドセットとは (1/3)|CodeZine（コードジン）
+https://zenn.dev/tamoto/articles/098b90b47accc0 | プログラミングで人生変わった話
+https://zenn.dev/mizchi/articles/practical-moonbit | 自分が Moonbit 言語について知っていること
+https://zenn.dev/iret/articles/9e27162f6c01f2 | 全ITエンジニア必読書である「世界一流エンジニアの思考法」を要約してみた
+https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65 | GitHubのリポジトリがGoogle検索に引っかからないのでやったこと #GitHub - Qiita
+https://togetter.com/li/2356964 | 富士山「映えスポット」苦渋の黒幕設置へ…訪日客あふれ、苦情相次ぐ。→きぬた歯科が看板設置を提案。「ローソンのオーナーがご希望すれば、きぬた看板設置しますよ。」 - Togetter
+https://dev.classmethod.jp/articles/how-to-auto-mount-mountpoint-for-amazon-s3-using-systemd/ | Mountpoint for Amazon S3 の自動マウントを systemd で実現する方法 | DevelopersIO
+https://codezine.jp/article/detail/19281?p=3 | エンジニアとして真に成長するには？──技術スキルだけじゃない、"すごいエンジニア"が大切にするマインドセットとは (3/3)|CodeZine（コードジン）
+https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a | 「誰にもできる」より良いコードを書くためのテクニック #初心者 - Qiita
+https://qiita.com/getty104/items/f38c7d881426acbc502c | プロダクトマネージャーの役割は「プロダクトマネジメントをすること」ではない #スクラム - Qiita
+https://note.com/dotinstall/n/n4383aeb277b3 | あなただけの学習ロードマップを作成します 【GW学習を加速】｜ドットインストール
+https://levtech.jp/media/article/column/detail_422/ | プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）
+https://news.yahoo.co.jp/pickup/6499653 | 能登 解体終了は想定の1%以下 - Yahoo!ニュース
+https://qiita.com/yukinaka_data/items/8270e1a559e8fc3c047d | Dataikuを使って完全ノーコードで、1時間でRAG作成→AIチャットボットを作ってみた(自動車保険の約款編) #LLM - Qiita
+https://zenn.dev/raru_ex/articles/eb3aa038b38771 | フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた
+https://bufferings.hatenablog.com/entry/2024/04/30/003819 | TDDを実践する中で身につけてた「設計に関するスキル」を3つ - Mitsuyuki.Shiiba
+https://qiita.com/yasukikudan/items/dd9cf9425ef9a4fa77b7 | ED法と3値(+1,-1,0)のアイデアを元に新しい活性化関数(ExP2)を作ってGELU、ELUと性能比較してみた。MINIST精度 99.43%以上達成 #DeepLearning - Qiita
+https://qiita.com/danwatanabe/items/b3bcb0755c57ae6849aa | 非エンジニアがエンジニアとスムーズに話すために大切な「なんとなくわかる」 #初心者 - Qiita
+https://qiita.com/ysknsid25/items/b2584f6f597e21651534 | プログラミングの生産性向上のためにお金をかけてよかったもの10選 #新人プログラマ応援 - Qiita
+https://togetter.com/li/2359419 | 「うちの子がゲームばかりして勉強しない。もう禁止しようと」と相談されたが、あるアドバイスで親からも子どもからも感謝された話 - Togetter
+https://dev.classmethod.jp/articles/dynamodb-max-ondemand-ycsb/ | [アップデート] Amazon DynamoDB のオンデマンドキャパシティモードで最大スループットを指定出来るようになったので、YCSB で DynamoDB の負荷テストしてみた | DevelopersIO
+https://toyokeizai.net/articles/-/751542 | Googleの｢約束破り｣が示す検索市場の"危うさ" ヤフーへの技術提供制限で公取委が初の処分 | IT･電機･半導体･部品 | 東洋経済オンライン
+https://qiita.com/mosyaneko/items/8a084443ea60d8da9d53 | 初めての個人開発 ①要件定義・設計編 #AWS - Qiita
+https://qiita.com/ysmb-wtsg/items/c8f369caad776493e6dd | 【作業効率化】4年目エンジニアが「使わなくなった」アプリを供養する #Mac - Qiita
+https://zenn.dev/simpleform_blog/articles/2b030b5f9e842c | ローカルで GitHub Actions が実行できる act のお作法を整理する
+https://logmi.jp/business/articles/330492 | 職場で強いストレスを受けているメンバーを見抜く“一言”　5年間3,800人のデータからわかった高ストレス者の特徴と改善策 - ログミーBiz
+https://qiita.com/phyblas/items/c526c4008791cc539703 | 日本でプログラマーに転職して1ヶ月経った外国人ポスドクが語る #機械学習 - Qiita
+https://forest.watch.impress.co.jp/docs/news/1588454.html | 「Git for Windows 2.45.0」が公開 ～reftable、SHA-1/SHA-256相互運用機能に予備対応 - 窓の杜
+https://cloud.watch.impress.co.jp/docs/event/1588587.html | 「第33回 Japan IT Week 春」で見た、さまざまな最新サーバー製品を紹介 - クラウド Watch
+https://www.gizmodo.jp/2024/05/kaercher_oc-3-foldable.html | ベランダ掃除、これでいいじゃん。新作｢バケツのケルヒャー｣が手放せない | ギズモード・ジャパン
+https://www.google.com/search?q=%E3%83%9B%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&oq=%E3%81%BB%E3%81%A3%E3%81%A8%E3%82%8A%E3%83%BC&gs_lcrp=EgZjaHJvbWUqCQgBEAAYBBiABDIGCAAQRRg5MgkIARAAGAQYgAQyCQgCEAAYBBiABDIJCAMQABgEGIAEMgkIBBAAGAQYgAQyCQgFEAAYBBiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIJCAkQABgEGIAEMgkIChAAGAQYgAQyCQgLEAAYBBiABDIJCAwQABgEGIAEMgkIDRAAGAQYgAQyCQgOEAAYBBiABNIBCDQ1NjBqMGo3qAIUsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ホットリーディング - Google 検索
+https://zenn.dev/meihei/articles/d878e997ce142d | コードレビューで本を参照として使う
+https://zenn.dev/koduki/articles/e9373cb78fcfef | 【ソフトウェア設計】例外処理を考える
+https://zenn.dev/voluntas/scraps/cdb3923dafa631 | 自社サービスのバックエンドを Go から TypeScript へ切り替えるための整理
+https://zenn.dev/akfm/articles/tdd-with-copilot | AI時代にこそTDDだと思う話
+https://togetter.com/li/2361252 | 今や定番になってるけど…このシステム考えた人マジで天才だと思う→「色は逆の方が直感的に納得できる」「目の前でトラブってた事あるわ」 - Togetter
+https://zenn.dev/mesi/articles/23808becb50b75 | クエリのパフォーマンスチューニングの第一歩。実行計画や統計情報について入門する
+https://qiita.com/Sicut_study/items/acd49f6abb7aceab1677 | 【ハンズオン】RemixでTODOアプリを作ってReactの違いを体感しよう【TypeScript/Supabase/TailwindCSS】 #TypeScript - Qiita
+https://togetter.com/li/2361061 | 玄関の電球を人感センサー付きに変えたいんだけど、いざ8Wとという数字を見せられると、センサ付電球買う金で1年間つけっぱに出来るんだよなぁ、と思っちゃって踏み出せない。 - Togetter
+https://news.yahoo.co.jp/articles/b64578de3e78401fe050c538c748076376024550 | 「これがケルヒャーの本気…」ただの折りたたみバケツだと思った？ 実はとんでもない機能を持っているバケツが新発売。（ルアマガ＋） - Yahoo!ニュース
+https://www.amazon.co.jp/gp/aw/d/B0CH9R96RZ/ref=tmm_kin_swatch_0?ie=UTF8&qid=&sr= | Amazon.co.jp: 「うまく言葉にできない」がなくなる 言語化大全 eBook : 山口 拓朗: Kindleストア
+https://ja.vitejs.dev/guide/why.html | Vite を使う理由 | Vite
+https://speakerdeck.com/azukiazusa1/react-huremuwakuno-dong-xiang-toxuan-ding-ji-zhun?slide=8 | React フレームワークの 動向と選定基準 - Speaker Deck
+https://www.lifehacker.jp/article/2404-creating-the-most-effective-to-do-list/ | 生産性向上のカギを握る「To Doリスト」作成の成功法 | ライフハッカー・ジャパン
+https://www.shinmai.co.jp/news/article/CNTS2024041400096 | 「私の給料削って賃上げします…」と伝えた社長の葛藤　“原資ない”が２０代の若手から求められた賃上げ　小諸市｜信濃毎日新聞デジタル　信州・長野県のニュースサイト
+https://www.simple-home.net/entry/2024/04/10/162615 | 【新学期の文房具準備】ドキュメントファイル、東大生コラボドット罫ノートなど - 心を楽に、シンプルライフ
+https://www.gdm.or.jp/review/2024/0410/531800/3 | オーディオミキサーにキャプチャ機能を統合。1台で本格的なゲーム配信ができるローランド「BRIDGE CAST X」を試す - エルミタージュ秋葉原
+https://www.roomie.jp/2024/04/1202214/ | Amazonで見つけたデスクが、テレワークの運動不足を解消してくれました | ROOMIE（ルーミー）
+https://www.dtmstation.com/archives/66015.html | AIボイスチャンジャー、Voidol 3にRVCエンジンが追加される形で無償アップデート。Voidol 3Rがリリース
+https://coliss.com/articles/build-websites/operation/work/html5-boilerplate-professional-template.html | 2024年版最近の実装に合わせた、HTMLでWebページを実装するための必要最小限をまとめたテンプレート一式 | コリス
+https://blog.koh.dev/2024-04-23-nodejs-typescript-module/ | Node.js + TypeScriptのモジュールを整理してみる
+https://www.publickey1.jp/blog/24/githubcopilot_workspaceai.html | GitHub、「Copilot Workspace」テクニカルプレビューを開始。ほとんど全ての開発工程をAIで自動化 － Publickey
+https://www.businessinsider.jp/post-286030 | 冷蔵庫の自動製氷機能、清潔に保ててる？ 不安を解決してくれたのは｢赤色の氷｣だった | Business Insider Japan
+https://tech.uzabase.com/entry/2024/04/30/184249 | AWS Security HubとSlackを利用して、セキュリティ状況の監視運用を効率化したお話 - Uzabase for Engineers
+https://www.security-next.com/156583 | 【セキュリティ ニュース】「改訂新版セキュリティエンジニアの教科書」が発売 - 日本シーサート協議会（1ページ目 / 全1ページ）：Security NEXT
+https://gentosha-go.com/articles/-/59438 | 日本人「サラリーマンの経費が控除されないのは差別だ！」　国「わかりました」⇒〈特定支出控除〉爆誕へ…“会社員が使える所得控除”の話【税理士が解説】 | ゴールドオンライン
+https://blog.serverworks.co.jp/govcloud_OtherNecessaryEquip | ガバメントクラウドAWS「以外」で必要な設備・作業を考えてみる - サーバーワークスエンジニアブログ
+https://rocketnews24.com/2024/05/05/2275255/ | 【予想外】ヨドバシのおもちゃコーナーで「インバウンド客が興奮気味に撮影していた商品」がこちらです | ロケットニュース24
+https://gigazine.net/news/20240505-google-founder-search-prophecy/ | Google創業者たちの2006年の予言「広告ベースのビジネスモデルが検索エンジンの品質低下をもたらす」 - GIGAZINE
+https://2u.fan/channels/980766108556 | 利香すたじお！ - 2U
+https://ch.nicovideo.jp/rica7mp | Secret with you(利香) - ニコニコチャンネル:エンタメ
+https://cycomi.com/title/87 | 今どきの若いモンは | 全話基本無料 | サイコミ
+https://www.kaercher.com/jp/home-garden/mobile-cleaning/mobile-outdoor-cleaner/oc-3-foldable-15993020.html | OC 3 Foldable | ケルヒャー
+
+https://www.hamaya.co.jp/butsudan/ihai.html | 位牌と戒名（お仏具について）｜お仏壇の浜屋
+https://www.hamaya.co.jp/butsudan/howto_5.html | ご宗派別の飾り方：真言宗｜お仏壇の浜屋
+https://www.hamaya.co.jp/img/butudan/about/4-1.jpg | 4-1.jpg (1882×1919)
+https://tesshow.jp/suginami/temple_izumi_ryuko.html | 龍光寺｜杉並区和泉にある真言宗室生寺派寺院
+
+https://news.yahoo.co.jp/articles/bef7dabdfbead77c1c6bbc633f560a2ef9fd471b | ＜伊織もえ＞4年ぶり「とある」御坂美琴コスプレ　「可愛すぎる！」と話題（MANTANWEB） - Yahoo!ニュース
+https://news.yahoo.co.jp/articles/f34743f0dac2fae6d87c5b73007491d3a29b4981 | NHK党立花孝志が激白「明日花キララ」「元阪神選手」に選挙出馬を打診“ガーシー事件で学んだこと”（みんかぶマガジン） - Yahoo!ニュース
+https://weathernews.jp/s/topics/202405/040185/ | 連休最終日は西日本・北日本で雨　連休明けは関東も傘の出番 - ウェザーニュース
+https://logmi.jp/business/articles/330492 | 職場で強いストレスを受けているメンバーを見抜く“一言”　5年間3,800人のデータからわかった高ストレス者の特徴と改善策 - ログミーBiz
+https://www.huffingtonpost.jp/entry/story_jp_6630851de4b0c9bc8758ae0e | 知ってる？「カップ麺」の蓋が開かない裏技。簡単で、道具は何もいらなかった | ハフポスト LIFE
+https://www.daily.co.jp/gossip/2024/05/03/0017613048.shtml | ノブ　大物女優に「視力が悪い人から見たらほぼ裸」川島明「色気にピンマイクがついてる」ｗｗ/芸能/デイリースポーツ online
+https://toyokeizai.net/articles/-/751684 | ディズニー｢1泊30万円以上｣超高級ホテルの衝撃 ブルガリホテルやアマンに並ぶ強気の宿泊料 | レジャー・観光・ホテル | 東洋経済オンライン
+https://yomuno.jp/posts/114095 | 【マックポテトが出来立てよりもカリカリに！？】早く知りたかった「冷めたポテト」の美味しい温め方！ | ヨムーノ（くふうLive!から変更）
+https://www.inside-games.jp/article/2024/05/04/155139.html | このGWに観たい！ホロライブのタレントが贈る“地獄”企画3連発 | インサイド
+https://diamond.jp/articles/-/342670 | 「できるリーダー」は部下が未達だったとき、面と向かって何を言う？ | リーダーの仮面 | ダイヤモンド・オンライン
+
+https://www.jcb.co.jp/usage/pop/scene/index.html | 定期的なお支払い｜クレジットカードなら、JCBカード
+https://www.jcb.co.jp/usage/pop/scene/water/index.html#w_tokyo | お手続き方法（水道料金）｜クレジットカードなら、JCBカード
+https://www.jcb.co.jp/usage/pop/scene/gas/index.html#tokyo | お手続き方法（ガス料金）｜クレジットカードなら、JCBカード
+https://www.jcb.co.jp/usage/pop/scene/electricity/index.html#tepco | お手続き方法（電気料金）｜クレジットカードなら、JCBカード
+
 https://www.brother.co.jp/product/hsm/index.aspx | ミシン | ブラザー
 https://www.brother.co.jp/product/hsm/magazine/list/index.aspx | 全記事一覧-クラフト日和 | 家庭用ミシン | ブラザー
 https://logmi.jp/tech/articles/330431 | これからのプロジェクトマネジメントに大事なのは「結果にコミットしない」こと　クリエイティブな仕事に求められる“アジャイル思考” - ログミーTech
@@ -22,16 +223,6 @@ https://user-first.ikyu.co.jp/entry/2024/04/15/150249 | なぜ我々は GitHub C
 https://www.infoq.com/jp/news/2024/04/cncf-strimzi-kafka-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global | CNCF、Kubernetes上のKafkaを簡素化するStrimziをインキュベートする - InfoQ
 https://paiza.hatenablog.com/entry/2024/04/16/120000 | エンジニアがイラッとしない「複数人タスク管理術」 - paiza times
 https://ics.media/entry/240411/ | 文章の折り返し指定のCSS最新版 - ICS MEDIA
-
-chrome://extensions/ | 拡張機能
-https://www.amazon.co.jp/%E5%9B%9B%E3%83%84%E5%B1%B1%E9%AC%BC%E8%AB%87-%E5%97%A3%E4%BA%BA-ebook/dp/B0CVNBNYF1/ref=sr_1_4?dib=eyJ2IjoiMSJ9.9oiUiwQpt9FM1Cl5TPnHGVfUidzyMqnIdTgqFxa6w-fb-gd1WOp1_mvY46gN8z-DwPtBtEKK4aT-_KCKtB-KeTiXlQvasetBQCQNKP87Dar2fLKEjm4MDBQuT1ysrybDqwMMsKHwPDFMq-mMV-fG_bC20fF7cZrBJdNVc-POvHeX-2yikCSFq2vuA3cwNtDayEPXr5H68_DafYs0xjU2k2wMOuXUrbzGbTG_fJ-d3gM.GnAZ038GQ3D-wDsAMNczGkFMpeL1MFFeVv_QedAe-L4&dib_tag=se&qid=1712616971&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-4 | Amazon.co.jp: 四ツ山鬼談 eBook : 嗣人: Kindleストア
-https://www.amazon.co.jp/%E4%BC%9A%E6%B4%A5%E6%80%AA%E8%AB%87-%E7%AB%B9%E6%9B%B8%E6%88%BF%E6%80%AA%E8%AB%87%E6%96%87%E5%BA%AB-%E7%85%99%E9%B3%A5-ebook/dp/B0CVN1J8W4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.9oiUiwQpt9FM1Cl5TPnHGVfUidzyMqnIdTgqFxa6w-dV5R4kasQlATEa1zIF_lNT0R9y0RsihNWvCyO8QNvjt7g11Oi-J5riULWnMjkc7S72fLKEjm4MDBQuT1ysrybDqwMMsKHwPDFMq-mMV-fG_bC20fF7cZrBJdNVc-POvHeX-2yikCSFq2vuA3cwNtDayEPXr5H68_DafYs0xjU2k2wMOuXUrbzGbTG_fJ-d3gM.YjHy70FK2Kr4xPhHalAPsVzlLEuz6-wwYDVnp8IwdKA&dib_tag=se&qid=1712581975&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-4 | Amazon.co.jp: 会津怪談 (竹書房怪談文庫) eBook : 煙鳥, 吉田悠軌, 斉木京: Kindleストア
-https://www.amazon.co.jp/%E8%8C%B6%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84-%E6%96%B0%E8%A3%85%E7%89%88-FUNQ%E3%83%A0%E3%83%83%E3%82%AF-%E4%BF%A1%E5%A4%AA%E5%BA%B7%E4%BB%A3-ebook/dp/B0CVMZ7DVJ/ref=sr_1_12?dib=eyJ2IjoiMSJ9.9oiUiwQpt9FM1Cl5TPnHGVfUidzyMqnIdTgqFxa6w-dV5R4kasQlATEa1zIF_lNT0R9y0RsihNWvCyO8QNvjt7g11Oi-J5riULWnMjkc7S72fLKEjm4MDBQuT1ysrybDqwMMsKHwPDFMq-mMV-fG_bC20fF7cZrBJdNVc-POvHeX-2yikCSFq2vuA3cwNtDayEPXr5H68_DafYs0xjU2k2wMOuXUrbzGbTG_fJ-d3gM.YjHy70FK2Kr4xPhHalAPsVzlLEuz6-wwYDVnp8IwdKA&dib_tag=se&qid=1712581975&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-12 | Amazon.co.jp: 茶スイーツ　新装版 (FUNQムック) eBook : 信太康代: Kindleストア
-https://www.amazon.co.jp/%E5%B7%9D%E3%81%AE%E6%80%AA%E8%AB%87-%E6%AD%A3%E6%9C%A8%E4%BF%A1%E5%A4%AA%E9%83%8E-ebook/dp/B0CS3KWMBD/ref=sr_1_4?dib=eyJ2IjoiMSJ9.blff_ZXEz6cs0QYProDIjSfcNNB9xDxXNBn2QKE9PHjtyySXvu5FdNMi_eIeD2C917Kksf1AJBoWEiIorW6LHX_mRtD0hHeC2bxS1bHq4rW22KVyrpLcANIlt-EZFdi4ryUAP378E7M_TDcotYBzLg.l9xOY3b1Z2Ky5O6LF2RsPXdvfN82gcew6jfeJ6tQvdc&dib_tag=se&qid=1711121788&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-4 | Amazon.co.jp: 川の怪談 eBook : 正木信太郎: Kindleストア
-https://www.amazon.co.jp/%E6%80%AA%E5%A5%87%E7%95%B0%E8%81%9E%E5%B8%96-%E5%9C%B0%E7%8D%84%E3%81%AD%E3%81%90%E3%82%89-%E7%AB%B9%E6%9B%B8%E6%88%BF%E6%80%AA%E8%AB%87%E6%96%87%E5%BA%AB-%E7%A5%9E%E6%B2%BC%E4%B8%89%E5%B9%B3%E5%A4%AA-ebook/dp/B0CS36965B/ref=sr_1_3?dib=eyJ2IjoiMSJ9.blff_ZXEz6cs0QYProDIjSfcNNB9xDxXNBn2QKE9PHjtyySXvu5FdNMi_eIeD2C917Kksf1AJBoWEiIorW6LHX_mRtD0hHeC2bxS1bHq4rW22KVyrpLcANIlt-EZFdi4ryUAP378E7M_TDcotYBzLg.l9xOY3b1Z2Ky5O6LF2RsPXdvfN82gcew6jfeJ6tQvdc&dib_tag=se&qid=1711121788&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-3 | Amazon.co.jp: 怪奇異聞帖　地獄ねぐら (竹書房怪談文庫) eBook : 神沼三平太: Kindleストア
-https://www.amazon.co.jp/%E7%8F%BE%E4%BB%A3%E7%95%B0%E8%AB%87-%E9%A6%96%E5%A1%9A%E3%81%AE%E5%91%AA%E8%A1%93%E5%B8%AB-%E7%AB%B9%E6%9B%B8%E6%88%BF%E6%80%AA%E8%AB%87%E6%96%87%E5%BA%AB-%E7%B1%A0%E4%B8%89%E8%94%B5-ebook/dp/B0CS37RRCQ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.blff_ZXEz6cs0QYProDIjSfcNNB9xDxXNBn2QKE9PHjtyySXvu5FdNMi_eIeD2C917Kksf1AJBoWEiIorW6LHX_mRtD0hHeC2bxS1bHq4rW22KVyrpLcANIlt-EZFdi4ryUAP378E7M_TDcotYBzLg.l9xOY3b1Z2Ky5O6LF2RsPXdvfN82gcew6jfeJ6tQvdc&dib_tag=se&qid=1711121788&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-5 | Amazon.co.jp: 現代異談　首塚の呪術師 (竹書房怪談文庫) eBook : 籠三蔵: Kindleストア
-https://www.amazon.co.jp/%E9%AD%82%E6%B6%88%E6%80%AA%E8%AB%87-%E6%80%AA%E3%83%8E%E7%9B%AE-%E7%AB%B9%E6%9B%B8%E6%88%BF%E6%80%AA%E8%AB%87%E6%96%87%E5%BA%AB-%E5%86%A8%E5%A3%AB%E7%8E%89%E7%9B%AE-ebook/dp/B0CS3GN8R3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.blff_ZXEz6cs0QYProDIjSfcNNB9xDxXNBn2QKE9PHjtyySXvu5FdNMi_eIeD2C917Kksf1AJBoWEiIorW6LHX_mRtD0hHeC2bxS1bHq4rW22KVyrpLcANIlt-EZFdi4ryUAP378E7M_TDcotYBzLg.l9xOY3b1Z2Ky5O6LF2RsPXdvfN82gcew6jfeJ6tQvdc&dib_tag=se&qid=1711121788&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-6 | Amazon.co.jp: 魂消怪談　怪ノ目 (竹書房怪談文庫) eBook : 冨士玉目: Kindleストア
-https://www.amazon.co.jp/%E3%83%8D%E3%83%83%E3%83%88%E9%80%9A%E8%B2%A9%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E3%80%81%E7%8F%BE%E4%BB%A3%E3%81%AE%E9%AD%94%E8%A1%93%E5%B8%AB%E2%91%A6-%E7%95%B0%E7%95%8C%E4%BE%B5%E6%94%BB%E7%B7%A8-%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82%E6%94%BB%E9%98%B2%E6%88%A6%E3%80%81%E3%81%9D%E3%81%AE%E8%A1%8C%E6%96%B9%E3%81%AF-%E3%81%84%E3%81%9A%E3%81%BF%E3%83%8E%E3%83%99%E3%83%AB%E3%82%BA-%E5%91%91%E5%85%B5%E8%A1%9B%E5%92%8C%E5%B0%9A-ebook/dp/B0CV4Z9FVH/ref=sr_1_9?dib=eyJ2IjoiMSJ9.blff_ZXEz6cs0QYProDIjSfcNNB9xDxXNBn2QKE9PHjtyySXvu5FdNMi_eIeD2C917Kksf1AJBoWEiIorW6LHX_mRtD0hHeC2bxS1bHq4rW22KVyrpLcANIlt-EZFdi4ryUAP378E7M_TDcotYBzLg.l9xOY3b1Z2Ky5O6LF2RsPXdvfN82gcew6jfeJ6tQvdc&dib_tag=se&qid=1711121788&refinements=p_n_date%3A2275274051&rnid=2275268051&s=digital-text&sr=1-9 | Amazon.co.jp: ネット通販から始まる、現代の魔術師⑦　異界侵攻編 国会議事堂攻防戦、その行方は (いずみノベルズ) 電子書籍: 呑兵衛和尚, 陽葉 ヨウ: Kindleストア
 
 https://github.com/neonankiti/CleanArchitectureSample/wiki/Getting-Started-for-Clean-Architecture | Getting Started for Clean Architecture · neonankiti/CleanArchitectureSample Wiki
 https://qiita.com/takasek/items/70ab5a61756ee620aee6#%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E3%81%A8%E3%81%93%E3%81%86%E3%81%84%E3%81%86%E5%9B%B3%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99 | お前らがModelと呼ぶアレをなんと呼ぶべきか。近辺の用語(EntityとかVOとかDTOとか)について整理しつつ考える #設計 - Qiita
@@ -86,11 +277,6 @@ https://www.kango-roo.com/learning/9549/ | シスター・カリスタ・ロイ�
 https://www.kango-roo.com/learning/9316/ | 検査のための移動中、患者が急変！どう対応すればいい？ | 看護roo![カンゴルー]
 https://www.kango-roo.com/learning/9451/ | 人工呼吸器装着患者の褥瘡予防のためのポジショニング | 看護roo![カンゴルー]
 https://www.kango-roo.com/learning/9315/ | 大部屋の患者が急変！対応は、重症部屋に移してから？それとも、その場で？ | 看護roo![カンゴルー]
-
-https://www.hamaya.co.jp/butsudan/ihai.html | 位牌と戒名（お仏具について）｜お仏壇の浜屋
-https://www.hamaya.co.jp/butsudan/howto_5.html | ご宗派別の飾り方：真言宗｜お仏壇の浜屋
-https://www.hamaya.co.jp/img/butudan/about/4-1.jpg | 4-1.jpg (1882×1919)
-https://tesshow.jp/suginami/temple_izumi_ryuko.html | 龍光寺｜杉並区和泉にある真言宗室生寺派寺院
 
 https://www.gizmodo.jp/2024/02/flipper-zero.html | エンジニアに人気のおもちゃ｢フリッパーゼロ｣でできる10の遊び | ギズモード・ジャパン
 https://note.com/kumanmoo/n/na9a53346297b | AWS12冠エンジニアが教えるAWS初学者・IT未経験者が成長するために必要なこと｜くまンモ
