@@ -1,3 +1,84 @@
+https://gigazine.net/news/20240529-terminal-text-effects/ | ターミナルの文字列出力にかっこいいエフェクトを追加できるライブラリ「TerminalTextEffects」 - GIGAZINE
+https://qiita.com/suin/items/3c4df13ad3478ffe7b5d | これを知らないともったいない！Kubernetes関連の便利ツール20選 #kubernetes - Qiita
+https://qiita.com/Tanachu8/items/5e85c75818e499042bfe | Dockerコマンドの挙動を図解にして覚えやすくしてみた #Docker - Qiita
+https://www.lifehacker.jp/article/2404how-to-delete-google-docs-page/ | lifehacker.jp/article/2404how-to-delete-google-docs-page/
+https://www.gizmodo.jp/2024/05/machine-learning-vs-deep-learning-whats-the-differenc.html | gizmodo.jp/2024/05/machine-learning-vs-deep-learning-whats-the-differenc.html
+https://www.gizmodo.jp/2024/05/chatgpt-answers-wrong-programming.html | gizmodo.jp/2024/05/chatgpt-answers-wrong-programming.html
+https://cloud.watch.impress.co.jp/docs/news/1595386.html | cloud.watch.impress.co.jp/docs/news/1595386.html
+https://internet.watch.impress.co.jp/docs/news/1595403.html | internet.watch.impress.co.jp/docs/news/1595403.html
+https://qiita.com/Sicut_study/items/c397f8cfaf047bf44905 | 公式ドキュメントを読め。Qiitaを開くな。 #アウトプット - Qiita
+https://www.lifehacker.jp/article/2405-lht-pc-tool-and-app-for-business-matome/ | lifehacker.jp/article/2405-lht-pc-tool-and-app-for-business-matome/
+https://qiita.com/ak-sakatoku/items/94bb14c643c890d07a24 | Snowflake Notebooksを試してみよう！ #初心者 - Qiita
+https://forest.watch.impress.co.jp/docs/news/1595332.html | forest.watch.impress.co.jp/docs/news/1595332.html
+https://gigazine.net/news/20240525-zoraxy/ | GUIだけで多数の設定が行える無料＆オープンソースのリバースプロキシ「Zoraxy」レビュー -…
+https://www.roomie.jp/2024/05/1229850/ | 銭湯・ジム・プールの「濡れた荷物どうしよう問題」を解決してくれるアイテム3選 | ROOMIE（ルーミー）
+https://www.roomie.jp/2024/05/1230430/ | キングジムの「細長いタイマー」が集中力アップの強い味方。仕事も家事も捗りまくってしまう | ROOMIE（ルーミー）
+https://www.roomie.jp/2024/05/1231118/ | スリムだからキッチンやデスクの隙間収納にピッタリ。山善のワゴンが3,210円 #Amazonセール | ROOMIE（ルーミー）
+https://www.roomie.jp/2024/05/1227821/ | 無印良品の隠れた逸品で「髪を結ぶたびにゴムが切れる」ことがなくなりました | ROOMIE（ルーミー）
+https://komaturi1.fanbox.cc/ | 小祭たまご【毎日投稿28回目】｜pixivFANBOX
+https://ncode.syosetu.com/n0284ev/59/ | 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～【アニメ放映中】 - 番外編03　リューの食事事情
+https://kakuyomu.jp/works/16817139555321413673/episodes/16817139558291044039 | 第125話　【閑話】勇者ゼクトのやり直し⑪　芋掘り - 【コミックウォーカーにてコミカライズ連載中…
+https://eng-blog.iij.ad.jp/archives/25186 | Starlinkのネットワークを再確認したら色々変わっていました | IIJ Engineers Blog
+https://rocketnews24.com/2024/05/28/2288128/ | 【都会の秘境？】JR田端駅が断固として乗客を行かせたがらない「南改札口」を突破した先に見たものとは…
+https://gihyo.jp/article/2024/05/daily-linux-240529 | Linux 6.10‐rc1リリース、RustやMilk-V MarsなどRISC-Vサポートが拡…
+https://dev.classmethod.jp/articles/tfenv-terraform-version/ | tfenvの.terraform-versionファイルにはバージョンベタ書きしなくてもOK |…
+https://logmi.jp/tech/articles/330588 | logmi.jp/tech/articles/330588
+https://www.dtmstation.com/archives/66115.html | マイクプリアンプで音は変わるのか？オーディオインターフェイス内蔵のマイクプリとAPI 312を比較…
+https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html | Web制作者はダウンロードしておきたい！ CSS関連の最新版チートシートのまとめ | コリス
+https://ascii.jp/elem/000/004/198/4198878/ | ASCII.jp：日本の生産性が低い要因は「付加価値創出力」と「人材育成力」 (1/2)
+https://jp.pronews.com/review/202405271038492541.html | コンパクトなのに多機能「DaVinci Resolve Micro Color Panel」の魅力…
+https://blog.tinect.jp/?p=86501 | これをやると「言語化が苦手な人」と、意思の疎通がしやすいかもしれない。 | Books&Apps
+https://x.com/orangecitrine14 | x.com/orangecitrine14
+https://www.lawson.co.jp/campaign/lop_ui_shig/ | しぐれうい ローソン・@Loppi・HMV限定 オリジナルグッズ発売｜ローソン
+https://studyhacker.net/read-books-quickly | 「本を速く読めて記憶にも残せる人」が読書で大切にしていること。意外にも○○は後回しでいい - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://note.com/shi3zblog/n/necd6de514475 | 噂のノーコードAIシステム開発環境Difyを使ってツールを作ってみた。使った感想｜shi3z
+https://zenn.dev/bells17/articles/devcontainer-2024 | Dev Containerを使ってみよう
+https://speakerdeck.com/aeonpeople/cndt2023-ionkakuberneteswocai-yong-sitetounatuta | [CNDT2023]イオンがKubernetesを採用してどうなった? - Speaker Deck
+
+https://yamdas.hatenablog.com/entry/20240527/udm14 | Google検索結果からAIによるまとめを排除するフィルタ「&udm=14」 - YAMDAS現更新履歴
+https://sfujiwara.hatenablog.com/entry/2024/05/27/091630 | awslim - Goで実装された高速なAWS CLIの代替品を作った - 酒日記 はてな支店
+https://levtech.jp/media/article/interview/detail_442/ | 「エンジニア500人じゃ全然足りない」拡大と意思決定速度を両立する「自走する開発組織」とは【Sansan VPoE大西×VPoP西場】 | レバテックラボ（レバテックLAB）
+https://levtech.jp/media/article/column/detail_446/ | インプットは2段階にわけよう。きしだなおきに聞く、考え方の「個性」を創る勉強法 | レバテックラボ（レバテックLAB）
+https://levtech.jp/media/article/focus/detail_439/ | 「情報 I・II」を学んだ高校生の技術レベルってどのくらい？　元エンジニア校長にホントのところを聞きました【フォーカス】 | レバテックラボ（レバテックLAB）
+https://qiita.com/lei90/items/d77f8f87093e2148adbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items | Node.jsでのモジュールインポートと環境変数の取り扱いに関して #Node.js - Qiita
+https://qiita.com/e99h2121/items/96617b041637e2bd7828?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items | 「パッケージ開発論」を題材に勉強会をした #設計 - Qiita
+https://qiita.com/rana_kualu/items/06d68549058966a34c2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items | 【PHP8.4】ついにPHPにプロパティフックが導入される #PHP - Qiita
+https://www.gizmodo.jp/2024/05/not-just-auroras-heres-the-tech-that-got-hit-by-this-w-jpn.html | 20年ぶりの大きな｢太陽フレア｣、いったい何が起こっていたの？ | ギズモード・ジャパン
+https://zenn.dev/kirohi/articles/3c644b614977fe | Rust製TypeScript Linterにおける型情報Lintルールの模索
+https://prtimes.jp/main/html/rd/p/000000005.000079243.html | プロジェクト単位での働き方を実現するビジネスSNS「プロジェクトデータベース」が機能を大幅アップデート | RDFN株式会社のプレスリリース
+https://codezine.jp/article/detail/19537 | Google、フルスタックアプリの開発が可能なクラウドワークスペース「Project IDX」の最新情報|CodeZine（コードジン）
+https://kakakumag.com/av-kaden/?id=20895 | 小型でもしっかりハイファイ！ HDMI搭載アンプ／ネットワークプレーヤー「MODEL M1」 - 価格.comマガジン
+https://www.lifehacker.jp/article/2405-10-steps-to-build-the-best-morning-routine-businessinsider/ | 生産性と幸福感を高める、最高の朝ルーティンに必要な10のこと | ライフハッカー・ジャパン
+https://togetter.com/li/2373267 | 教科書に載ってる召集令状が激レア物だった→「現場は何も知らずに仕事してたんだろうな…」 - Togetter
+https://note.com/itaruotton/n/ncf8f5146a0c6 | 40代家庭持ちが現役ゲーマーであり続けるための生存戦略｜Itaru Otomaru
+https://www.yomiuri.co.jp/economy/20240527-OYT1T50030/ | 全国１８００自治体のＩＴシステム共通化へ、人手不足に対応…給付金や学校事務で : 読売新聞
+https://blog.tinect.jp/?p=86501 | これをやると「言語化が苦手な人」と、意思の疎通がしやすいかもしれない。 | Books&Apps
+https://tters.jp/quiz?no=2 | はてな古参度チェッククイズ
+
+https://codezine.jp/article/detail/19342 | 世界5400万ユーザー超え！ 日本発のプロダクト「TimeTree」を支える、エンジニアとしての総合力 (1/3)|CodeZine（コードジン）
+https://cloud.watch.impress.co.jp/docs/news/1591687.html | バッファローの法人向けVPNルーター「VR-Uシリーズ」、IPv4 over IPv6接続で固定IPアドレスを利用可能に - クラウド Watch
+https://studyhacker.net/masami-utsude-interview03 | 資格試験に受かる人があたりまえにやっている、勉強の「3つの基本動作」 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://dev.classmethod.jp/articles/tokyo-osaka-ec2-transfer-speed/ | 東京リージョンと大阪リージョンのEC2インスタンス間の転送速度を計測してみた | DevelopersIO
+https://note.com/dods_ajikeinc/n/n3d80167235b0 | 古いと感じるウェブサイトのUIに共通する3つの特徴｜Dods｜UIUX改善支援
+https://tech-blog.monotaro.com/entry/2024/05/15/090000 | マイクロサービス化するならリビルドで！ビジネスロジックをGoで書き直してわかったこと - MonotaRO Tech Blog
+https://realsound.jp/book/2024/05/post-1657329.html#google_vignette | ボールペンやシャーペン、万年筆……2024年に使うべき文房具が1冊に大集結『ステーショナリーマガジン 2024』｜Real Sound｜リアルサウンド ブック
+https://tech.mntsq.co.jp/entry/2024/05/10/144910 | チーム内勉強会の進め方事例 - MNTSQ Techブログ
+https://qiita.com/mkt_hanada/items/44c20c4db78db9d6c024 | 社内Wikiを改善して、開発体験をより良くする #マネジメント - Qiita
+
+https://www.lifehacker.jp/article/2405tasks-you-can-handle-right-from-chrome-address-bar/ | Google Chromeのアドレスバー攻略法8選｜検索しか使わないのは損！【今日のワークハック】 | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2405-matome-wifi/ | 自宅のWi-Fi速度とセキュリティを改善してストレスフリーな環境にする方法 | ライフハッカー・ジャパン
+https://getnews.jp/archives/3529430/gate | モバイルバッテリーが膨張してマジでヤバイ→ どうやって処分すればいいのか→ 調べた結果 ｜ ガジェット通信 GetNews
+https://www.sbbit.jp/article/fj/139738 | なぜ日本はITに“めっぽう”弱いのか？ 根本原因が「大学教育とOJT」と言えるワケ 連載：野口悠紀雄のデジタルイノベーションの本質｜FinTech Journal
+https://japan.zdnet.com/article/35219081/ | DDoS攻撃は「ハイパーボリューム型」で生成AIとともに巧妙化--クラウドフレア - ZDNET Japan
+https://type.jp/et/feature/25960/ | フルリモート勤務者はお先真っ暗？ 突きつけられた「出社要請」への向き合い方 - エンジニアtype | 転職type
+https://digitalpr.jp/r/87815 | いきなり！ステーキ『ホロライブゲーマーズ』とのコラボ決定！ | 株式会社ペッパーフードサービス
+https://news.goo.ne.jp/article/allaboutnews/trend/allaboutnews-106002.html | ディズニーシー新エリアの招待が物議を醸す。「すごい幻滅した」「ディズニーの広報大丈夫？」(All About NEWS) - goo ニュース
+https://diamond.jp/articles/-/343335 | 「無能すぎる管理職」がよく口にする言葉・ワースト1 | リーダーの仮面 | ダイヤモンド・オンライン
+https://www.tokyo-sports.co.jp/articles/-/302961 | つばさの党〝ネットから排除〟の深刻ダメージ　黒川代表の獄中立候補プランも苦戦必至 | 東スポWEB
+https://www.joqr.co.jp/qr/article/124919/ | マイナンバーの485機能がまったく使われず……大竹まこと「制度を作ることが最大の目的になっちゃってる」 | 文化放送
+https://mainichi.jp/articles/20240515/k00/00m/040/176000c | 「利用すると逆に…」　マイナンバーの情報照会、活用「ゼロ」の事例 | 毎日新聞
+https://news.yahoo.co.jp/articles/a80ec8e3603d15c40ecca2233a2a6269924cc50a | マイナ保険証、情報古すぎて「退職したら使えない」「就職しても使えない」の衝撃…河野大臣は「大丈夫だと思ってる」の上から目線（SmartFLASH） - Yahoo!ニュース
+
 https://levtech.jp/media/article/column/detail_422/ | プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）
 https://qiita.com/yukinaka_data/items/8270e1a559e8fc3c047d | Dataikuを使って完全ノーコードで、1時間でRAG作成→AIチャットボットを作ってみた(自動車保険の約款編) #LLM - Qiita
 https://zenn.dev/raru_ex/articles/eb3aa038b38771 | フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた
@@ -17,7 +98,6 @@ https://forest.watch.impress.co.jp/docs/news/1588454.html | 「Git for Windows 2
 https://cloud.watch.impress.co.jp/docs/event/1588587.html | 「第33回 Japan IT Week 春」で見た、さまざまな最新サーバー製品を紹介 - クラウド Watch
 https://www.gizmodo.jp/2024/05/kaercher_oc-3-foldable.html | ベランダ掃除、これでいいじゃん。新作｢バケツのケルヒャー｣が手放せない | ギズモード・ジャパン
 https://dev.classmethod.jp/articles/fluent-communication-technique-for-remotework/ | リモートワークでの意思疎通に困らないためのコミュニケーションテクニック9連発 | DevelopersIO
-https://www.google.com/search?q=%E3%83%9B%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&oq=%E3%81%BB%E3%81%A3%E3%81%A8%E3%82%8A%E3%83%BC&gs_lcrp=EgZjaHJvbWUqCQgBEAAYBBiABDIGCAAQRRg5MgkIARAAGAQYgAQyCQgCEAAYBBiABDIJCAMQABgEGIAEMgkIBBAAGAQYgAQyCQgFEAAYBBiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIJCAkQABgEGIAEMgkIChAAGAQYgAQyCQgLEAAYBBiABDIJCAwQABgEGIAEMgkIDRAAGAQYgAQyCQgOEAAYBBiABNIBCDQ1NjBqMGo3qAIUsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ホットリーディング - Google 検索
 https://zenn.dev/meihei/articles/d878e997ce142d | コードレビューで本を参照として使う
 https://zenn.dev/koduki/articles/e9373cb78fcfef | 【ソフトウェア設計】例外処理を考える
 https://zenn.dev/voluntas/scraps/cdb3923dafa631 | 自社サービスのバックエンドを Go から TypeScript へ切り替えるための整理
