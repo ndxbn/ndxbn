@@ -8,7 +8,7 @@
     "fmt": "prettier --write \"**/*.{md,yaml,yml}\""
   },
   "devDependencies": {
-    "cspell": "8.12.1",
+    "cspell": "8.13.0",
     "prettier": "3.3.3"
   }
 }
