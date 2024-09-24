@@ -12,7 +12,6 @@ https://news.yahoo.co.jp/articles/af36386dc4c76781a149d853cb71ab3bf10b4718 | サ
 
 https://www.goodspress.jp/howto/625118/ | 張り線を仕上げて次はお楽しみのデカール貼り…のはずが問題発生！【達人のプラモ術＜ブリストル・ブルドッグMkⅡ＞】 | ＆GP
 https://www.goodspress.jp/columns/624374/ | 「LUMIX S9」は、"スマホ時代になぜカメラ？"の最適解になり得る存在だ | ＆GP
-https://www.goodspress.jp/news/624937/ | トースターってこれで十分かも。ラッセルホブスらしいシンプルデザイン＆機能 | ＆GP
 https://aws.amazon.com/jp/blogs/news/how-to-use-regional-aws-sts-endpoints/ | リージョナル AWS STS エンドポイントの使用方法 | Amazon Web Services ブログ
 https://aws.amazon.com/jp/blogs/news/deploying-a-web-application-using-aws-amplify-gen-2-with-gitlab-as-the-repository-on-aws/ | GitLab をリポジトリとして使う AWS Amplify Hosting でのアプリケーションのデプロイ方法 | Amazon Web Services ブログ
 https://note.com/simplearchitect/n/n760367c0c03d | 「居心地が悪い」状態を「楽しめる」かが、自分の成長のコツかもしれない｜牛尾　剛
