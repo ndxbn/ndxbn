@@ -1,6 +1,7 @@
 xiv
 ffxiv
 
+choco
 automerge
 puml
 startuml
