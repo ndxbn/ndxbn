@@ -3,7 +3,6 @@ name: My Yearly Task List
 about: （このテンプレートは手動では使いません）
 title: "Yearly: {{ date | date('add', 1, 'year') | date('YYYY') }}"
 labels: yearly, todo
-assignees: ndxbn
 ---
 [編集](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz38-yearly-todo.md)
 
