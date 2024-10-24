@@ -1,5 +1,6 @@
 ## Hi there, I'm <ruby>上白沢<rt>Kami-Shirasawa</rt> しとりー<rt>Shitorii</rt></ruby>, a Backend Engineer
- [@ndxbn](https://github.com/ndxbn) or ndxbn.tokyo is almost me!
+
+[@ndxbn](https://github.com/ndxbn) or ndxbn.tokyo is almost me!
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" /></a>
 <a href="https://bun.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun" width="50" /></a>
@@ -19,7 +20,7 @@
 
 <details><summary>Expand Profile
 </summary>
-  
+
 ![ndxbn's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ndxbn&theme=onedark)
 
 ### Languages and Tools
