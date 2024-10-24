@@ -1,26 +1,49 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/?username=ndxbn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/?username=ndxbn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/?username=ndxbn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</picture>
+## Hi there, I'm <ruby>上白沢<rt>Kami-Shirasawa</rt> しとりー<rt>Shitorii</rt></ruby>, a Backend Engineer
+ [@ndxbn](https://github.com/ndxbn) or ndxbn.tokyo is almost me!
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" /></a>
+<a href="https://bun.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun" width="50" /></a>
+<a href="https://hono.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/98495527" alt="Hono" width="50" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="50" /></a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50"/></a>
+
+![ndxbn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark)
+![ndxbn's GitHub Streak](https://streak-stats.demolab.com?user=ndxbn&mode=daily&theme=dark)
 
 <!--
-IT 企業、スマイルトン。
-そこは、誰もが笑顔で暮らすことができる最高の企業になるはずだった。
-繰り返される仕様変更、迫り来る納期。このふたつが重なれば、どんな悲劇が起こるのか……
-1 万 2000 年の文明史が証明してきた当たり前のことも、その大半を目先の利益に囚われてきた経営者たちに、理解できるはずもなかった。
-このままでは会社の深層部まで、笑顔で新入社員を使い潰す、無慈悲なブラック企業ができあがってしまう。
-今こそ、すべてを暴力で解決しよう！
+![ndxbn's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ndxbn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![ndxbn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ndxbn&layout=compact&theme=dark)
 
-// ここにコンテンツファインダーのネタ画像を貼る
+<details><summary>Expand Profile
+</summary>
+  
+![ndxbn's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ndxbn&theme=onedark)
 
-<div align="center">
-  <img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif">
-</div>
+### Languages and Tools
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" /></a>
+<a href="https://bun.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun" width="50" /></a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
+<a href="https://hono.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/98495527" alt="Hono" width="50" /></a>
+
+<a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50"/> </a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50"/> </a>
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/> </a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50"/></a>
+
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50"/> </a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50"/> </a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/> </a>
+
+<a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50"/> </a>
+<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50"/> </a>
+
+</details>
 -->
