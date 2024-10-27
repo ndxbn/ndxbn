@@ -9,8 +9,10 @@
 <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50"/></a>
 
+<p>
 <image src="https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark" alt="ndxbn's GitHub Stats" width="45%" style="max-width: 45%" />
 <image src="https://streak-stats.demolab.com?user=ndxbn&mode=daily&theme=dark" alt="ndxbn's GitHub Streak" width="45%" style="max-width: 45%" />
+</p>
 
 <!--
 ![ndxbn's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ndxbn&limit=5&theme=dark&combine_all_yearly_contributions=true)
