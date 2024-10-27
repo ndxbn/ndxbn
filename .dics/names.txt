@@ -5,6 +5,7 @@ Shirasawa
 Kamishirasawa
 Etco
 blogbear
+lowlighter
 crey
 astar
 Jetbrains
