@@ -9,7 +9,8 @@
 <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="50"/></a>
 
-<details><summary>Expand Stats</summary>
-<a href="#" target="_blank"><image src="https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark" alt="ndxbn's GitHub Stats" width="45%" style="max-width: 45%" /></a>
+<image src="https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark" alt="ndxbn's GitHub Stats" />
+
+<details><summary>More Profile</summary>
 <a href="https://metrics.lecoq.io/insights/ndxbn" target="_blank"><image src="https://raw.githubusercontent.com/ndxbn/ndxbn/main/asset/metrics.classic.svg" alt="ndxbn's GitHub Metrics" />
 </details>
