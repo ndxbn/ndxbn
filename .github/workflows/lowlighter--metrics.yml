@@ -15,11 +15,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: asset/metrics.classic.png
+          filename: asset/metrics.classic.svg
           user: ndxbn
           template: classic
           #base: header, activity, community, repositories, metadata
-          config_output: png
+          #config_output: png
           config_timezone: Asia/Tokyo
           plugin_achievements: true
           plugin_achievements_display: compact
