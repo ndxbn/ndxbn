@@ -2,7 +2,7 @@
 name: My Daily Task List
 about: （このテンプレートは手動では使いません）
 title: "Daily: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }}"
-labels: ffxiv, daily, todo
+labels: ffxiv, daily, todo, bot
 assignees: ndxbn
 ---
 [修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz33-daily-todo.md)

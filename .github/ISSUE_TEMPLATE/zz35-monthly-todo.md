@@ -2,7 +2,7 @@
 name: My Monthly Task List
 about: （このテンプレートは手動では使いません）
 title: "Monthly: {{ date | date('add', 9, 'hours') | date('YYYY-MM') }}"
-labels: monthly, todo
+labels: monthly, todo, bot
 ---
 [編集](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz35-monthly-todo.md)
 
