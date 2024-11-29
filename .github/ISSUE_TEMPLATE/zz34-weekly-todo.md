@@ -4,7 +4,7 @@ about: （このテンプレートは手動では使いません）
 title: "Weekly: {{ date | date('add', 9, 'hours') | date('YYYY-MM-DD') }} ～ {{ date | date('add', 9, 'hours') | date('add', 6, 'days') | date('YYYY-MM-DD') }}"
 labels: ffxiv, weekly, todo, bot
 ---
-[修正](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
+[修正](https://github.com/ndxbn/ndxbn/edit/main/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
 
 # 家事
 
@@ -59,7 +59,7 @@ labels: ffxiv, weekly, todo, bot
 
 週末にやる
 
-- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/master/backups/onetab.txt)
+- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/main/backups/onetab.txt)
 - [ ] `choco upgrade -y all` メイン PC
 - [ ] `apt update -y && apt upgrade -y` WSL 環境
 - [x] `apt update -y && apt upgrade -y` サーバー
