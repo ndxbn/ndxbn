@@ -4,7 +4,7 @@ about: （このテンプレートは手動では使いません）
 title: "Yearly: {{ date | date('add', 1, 'year') | date('YYYY') }}"
 labels: yearly, todo, bot
 ---
-[編集](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz38-yearly-todo.md)
+[編集](https://github.com/ndxbn/ndxbn/edit/main/.github/ISSUE_TEMPLATE/zz38-yearly-todo.md)
 
 ## 1 月
 
@@ -35,7 +35,7 @@ labels: yearly, todo, bot
 ## 12 月
 
 - [ ] 室内換気システムのメンテナンス
-- [ ] [monthly タスクにある Yearly タスクへのリンクを更新](https://github.com/ndxbn/ndxbn/edit/master/.github/ISSUE_TEMPLATE/zz35-monthly-todo.md)
+- [ ] [monthly タスクにある Yearly タスクへのリンクを更新](https://github.com/ndxbn/ndxbn/edit/main/.github/ISSUE_TEMPLATE/zz35-monthly-todo.md)
 
 ## （不明）
 
