@@ -1,3 +1,111 @@
+https://zenn.dev/levtech/articles/67bedc33a4a87b | ５分で覚えるトランザクション分離レベル
+https://www.dtmstation.com/archives/67669.html | DTMerもJASRACに入れば、YouTube動画再生収益が増えるってホント？JASRACに行って聞いてみた
+https://gigazine.net/news/20241106-physical-buttons-are-making-a-comeback/ | タッチパネルから物理ボタンへの回帰の理由は「触覚フィードバックが欲しい」 - GIGAZINE
+https://zenn.dev/team_soda/articles/3839de85b1c214 | 片手で使えるUIを考える！ 〜苦なくタップできる領域とは?〜
+https://www.webcreatorbox.com/news/wcb-book6 | 書籍執筆しました！『1冊ですべて身につくWeb ＆ グラフィック デザイン入門講座』 | Webクリエイターボックス
+https://gigazine.net/news/20241105-indonesia-blocks-google-pixel/ | インドネシアがiPhone 16だけでなくGoogle Pixelの販売も禁止 - GIGAZINE
+https://www.gdm.or.jp/review/2024/1104/560701/4 | 2分の1サイズになったゲーム配信向けオーディオ、ローランド「BRIDGE CAST ONE」の使い勝手 - エルミタージュ秋葉原
+https://gendai.media/articles/-/140594 | いきなり「無保険」になって全国民が大パニック…？マイナ保険証「2025年問題」のヤバすぎる全容（荻原 博子） | マネー現代 | 講談社
+https://www.techno-edge.net/article/2024/11/05/3806.html | この世に“存在しない”DNA配列をAIが創造。生成した人工DNA配列をマウスや魚に組み込む（生成AIクローズアップ）　 | テクノエッジ TechnoEdge
+https://gihyo.jp/article/2024/11/mysql-rcn0233 | 第233回　MySQL 9.0と9.1の新機能について | gihyo.jp
+https://zenn.dev/mutex_inc/articles/nodejs-ts-docker-best-practice | 【2024年版】Dockerfileのベストプラクティスを整理しながらNode.jsで実践する
+https://laiso.hatenablog.com/entry/2024/11/12/215837 | 今年のLinuxデスクトップ元年はひと味違う。それは、Omakubがあるからだ。 - laiso
+https://logmi.jp/main/career/331169 | 週3日働いて年収2,000万稼ぐ元印刷屋のおじさん　好きなことだけして楽に稼ぐ3つのパターン | ログミーBusiness
+https://qiita.com/KNR109/items/94e30de1da719d0e7a78 | 【最新版】IT系ビジネスマンが読むべき有益資料まとめ #Security - Qiita
+https://qiita.com/KNR109/items/ac51f7eeace9d1b7b81b | 【最新版】有名企業のエンジニア向け研修資料まとめ #Next.js - Qiita
+https://pc.watch.impress.co.jp/docs/topic/feature/1639259.html | 【特集】若者は知らないかもしれない、おじさんおすすめのフリーソフト - PC Watch
+https://qiita.com/swiri/items/be7703dd0b204c4c2ae0 | ウォーターフォールの反省とアジャイルの成功に必要なもの #SIer - Qiita
+
+https://www.watch.impress.co.jp/docs/series/itsmo/1635647.html | コクヨ×アンカーの「Anker Smart Pouch」でテック小物の持ち運びを解決【いつモノコト】-Impress Watch
+https://www.yomiuri.co.jp/igoshougi/ryuoh/blog/20241114-SYT8T6005282/ | 竜王戦：検分で佐々木八段が長考し予備の駒を希望「申し訳ないですけど」…妥協しない姿勢に脇九段「かっこいい」＜七番勝負第４局・藤井聡太竜王－佐々木勇気八段＞ : 読売新聞
+https://japan.cnet.com/article/35226139/ | 12月2日で発行停止の健康保険証、代わりとなる「資格確認書」の交付対象や方法は？--デジ庁が公開 - CNET Japan
+https://www.businessinsider.jp/post-280180a | グーグルの生産性の専門家がアドバイス。在宅勤務で効率的な1日を送るための6つのポイント | Business Insider Japan
+https://cybozushiki.cybozu.co.jp/articles/m006216.html | サイボウズは「100人100通りの働き方」をやめます。社員数1000人を超えても、成長と幸福を両立させるための挑戦 | サイボウズ式
+https://ascii.jp/elem/000/004/232/4232427/ | ASCII.jp：あらためてIPv6基本のキ (1/2)
+https://qiita.com/damepanda_supra/items/a3606cbe28c41508ec80 | ITエンジニアがホームラボを持つ理由 #ポエム - Qiita
+https://qiita.com/ymd65536/items/c6488bb82e0db699b986 | 【AWS】考察編 - AWS Systems Managerがあれば、踏み台サーバはいらないのか #SSM - Qiita
+
+https://github.com/settings/installations/56757036 | Installed GitHub App - CodeClimate
+https://www.lifehacker.jp/article/2409-two-productivity-techniques-that-help-you-get-more-done/ | モチベがゼロの時のための仕事術。秘策「一口サイズの逆ポモドーロ」 | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2408-difference-between-time-blocking-and-time-boxing/ | 集中状態を生み出すタスク管理術。「ブロッキングとボクシングの合わせ技」で1日はもっと充実する | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2408-use-the-rapid-planning-method-to-structure-your-day/ | シンプルで続けやすいタスク管理術「RPM」。仕事の優先度が簡単に決まる | ライフハッカー・ジャパン
+https://zenn.dev/dai_shi/articles/a08d7e819f4d3f | Zustandって大規模な状態管理に使えるの？Zustand-Slicesを作ったワケ
+https://codezine.jp/article/detail/19986?p=3 | 日本発！ 世界5500万ユーザーの「TimeTree」を支えるAndroidエンジニアが直面してきた技術的負債 (3/3)|CodeZine（コードジン）
+https://zenn.dev/calloc134/articles/4f96b0fe093489 | インデックスとは何？MySQL(InnoDB)とPostgreSQLのインデックスの違いとは？調べてみました
+https://tech.findy.co.jp/entry/2024/09/20/090000 | GitHub Copilotの効果は本物？論文から読み解く開発生産性の真実 - Findy Tech Blog
+https://www.oreilly.co.jp/books/9784814400904/ | O'Reilly Japan - SREをはじめよう
+https://logmi.jp/tech/articles/330972 | Googleが提唱する効率的な自動テスト戦略　テストサイズで再考する「テストピラミッド」 - ログミーTech
+https://zenn.dev/339/articles/4ba6794874d097 | 汚いコードの害を伝えたいだとか
+https://www.lifehacker.jp/article/2409-businessinsider-odd-shaped-wagon/ | この｢変わった形のワゴン｣、我が家の書類管理を一手に担っています | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2409-gizmodo-lgt-wcstc01bk/ | ロジテックの｢ほぼAirTag｣カードが最強な理由。値段、性能、文句なし | ライフハッカー・ジャパン
+https://tech.findy.co.jp/entry/2024/09/24/090000 | ファインディでのGitHub Actions自動化の事例 - Findy Tech Blog
+https://zenn.dev/mshr0969/articles/b265b824a4840e | MySQLのインデックスってどれくらい効果があるの？試してみた
+https://codezine.jp/article/detail/20100?p=2 | 自分でコードを書かずにどこまでやれるか？「GitHub Copilot」をフル活用してReact＋ExpressのWebページ実装に挑戦 (2/3)|CodeZine（コードジン）
+https://zenn.dev/kazzyfrog/articles/recommend-5-lgtm-generator | コードレビューを楽しくする 5 つの LGTM 画像サービス
+https://levtech.jp/media/article/column/detail_524/ | Rust.Tokyoオーガナイザー・豊田優貴が薦めるRust本6選 | レバテックラボ（レバテックLAB）
+https://zenn.dev/tacchan5424/articles/6fa27bcc521e11 | 【個人開発】ゲーマー同士が一緒に楽しく遊べる人かどうかの判断をサポートするサービスを開発しました！
+https://www.lifehacker.jp/article/2409_work_hack_windows_voice_dictation/ | Windowsのショートカットキー「Win+H」でタイピングを不要にする【今日のワークハック】 | ライフハッカー・ジャパン
+https://www.lifehacker.jp/article/2409-matome-no-motivation-streamlining/ | モチベーション皆無でも問題ナシ！「やる気に左右されない仕事術」3選 | ライフハッカー・ジャパン
+https://gigazine.net/news/20240926-blue-screen-of-death-spacecraft/#google_vignette | 数千億円もする人工衛星ではブルースクリーンの発生を避けるためにどんな対策が行われているのか？ - GIGAZINE
+https://qiita.com/s_moriyama/items/14b703cc0dfa91a6f464 | アクセスキーを使ったaws-cliはもうやめよう！ #AWS - Qiita
+https://www.moguravr.com/nijisanji-over-sleep/ | でびでび・でびる企画の「にじさんじ寝坊防止委員会」が話題 主催を含め全然起きられず、寝坊者続出 - MoguLive
+https://tech.enechange.co.jp/entry/2024/09/28/200422 | IPAとAWSのダブル全冠、鍵は体力とお金 - ENECHANGE Developer Blog
+https://zenn.dev/jy8752/articles/cee5f11639ca83 | 実践テスト駆動開発を読んだのでモックを使ったロンドン学派的なテストをGoとmoqで考える
+https://www.phileweb.com/sp/review/article/202410/03/5745.html | 重低音イヤホンの枠を超えた、新たなサウンドの境地。オーディオテクニカ「ATH-CKS50TW2」の進化に迫る (1/2) - PHILE WEB
+https://www.oreilly.co.jp/books/9784814400898/ | O'Reilly Japan - マスタリングAPIアーキテクチャ
+https://japan.cnet.com/article/35224588/ | 「Oura Ring 4」が登場、着け心地やバッテリーなどを改善 - CNET Japan
+https://www.publickey1.jp/blog/24/kubernetescicdmscopilot_in_excel_with_python20249.html | 日本ではKubernetesやCI/CDなどが幻滅期／MSがCopilot in Excel with Python発表／富士ソフトを巡って買収合戦ほか、2024年9月の人気記事 － Publickey
+https://www.suzukikenichi.com/blog/google-doesnt-recommend-product-markup-generated-by-javascript/ | JavaScriptで動的生成した商品構造化データをGoogleは推奨しない
+https://www.gizmodo.jp/2024/10/294152.html | ChatGPTで｢ほんのちょっとした画像編集｣を効率的に行う方法 | ギズモード・ジャパン
+https://zenn.dev/acntechjp/articles/d45ef2081cb390 | エンジニア歴1年未満の初心者が3か月でAWS認定試験を全冠した話
+https://ascii.jp/elem/000/004/227/4227498/ | ASCII.jp：オープンソースの「住所正規化エンジン」が“地番住所”にまで対応
+https://www.docswell.com/s/binnmti/KN1L8E-2024-10-09-152415 | 技術書を集中して読むために新たに始めた方法が自分にクリティカルヒットした話​ | ドクセル
+https://dev.classmethod.jp/articles/python-uv/ | Pythonのパッケージマネージャuvで環境構築してみた | DevelopersIO
+https://coliss.com/articles/book-review/isbn-9784297144111.html | かなり詳しくてよく分かる良書！ デザインシステムの作り方、導入・運用も学べる解説書 -つくって、みなおす、デザインシステム | コリス
+https://www.tokyo-np.co.jp/article/359936 | エアージャパンが「搭乗拒否」　再入国許可書、ビザもあるのに…難民認定の家族3人　30万円も払い戻さず：東京新聞 TOKYO Web
+https://gaishishukatsu.com/archives/c613fdef74184dac8b3f67bfc409aecf | 文系からGMOの“新卒年収710万プログラム”でソフトウェアエンジニアに。「非情報系でも対等に仕事ができてる実感がある」 | 外資就活ドットコム
+https://note.com/hatti8/n/n150828e35a26 | OpenAIの新しいマルチエージェント用フレームワークSwarmを試す｜はち
+https://engineers.ntt.com/entry/202410-agile-in-nework/entry | フルリモート環境でのアジャイル開発って実際どうなの？ NeWork の取り組みを紹介 - NTT Communications Engineers' Blog
+https://dreamseed.blog/post-194727/ | Oura Ring 4発表 測定精度が向上、出っ張りのないスリムデザインに | Dream Seed
+https://it.impress.co.jp/articles/-/26943 | アジャイル開発宣言を通して「本来のアジャイル」を考える：第3回 | IT Leaders
+https://www.watch.impress.co.jp/docs/news/1630733.html | サブスク不要なスマートリング「Amazfit Helio Ring」 - Impress Watch
+https://internet.watch.impress.co.jp/docs/news/1630834.html | TerraMasterの外付けドライブケースがAmazonでタイムセール中！ - INTERNET Watch
+https://tech.legalforce.co.jp/entry/introduction-to-search-and-recommender-systems-for-pdm | 社内資料「プロダクトマネージャーのための検索推薦システム入門」を公開します - LegalOn Technologies Engineering Blog
+https://zenn.dev/uki00a/articles/deno-v2-what-has-changed-from-v1 | Deno v2がリリース🎉 - Deno v1.0.0の頃からの変化と現在のプラクティスについて
+https://zenn.dev/yumemi9808/articles/94a7b07438c081 | フロントエンドエンジニアがT3Stackを使ったら初めて個人開発を作り切りました！
+https://codezine.jp/article/detail/20065?p=3 | いくつ知ってる？ GitHub Copilotの新機能、コーディングにとどまらない進化を解説 (3/3)|CodeZine（コードジン）
+https://levtech.jp/media/article/column/detail_537/#ttl_3 | 主要バンドラーの仕様を徹底比較。Import Maps、Viteなど「脱バンドラー」の動きも | レバテックラボ（レバテックLAB）
+https://note.com/shi3zblog/n/na650219aeb95 | 拡散(Diffusion)モデルは実は進化計算だった｜shi3z
+https://tech.enechange.co.jp/entry/2024/10/15/235502 | 日本にはAWS Community Builderが足りていない - ENECHANGE Developer Blog
+https://itlaw.hatenablog.com/entry/2024/10/20/141111 | アジャイル型開発における未完成の責任　東京地判令3.11.25（平30ワ25117） - IT・システム判例メモ
+https://gigazine.net/news/20241020-gosub-web-browser-engine/ | BlinkでもWebKitでもない新開発ブラウザエンジン「Gosub」 - GIGAZINE
+https://gigazine.net/news/20240122-firefox-platform-tilt/ | Apple・Google・Microsoftが自社ブラウザよりもFirefoxを冷遇するために設けている技術的問題点をまとめたページ「Platform Tilt」をMozillaが公開 - GIGAZINE
+https://zenn.dev/mizchi/articles/puppeteer-as-localproxy | puppeteer をローカルプロキシとしてリクエストを監視＆モックする
+https://codezine.jp/article/detail/20125 | DMM.comの施策から見る、事業をむしばむ「技術負債」への処方箋──リファクタリングの「言語化」でインシデントを予防 (1/3)|CodeZine（コードジン）
+https://tech.findy.co.jp/entry/2024/10/21/070000 | 【エンジニアの日常】エンジニア達の人生を変えた一冊 Part2 - Findy Tech Blog
+https://www.gizmodo.jp/2024/10/sandisk_extreme_portable_ssd.html | 僕はポータブルSSDのおかげでiPhone 16を安く済ませることができました | ギズモード・ジャパン
+https://gigazine.net/news/20241016-youtube-c2pa-captured-with-a-camera/ | YouTubeに「映像と音声が編集されていないもの」であることを保証する「カメラで撮影」ラベルが登場、C2PA標準を採用 - GIGAZINE
+https://azukiazusa.dev/blog/react-to-web-component/ | react-to-web-component を使って React コンポーネントを Web Components に変換する
+https://pc.watch.impress.co.jp/docs/topic/special/1624470.html | これからのモバイルノートを買うならメモリ16GBは必須でNPU搭載も考慮したい。その理由とは ～デルの軽量モバイルノート「Latitude 7350 Ultralight」とメモリ8GBの旧世代機で比較- PC Watch[Sponsored]
+https://www.lifehacker.jp/article/2410-interstitial-journalin-better-than-to-do-list/ | 必要なのはノート1冊。時間管理＆マインドフルネスが同時にできる「インタースティシャル・ジャーナリング」 | ライフハッカー・ジャパン
+https://prtimes.jp/main/html/rd/p/000000061.000057664.html | 楽しみながら学び続ける時代へ！『RUNTEQ』が学習継続率を劇的に向上させる『学習バディポモドーロ』を近日リリース！ | 株式会社スタートアップテクノロジーのプレスリリース
+https://www.lifehacker.jp/article/2409-create-time-map-to-improve-productivity/ | 仕事もプライベートもすべて効率化。「タイムマッピング」の方法とツール4選 | ライフハッカー・ジャパン
+https://www.gizmodo.jp/2024/10/elecom-usb4-ver2-0-type-c-cable.html | USBにまたも新規格。｢USB4 Ver2.0 Type-C｣ってややこしくない？ | ギズモード・ジャパン
+https://gigazine.net/news/20241023-ai-detectors-false-cheating-accusations/ | AI検出器は人間の学生が書いた文章の1～2％をAI製と誤認、ぬれぎぬで試験を落とされる学生にとってはたまったものではない精度 - GIGAZINE
+https://shisama.hatenablog.com/entry/2024/10/18/080000 | Node.js v23の主な変更点 - 別にしんどくないブログ
+https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/1633548.html | 24TB HDDの割安モデルが再入荷で9万円台に下落、20～22TB HDDも一部が値下がり [10月後半のHDD価格] - AKIBA PC Hotline!
+https://www.businessinsider.jp/post-295257 | HARIO×マーナの合計約2000円のこの組み合わせが、ストレスのない炊飯の正解だった | Business Insider Japan
+https://qiita.com/rana_kualu/items/1169507fba28afe344e7 | 【Linux】Linus Torvalds、Linuxカーネルからロシア人開発者を追放して騒動に #OSS - Qiita
+https://techblog.enechain.com/entry/management-of-component-libraries | デザインシステムにおけるコンポーネントライブラリ管理の改善 - enechain Tech Blog
+https://ascii.jp/elem/000/004/231/4231404/ | ASCII.jp：GitHub Copilotで「Claude」「Gemini」も利用可能に　自然言語のみでアプリ開発できる新ツールも
+https://forest.watch.impress.co.jp/docs/news/1635391.html | 数クリックでローカルWordPressサイトを作れる無償ツール「Studio」、AI支援機能も統合 - 窓の杜
+https://gigazine.net/news/20241029-tsmc-suspended-sophgo/ | 「TSMCの半導体がHuaweiのAIチップに使われていた」という報道の直後にTSMCが中国企業「SOPHGO」への出荷を停止、SOPHGOが仲介して半導体を作らせていた可能性が浮上 - GIGAZINE
+https://internet.watch.impress.co.jp/docs/news/1635489.html | 「Cookieバナーを掲出しない」という選択肢を提供、IIJが新たなプライバシーツール「STRIGHT」 - INTERNET Watch
+https://av.watch.impress.co.jp/docs/series/zooma/1635245.html | 【小寺信良の週刊 Electric Zooma!】AV用途でも有効！？オートフォーカスアイウェア「ViXion01S」を試す-AV Watch
+https://speakerdeck.com/yokawasa/the-key-to-api-test-automation | APIテスト自動化の勘所 - Speaker Deck
+https://pc.watch.impress.co.jp/docs/column/gyokai/1635437.html | 【大河原克行の「パソコン業界、東奔西走」】日本初のChromebook生産に立ち会ってきた！なぜ、FCCLは本気で参入するのか？ - PC Watch
+https://developers.prtimes.jp/2024/10/29/chromebook-business-intro/ | Chromebook導入で実現した持ち出しPCの運用改善 | PR TIMES 開発者ブログ
+
 https://www.google.com/search?q=Zigbee&sourceid=chrome&ie=UTF-8 | Zigbee - Google 検索
 https://www.google.com/search?q=Matter+wifi&num=10&newwindow=1&sca_esv=7aa1caabb4121f2c&sca_upv=1&sxsrf=ADLYWIJ3zBMvaKVuQHyJxwM0siK6JiaAWg%3A1727711187735&ei=08f6Zv_LLMqTvr0Pzsyc2Q8&ved=0ahUKEwi_gfrcgeuIAxXKia8BHU4mJ_sQ4dUDCA8&uact=5&oq=Matter+wifi&gs_lp=Egxnd3Mtd2l6LXNlcnAiC01hdHRlciB3aWZpMgUQABiABDIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHki_H1DnElj2HXADeAGQAQCYAWGgAcIEqgEBN7gBA8gBAPgBAZgCCqAC3QTCAgoQABiwAxjWBBhHwgIIEAAYgAQYsQPCAgoQABiABBhDGIoFwgIHEAAYgAQYBMICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIKEAAYExgKGB4YD8ICBxAAGIAEGA2YAwCIBgGQBgqSBwIxMKAHgxU&sclient=gws-wiz-serp | Matter wifi - Google 検索
 https://www.google.com/search?q=Thread+wifi&num=10&newwindow=1&sca_esv=7aa1caabb4121f2c&sca_upv=1&sxsrf=ADLYWIJD_9sJQTgcWfgTjyifmbV1gvN85w%3A1727711189737&ei=1cf6ZrrWLOWfvr0Pvp-BiAU&ved=0ahUKEwj6lPTdgeuIAxXlj68BHb5PAFEQ4dUDCA8&uact=5&oq=Thread+wifi&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1RocmVhZCB3aWZpMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYHhgPMgYQABgFGB4yBhAAGAUYHkiDDlDTAVjdDHABeAGQAQCYAW-gAbcDqgEDNC4xuAEDyAEA-AEBmAIGoALHA8ICChAAGLADGNYEGEfCAggQABiABBixA8ICChAAGIAEGEMYigXCAgQQABgDwgIHEAAYgAQYBJgDAIgGAZAGCpIHAzUuMaAH9A0&sclient=gws-wiz-serp | Thread wifi - Google 検索
