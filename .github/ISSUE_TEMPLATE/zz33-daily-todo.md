@@ -112,10 +112,10 @@ assignees: ndxbn
 
 # その他
 
-- [ ] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
+- [x] [ラジオ体操](https://www.youtube.com/playlist?list=PL79p1GyJa5lgNNaftK-M_cSvKjfTWp8j4)とリングフィットアドベンチャー
 - [x] パズドラ
 - [x] ポケモンスリープ
-- [ ] すぐに終わるもの
+- [x] すぐに終わるもの
   - [コミュニティポイント（公式ページログイン）](https://maplestory.nexon.co.jp/)
   - [雀魂](https://game.mahjongsoul.com) (0600 JST) <!-- 3 日分までストックできるため -->
   - [Maple Royals Vote](https://mapleroyals.com/?page=vote) （0905 JST）
