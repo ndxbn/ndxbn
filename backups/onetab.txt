@@ -1,3 +1,45 @@
+https://elysiajs.com/ | Elysia - Ergonomic Framework for Humans | ElysiaJS
+https://www.google.com/search?q=elysia+hono&oq=elysia+hono&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGBMYHjIKCAIQABgIGBMYHjIKCAMQABgIGBMYHjIMCAQQABgIGAoYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgYIBxBFGDzSAQc5MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | elysia hono - Google 検索
+https://zenn.dev/koutyuke/scraps/0b640b9960e095 | Expo + Hono or Elysia + Next.jsで構成するアプリケーションの認証/認可ライブラリ選定ログ
+https://ts-rest.com/ | 🪄 | ts-rest
+https://github.com/timothymiller/t4-app | timothymiller/t4-app: Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
+https://github.com/openRin/Rin | openRin/Rin: ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
+https://github.com/aspen-cloud/triplit | aspen-cloud/triplit: A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
+https://github.com/ts-rest/ts-rest | ts-rest/ts-rest: RPC-like client, contract, and server implementation for a pure REST API
+https://github.com/hectorm/otpauth | hectorm/otpauth: One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
+https://dev.to/this-is-learning/hono-vs-h3-vs-hattip-vs-elysia-modern-serverless-replacements-for-express-3a6n | Hono vs. H3 vs. HatTip vs. Elysia - modern server(less) replacements for Express - DEV Community
+https://github.com/n8n-io/n8n | n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+https://github.com/elysiajs/elysia | elysiajs/elysia: Ergonomic Framework for Humans
+https://github.com/openstatusHQ/openstatus | openstatusHQ/openstatus: 🏓 The open-source synthetic monitoring platform 🏓
+https://github.com/panva/jose | panva/jose: JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
+https://github.com/capricorn86/happy-dom | capricorn86/happy-dom: A JavaScript implementation of a web browser without its graphical user interface
+https://github.com/moonrepo/moon | moonrepo/moon: A build system and monorepo management tool for the web ecosystem, written in Rust.
+https://github.com/undb-io/undb | undb-io/undb: 🚀 Private first self-hosted no code database & BaaS.
+https://github.com/evanwashere/mitata | evanwashere/mitata: benchmark tooling that loves you ❤️
+
+https://docs.aws.amazon.com/codebuild/latest/userguide/sample-codepipeline.html | AWS CodePipeline samples for CodeBuild - AWS CodeBuild
+https://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref-compute-types.html | Build environment compute modes and types - AWS CodeBuild
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-ecs-ecr-codedeploy.html | Tutorial: Create a pipeline with an Amazon ECR source and ECS-to-CodeDeploy deployment - AWS CodePipeline
+https://docs.aws.amazon.com/ja_jp/codebuild/latest/userguide/sample-docker.html | の「Docker イメージを Amazon ECRイメージリポジトリに公開する」サンプル CodeBuild - AWS CodeBuild
+https://docs.aws.amazon.com/ja_jp/eks/latest/userguide/copy-image-to-repository.html | あるリポジトリから別のリポジトリにコンテナイメージをコピーする - Amazon EKS
+https://www.seeds-std.co.jp/blog/creators/2022-12-05-121219/ | CodeBuildでマルチアーキテクチャなDockerイメージを高速にビルドする
+https://aws.amazon.com/jp/blogs/news/introducing-multi-architecture-container-images-for-amazon-ecr/ | Amazon ECR のマルチアーキテクチャコンテナイメージの紹介 | Amazon Web Services ブログ
+
+https://automaton-media.com/pc-steam-epic-games-store-gog/ | PC（Steam/Epic Gamesストア/GOG.comなど） - AUTOMATON
+https://rocketnews24.com/2024/12/01/2373524/ | 「若者のディズニー離れ」は本当か？ 実際に若者がディズニーに行って体験した正直な感想 | ロケットニュース24
+https://ascii.jp/elem/000/004/238/4238231/ | ASCII.jp：もうやめたい　怨嗟の声で終わりの始まりを迎えるVDI
+https://www.watch.impress.co.jp/docs/news/1644168.html | デジタル庁、地方の「アナログ規制」見直しを支援 - Impress Watch
+https://sirabee.com/2024/12/03/20163371679/ | 『ジョブチューン』全員不合格、涙する担当者へ…　無印良品の「上司たちの対応」に称賛 – Sirabee
+https://www.yomiuri.co.jp/economy/20241203-OYT1T50134/ | ラーメン「一風堂」、キリン開発の塩味感じるスプーンで味わう減塩ラーメン…事前予約で提供 : 読売新聞
+https://ascii.jp/elem/000/004/236/4236114/ | 話題の「自動でピントが合うメガネ」は認知症予防にもなる？ : - ASCII STARTUP
+
+https://codezine.jp/article/detail/20538 | エンジニアの成長をブーストさせる！ 2025年に向けて注目したいコミュニティ──技術・マネジメント・プロダクト開発まで (1/2)|CodeZine（コードジン）
+https://gigazine.net/news/20241130-fmv-zero-photo/ | 世界最軽量の約634gを実現した驚くほど軽すぎる富士通のノートPC「FMV Zero」フォトレビュー - GIGAZINE
+https://www.businessinsider.jp/post-281693b | 生産性・時間管理のコーチが斬る｢従ってはいけない｣5つの通説 | Business Insider Japan
+https://www.lifehacker.jp/article/2411google-drive-tips-and-tricks-everyone-needs-to-know/ | Googleドライブを使いこなす。仕事に差がつく「効率化」テクニック5選【今日のワークハック】 | ライフハッカー・ジャパン
+https://finance.logmi.jp/articles/380760 | QDレーザ（6613）の財務情報ならログミーFinance 【QAあり】QDレーザ、主力のレーザデバイス事業の大幅な成長を見込む　スマートグラスや医療応用分野で他社との提携も視野 - ログミーファイナンス
+https://logmi.jp/brandtopics/331175 | 検知が難しいサイバー攻撃が増加中　サイバーセキュリティの専門家を唸らせた脅威アクターの実例 | ログミーBusiness
+
 https://zenn.dev/levtech/articles/67bedc33a4a87b | ５分で覚えるトランザクション分離レベル
 https://www.dtmstation.com/archives/67669.html | DTMerもJASRACに入れば、YouTube動画再生収益が増えるってホント？JASRACに行って聞いてみた
 https://gigazine.net/news/20241106-physical-buttons-are-making-a-comeback/ | タッチパネルから物理ボタンへの回帰の理由は「触覚フィードバックが欲しい」 - GIGAZINE
@@ -1154,7 +1196,6 @@ https://type.jp/et/feature/24126/ | 日本をダメにした「魔改造」の�
 https://news.denfaminicogamer.jp/news/231227k | 「ずんだもん」になれる『VTubeStudio』向け公式Live2Dモデルが無料配布開始
 https://tech-blog.rakus.co.jp/entry/20231226/GithubCopilot | GitHub Copilot全社導入で得られた効果と課題 - RAKUS Developers Blog | ラクス エンジニアブログ
 https://tech-blog.tabelog.com/entry/advent-calendar-20231223 | 設計書を書かない設計で開発効率を向上させた話 - Tabelog Tech Blog
-https://maplestory.nexon.co.jp/notice/view/?alias=61cf0f63020f4484aa43ba47477e88f3 | 6次転職のオープン日程について | お知らせ | メイプルストーリー公式サイト
 
 https://internet.watch.impress.co.jp/docs/news/1554199.html | JPRS、「インターネットリテラシーが学べるポスター」「国別トップレベルドメインがクイズで学べる下敷き」を教育機関へ無償配布 - INTERNET Watch
 https://forest.watch.impress.co.jp/docs/news/1546515.html | 「FFmpeg 6.1」が半年以上遅れて公開 ～「FFmpeg 7.0」は計画通り2024年2月リリースへ - 窓の杜
@@ -1186,7 +1227,6 @@ https://qiita.com/midiambear/items/f38686bd4d139e0cd46c | Visual Studio Codeに�
 https://zenn.dev/mybest_dev/articles/c0570e67978673 | フロントエンドのディレクトリ設計思想
 https://qiita.com/kura_cvr/items/2107db0831170bdd4c69 | ホロライブアプリのアーキテクチャ　その1　〜MVPによるリアーキテクチャ〜 #C# - Qiita
 https://dev.classmethod.jp/articles/amazon-elasticache-serverless-ops-made-easy/ | Amazon ElastiCacheがサーバーレスになって運用がバチクソ楽になった #AWSreInvent | DevelopersIO
-https://qiita.com/nash_efp/items/b01f341ebc2e991a32ac | コードレビューの思想や心構え #コードレビュー - Qiita
 https://qiita.com/umanetes/items/e0257dafb920726c4f94 | コンテナのベストプラクティスに対しておこがましくも言ってみる #Docker - Qiita
 https://dev.classmethod.jp/articles/amazon-q-lineup/ | Amazon Q がいたるところに出てきて混乱したので整理してみた #AWSreinvet | DevelopersIO
 https://zenn.dev/kyln/articles/13637e86e3ff07 | wasmで使えるコード進行パーサーを作りました
