@@ -8,13 +8,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        [{本のタイトル}/README.md を作る](https://github.com/ndxbn/til/new/main/books)。
+        {本のタイトル}/README.md を作る： [https://github.com/ndxbn/til/new/main/books](https://github.com/ndxbn/til/new/main/books)。
         
-        国会図書館サーチ [https://ndlsearch.ndl.go.jp/](https://ndlsearch.ndl.go.jp/)
         
         ```
-        ## 本のタイトル
-        国会図書館サーチ：
+        ## （本のタイトル）
+        国会図書館サーチ： （`https://ndlsearch.ndl.go.jp`）
+        
         ISBN：
 
         ## 目次
