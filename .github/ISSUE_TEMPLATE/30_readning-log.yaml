@@ -21,5 +21,5 @@ body:
     id: til-url
     attributes:
       label: til URL
-      validations:
-        required: true
+    validations:
+      required: true
