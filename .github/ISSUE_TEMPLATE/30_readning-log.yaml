@@ -1,0 +1,25 @@
+name: 読書メモ
+description: 読書時のメモ書き、概要、自己解釈など。
+assignees: []
+labels: [book]
+projects: [ndxbn/7]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [{本のタイトル}/README.md を作る](https://github.com/ndxbn/til/new/main/books)。
+        [国会図書館サーチ https://ndlsearch.ndl.go.jp/](https://ndlsearch.ndl.go.jp/)
+        
+        ```
+        ## 本のタイトル
+        国会図書館サーチ：
+        ISBN：
+
+        ## 目次
+        ```
+  - type: input
+    id: til-url
+    attributes:
+      label: til URL
+    validations:
+      required: true
