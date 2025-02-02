@@ -5,11 +5,11 @@ labels: [book]
 projects: [ndxbn/7]
 title: （本のタイトル）
 body:
-  - type: markdown
+  - type: input
     attributes:
-      value: |
-        {本のタイトル}/README.md を作る： [https://github.com/ndxbn/til/new/main/books](https://github.com/ndxbn/til/new/main/books)。
-        
+      label: 読書メモの URL
+      description: |
+        [Today I Learned リポジトリ](https://github.com/ndxbn/til/new/main/books)にこの本の読書メモのディレクトリを作成し、その URL を入れてください。
         
         ```
         ## （本のタイトル）
@@ -19,9 +19,5 @@ body:
 
         ## 目次
         ```
-  - type: input
-    id: til-url
-    attributes:
-      label: 読書メモの URL
     validations:
       required: true
