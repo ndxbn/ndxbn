@@ -3,12 +3,14 @@ description: 読書時のメモ書き、概要、自己解釈など。
 assignees: []
 labels: [book]
 projects: [ndxbn/7]
+title: （本のタイトル）
 body:
   - type: markdown
     attributes:
       value: |
-        [{本のタイトル}/README.md を作る](https://github.com/ndxbn/til/new/main/books)。
-        [国会図書館サーチ https://ndlsearch.ndl.go.jp/](https://ndlsearch.ndl.go.jp/)
+        - [ ] [{本のタイトル}/README.md を作る](https://github.com/ndxbn/til/new/main/books)。
+        
+        国会図書館サーチ [https://ndlsearch.ndl.go.jp/](https://ndlsearch.ndl.go.jp/)
         
         ```
         ## 本のタイトル
