@@ -1,3 +1,191 @@
+https://zenn.dev/shoan/articles/5987b8d3f43851 | GhosttyをMacに入れてみた
+https://zenn.dev/react_tokyo/articles/ba82415acc2c04 | 駆け出しエンジニアだからこそコミュニティに飛び込んでみよう！
+https://zenn.dev/laiso/articles/mcp-mini-coding-agent | MCPを使って160行のTypeScriptでミニコーディングエージェントを作る
+https://zenn.dev/acntechjp/articles/a24eea73caaaa3 | Roo Clineで「一行プロンプト+@」しただけで、約15分でKubernetes上で動くテトリスゲームが無からできました
+https://logmi.jp/main/skillup/331324 | マッキンゼーのマネージャーが「資料を作る前」に準備する　すべてのアウトプットを支える論理的なフレームワーク
+https://forest.watch.impress.co.jp/docs/news/1653493.html | EOLを迎えた古い「Node.js」を利用するのは脆弱性 ～CVE番号を付番へ - 窓の杜
+https://topics.smt.docomo.ne.jp/article/president/bizskills/president_90115 | なぜか日本人の98%がやっていない…熟練金融記者が教える｢毎月23万円｣の年金を｢42万円｣に倍増させる方法【2024下半期BEST5】（プレジデントオンライン）｜ｄメニューニュース（NTTドコモ）
+https://blog-dry.com/entry/2025/01/02/062954 | 2024年読んで印象に残った本（技術書編） - Don't Repeat Yourself
+https://zenn.dev/moutend/articles/b051dd89d11b1a | Cloudflare WorkersにNext.jsアプリをデプロイする
+https://zenn.dev/picaneru/articles/05b9ab5ffb694e | VSCodeおすすめ拡張機能　～エンジニアもどき編～
+https://news.mynavi.jp/article/20250103-3099225/ | PCテクノロジートレンド 2025 - CPU編「Intel」と「AMD」 | マイナビニュース
+https://zenn.dev/smasato/articles/00b739fb4894b8 | Arcブラウザを仕事で使う
+https://forbesjapan.com/articles/detail/76309 | リモートでも月150万円稼げる副業3選とその心得、2025年版 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://togetter.com/li/2494232 | 前職で活躍してなかった後輩が、転職先で優秀だと言われて重宝されてたり、すごく優秀だった先輩が転職先で活躍できずに悩んだりするのは、優秀かどうかは身を置く環境によって変わる話 - Togetter [トゥギャッター]
+https://tech-blog.rakus.co.jp/entry/20250117/ansible | そのAnsibleコード適用して大丈夫？安全性を高めるAnsible CI環境を紹介します。 - RAKUS Developers Blog | ラクス エンジニアブログ
+https://engineers.ntt.com/entry/202501-nodeai-scrum-restart/entry | LeSSを辞めて1チームスクラムに戻した話 - NTT Communications Engineers' Blog
+https://japan.zdnet.com/article/35228358/ | 古くなったPCでも快適に動作する軽量「Linux」ディストリビューション5選 - ZDNET Japan
+https://japan.zdnet.com/article/35228257/ | 「Linux」で真っ先にインストールすべき必須のアプリ10選 - ZDNET Japan
+https://forbesjapan.com/articles/detail/76353 | 「1600万円以上の年収」を狙える急成長中の職業5選、2025年版 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://tech.acesinc.co.jp/entry/how_to_growth_dev_team | メンバーの考え方を変えて背中を押したら、半年間でチームのPullRequest数が1.5倍になった話 - ACES エンジニアブログ
+https://zenn.dev/dena/articles/56da0380d7d70d | 環境変数をドキュメント化しておきませんか？という提案
+https://www.techno-edge.net/article/2025/01/15/4015.html | クラウド時代にあえてNAS。近日クラファン開始「UGREEN NASync DXP4800 Plus」先行レビュー | テクノエッジ TechnoEdge
+https://tech-gadget.reinforz.co.jp/14622 | インテルArc B570のAI性能詳細が判明 GeekbenchでB580に10%劣るスコアを記録 | Gadget Hack
+https://togetter.com/li/2496010 | 『PCの端子だけ』のLINEスタンプが「最高」「いつ使えばいいかわからない」→めっちゃ便利な使い方があるじゃないか！ - Togetter [トゥギャッター]
+https://gigazine.net/news/20250117-success-of-interop-2024/ | ブラウザごとの仕様の違いを減らす「Interop」プロジェクトの2024年の結果が発表される - GIGAZINE
+https://www.roomie.jp/2025/01/1393311/ | 今年は、ダイソーの「タスク管理ノート」で仕事効率がアップする予感！110円でたっぷり48ページはうれしい～ | ROOMIE（ルーミー）
+https://levtech.jp/media/article/interview/detail_578/ | 「会社のソースコードをオープンにすると得をする」位置情報スタートアップが語るビジネスとOSSの交差点 | レバテックラボ（レバテックLAB）
+https://forbesjapan.com/articles/detail/76310 | 「好き」を仕事に、収入につながる健康的な趣味3選　2025年版 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://levtech.jp/media/article/column/detail_594/ | 技術書以外から上達のヒントを得る。Python書籍翻訳者・清水川貴之が選ぶ、効率よく学習するための3冊 | レバテックラボ（レバテックLAB）
+https://www.gdm.or.jp/pressrelease/2025/0110/570444 | オールホワイトのゲーミングMini-ITXなどIntel B860採用マザーボード計11モデルがGIGABYTEから - エルミタージュ秋葉原
+https://hololive-tsuushin.com/holonews/shion-8/ | ホロライブの紫咲シオン、不眠症と悪夢の悩みを告白　ファンに感謝のメッセージも | ホロライブ通信
+https://www.publickey1.jp/blog/25/itit2025.html | ITエンジニアが選んだ「ITエンジニア本大賞2025」発表。GitHub CI/CD実践ガイド／サイバーセキュリティの教科書／ ITエンジニア働き方超大全、など － Publickey
+https://ascii.jp/elem/000/004/245/4245161/ | ASCII.jp：とりあえず押さえよう　ガートナーが挙げる“セキュリティの勘所”2025年版
+https://blog-dry.com/entry/2025/01/01/230056 | 2024年読んで印象に残った本（非技術書編） - Don't Repeat Yourself
+https://aismiley.co.jp/ai_news/reskiling-caosmap-2025-generativeai/ | 生成AIリスキリングカオスマップ 2025を公開！生成AI時代のリスキリングに役立つサービスをレベル別にご紹介
+https://prtimes.jp/main/html/rd/p/000000104.000024729.html | ITエンジニアの経験やスキルを可視化する新スコア「LAPRASスコアv2.0」の提供開始 | LAPRAS株式会社のプレスリリース
+https://dig-it.media/thundervolt/article/856569/ | 米クラファンで10億円を集めたUGREENのNASync、日本上陸！ | Dig-it [ディグ・イット]
+https://booklive.jp/focus/author/a_id/221041 | 47AgDragonの作品一覧 - 漫画・ラノベ（小説）・無料試し読みなら、電子書籍・コミックストア ブックライブ
+https://booklive.jp/product/index/title_id/398344/vol_no/001 | 異世界の姫は竜＜オレ＞のもの！　エルフ娘とやらかすチート強奪生活 - 為三/47AgDragon - ラノベ・無料試し読みなら、電子書籍・コミックストア ブックライブ
+https://booklive.jp/product/index/title_id/376400/vol_no/001 | 転生吸血鬼さんはお昼寝がしたい　1 - ちょきんぎょ。/47AgDragon - ラノベ・無料試し読みなら、電子書籍・コミックストア ブックライブ
+https://booklive.jp/product/index/title_id/714527/vol_no/001 | 運命の悪魔に見初められたんだが、あまりに純で可愛すぎる件について１ - 47AgDragon - ラノベ・無料試し読みなら、電子書籍・コミックストア ブックライブ
+https://booklive.jp/product/index/title_id/477394/vol_no/001 | 転生吸血鬼さんはお昼寝がしたい　～Please take care of me.～１ - 咲良/ちょきんぎょ。 - 青年マンガ・無料試し読みなら、電子書籍・コミックストア ブックライブ
+https://www.genkotsu-hb.com/menu/ | メニュー｜げんこつハンバーグの炭焼きレストランさわやか
+https://www.hotel-livemax.com/shizuoka/numazust/facilities/ | 【公式】ホテルリブマックス沼津駅前の館内施設について ｜ 静岡県沼津市 ｜ 全国のビジネスホテル、リゾートホテル宿泊予約サイト
+https://maxcafe.jp/shop/shizuoka/numazu/ | マックスカフェ|沼津店
+https://azukiazusa.dev/blog/scroll-state-function-to-show-border-when-sticky/ | scroll-state() CSS コンテナクエリを使用して sticky で張り付いたときに境界線を出す
+https://www.google.com/search?q=%E4%BA%94%E5%91%B3%E5%85%AB%E7%8F%8D&oq=%E3%81%94%E3%81%BF%E3%81%AF%E3%81%A3&gs_lcrp=EgZjaHJvbWUqDAgBEAAYBBixAxiABDIGCAAQRRg5MgwIARAAGAQYsQMYgAQyDAgCEAAYBBixAxiABDIJCAMQABgEGIAEMgkIBBAAGAQYgAQyDAgFEAAYBBixAxiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIGCAkQBRhAMgkIChAAGAQYgAQyCQgLEAAYBBiABDIJCAwQABgEGIAEMgkIDRAAGAQYgAQyCQgOEAAYBBiABNIBCDE4MDlqMGo3qAIUsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | 五味八珍 - Google 検索
+http://gomihattin.hanjomo-site.jp/ | 浜松餃子なら中華ファミリーレストラン 五味八珍（ごみはっちん）
+https://www.google.com/search?q=%E3%82%B8%E3%83%A7%E3%83%AA%E3%83%BC%E3%83%91%E3%82%B9%E3%82%BF&oq=%E3%81%98%E3%82%87&gs_lcrp=EgZjaHJvbWUqEggBEAAYQxiDARixAxiABBiKBTIGCAAQRRg5MhIIARAAGEMYgwEYsQMYgAQYigUyDAgCEAAYBBixAxiABDIMCAMQABgEGLEDGIAEMg8IBBAAGAQYgwEYsQMYgAQyDAgFEAAYBBixAxiABDIJCAYQABgEGIAEMgkIBxAAGAQYgAQyCQgIEAAYBBiABDIJCAkQABgEGIAEMg8IChAAGAQYgwEYsQMYgAQyCQgLEAAYBBiABDIMCAwQABgEGLEDGIAEMgkIDRAAGAQYgAQyBwgOEAAYgATSAQgyMjY0ajBqN6gCFLACAQ&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | ジョリーパスタ - Google 検索
+https://maps.jolly-pasta.co.jp/jp/station2/2400101.html | 新宿駅周辺の店舗一覧 |店舗情報 | おいしいスパゲッティ、ピザが自慢のパスタ専門店・ジョリーパスタのホームページ
+https://www.google.com/search?q=cypress&oq=cypress&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDI1NjRqMGo3qAIUsAIB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | cypress - Google 検索
+https://www.cypress.io/ | Testing Frameworks for Javascript | Write, Run, Debug | Cypress
+
+https://levtech.jp/media/article/column/detail_586/ | 10年後、プログラムを動かし続けるために。伊藤淳一が考える「良いコミット、悪いコミット」 | レバテックラボ（レバテックLAB）
+https://zenn.dev/uhyo/articles/file-download-from-web-api | フロントエンドからファイルをダウンロードさせるやり方について
+https://gihyo.jp/article/2025/01/ossdb-various-news0113 | 第113回　MySQLとPostgreSQLの2024年重大ニュース、PostgreSQL Conference Japan情報 | gihyo.jp
+https://kai-you.net/article/91393 | VTuber犬山たまき、切り抜き動画を禁止「事実と異なる内容」の拡散を防ぐため - KAI-YOU
+https://www.publickey1.jp/blog/25/ghostty_10webassembly.html | 高速多機能なターミナルエミュレータ「Ghostty 1.0」正式リリース、ミッチェル・ハシモト氏が開発。今後はWebAssembly化による対応プラットフォーム拡大も － Publickey
+https://togetter.com/li/2491552 | アーロンチェア含めてハーマンミラーの椅子は「毎日十数時間座り続ける」前提で作られていない。オススメは「エルゴヒューマン」か「スチールケース」という話 - Togetter [トゥギャッター]
+https://zenn.dev/ring_belle/books/mac-environment/viewer/shell-oh-my-zsh-you-should-use | 【shell】Oh My Zshのおすすめプラグイン you-should-use を紹介!
+https://note.com/saix_dev/n/n5f46fa03ab93 | Webエンジニアが土日に一切勉強せず、爆速で成長する方法｜さい
+https://game.watch.impress.co.jp/docs/news/1652581.html | ASUS・ROGから「GeForce RTX 50」シリーズ搭載のゲーミングノートPC登場！ 日本での発売も決定 - GAME Watch
+https://zenn.dev/kakakakakku/books/aws-serverless-pattern-workshop-using-localstack/viewer/05-file-upload | 署名付き URL でファイルをアップロードしよう｜LocalStack 実践入門 | AWS サーバレスパターン開発ワークショップ
+https://forbesjapan.com/articles/detail/76261 | 「ダブルクリック」を利用する新しく深刻な脅威、すべてのブラウザが攻撃対象 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://foxsecurity.hatenablog.com/entry/2025/01/03/090000 | 私のセキュリティ情報収集法を整理してみた（2025年版） - Fox on Security
+https://www.tokyo-np.co.jp/article/377441 | 原発マネーで建てた豪華な温泉施設　赤字続きで地元は身を切るハメに…　身の丈に合わないハコモノの末路：東京新聞デジタル
+https://www.gdm.or.jp/pressrelease/2025/0107/570068 | MSI、質実剛健モデル「MAG B860 TOMAHAWK WIFI」などIntel B860マザーボード5モデル発売 - エルミタージュ秋葉原
+https://news.mynavi.jp/techplus/article/20250106-3101219/ | Chromeで拡張機能使っているなら要確認、260万人に認証情報窃取のリスク | TECH+（テックプラス）
+https://forest.watch.impress.co.jp/docs/digest/1653094.html | オープンソースの多機能な画面キャプチャツール「ShareX」v17.0.0　ほか - ダイジェストニュース - 窓の杜
+https://forbesjapan.com/articles/detail/76187 | 「取得して良かったスキル」ランキング | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://hoto17296.hatenablog.com/entry/raspi-desktop | 子ども用のデスクトップ PC 環境を作った - ほとラボ
+
+https://times.abema.tv/articles/-/10157735?page=1 | 元AKB48福留光帆「リプ欄で何言ってもいいんちゃうぞ」水着グラビアの投稿につくコメントに本音、柏木由紀も明かし見取り図リリー衝撃「女性の口から初めて聞いた」 | バラエティ | ABEMA TIMES | アベマタイムズ
+https://pc.watch.impress.co.jp/docs/news/todays_sales/1651940.html | 【本日みつけたお買い得品】バッファローの8TB外付けHDDが約3千円引き - PC Watch
+http://www.formula-web.jp/f1news/34267.html | HRC、2026年用パワーユニットの開発エンジニア募集 | F1News | Formula Web -F1総合情報サイト-
+https://gigazine.net/news/20250104-silicon-valley-tea-party/ | LinuxのユーザーがMicrosoftのイベントでLinuxのインストールディスクを配布しまくった「シリコンバレー茶会」 - GIGAZINE
+https://forest.watch.impress.co.jp/docs/serial/goodbuy/1651921.html | Seagateの3.5インチ内蔵用HDDが安売り中！【AmazonスマイルSALE初売り】 - 本日みつけたお買い得情報 - 窓の杜
+https://qiita.com/yoshiakih/items/dfd308189a5e891932b9 | スクラムに対するモヤモヤから解放された話 #スクラム - Qiita
+https://note.com/kinomi_design/n/n27dada3a4550 | 制作会社半年で感じたデザイナーに必要な基礎スキル｜kinomi
+https://ascii.jp/elem/000/004/242/4242306/ | リモートワークもオフィス回帰も　いろいろな働き方、SASEなら受け止められる
+https://gadget.phileweb.com/post-93301/ | Ray-Ban Metaスマートグラス、2025年にディスプレイ搭載か | Gadget Gate
+https://zenn.dev/shunsuke_suzuki/articles/look-back-on-2024 | 2024 年振り返り
+https://www.lifehacker.jp/article/2412-essential-google-workspace-features-to-speed-up-your-day/ | 「Google Workspace」をフル活用して生産性を高めるテクニック7選 | ライフハッカー・ジャパン
+https://note.com/ragemax/n/nb32bd2d3d961#baccb234-09e0-4d21-829e-6b158558ae8f | 2024年の今、Optane SSDを買いたい人へ送る購入ガイド｜のらねこノート
+https://sizu.me/abeshi/posts/d58dvz0mb02n | 2024年買わなくてよかったもの｜abeshi
+https://shop.tsukumo.co.jp/mypage/ex-point-card | ツクモeX.メンバーズカードの共通化｜PC専門店【ツクモ】公式通販サイト
+https://akiba-pc.watch.impress.co.jp/docs/topic/popular/1646807.html | 【過去の人気記事】新旧34種類のGPU(グラフィックボード)性能を一気に比較!! 気になるベンチマーク結果は？ - AKIBA PC Hotline!
+https://blog.theshare.info/glossary/open-source/ | オープンソースとは？その魅力をひも解く | SHARE info Press
+https://note.com/igz0/n/n47eefecbbff2 | 自社開発のWeb系の環境が良いのは分かったけど、どうやって転職すればいいのさ？｜いぐぞー ✈️ 旅するプログラマー
+https://www.gdm.or.jp/review/2024/1227/565055/5 | プロのパーツチョイス！組み立て代行込みで格安ゲーミングマシンが手に入る「ツクモオリジナル組立済みPC」 - エルミタージュ秋葉原
+https://gigazine.net/news/20250102-sudo-warning/ | 「大いなる力には大いなる責任が伴う」などsudoの初回実行時に出現するメッセージを導入したのは誰なのか？ - GIGAZINE
+https://zenn.dev/hiro345/articles/20241231_development | 2024年に調べたり構築した開発環境について
+https://syu-m-5151.hatenablog.com/entry/2024/12/31/232546 | アーキテクチャ設計の民主化とADR(Architectural Decision Records)による意思決定の未来 - Facilitating Software Architecture の読書感想文 - じゃあ、おうちで学べる
+https://note.com/samurai_se/n/necec6ddf20a3 | 『Tidy First？』を読んだ｜Kanon
+https://qiita.com/op_yamaguchi/items/e3e0512a9e8462b49873 | 2025年 SRE生き残り戦略 #AWS - Qiita
+https://zenn.dev/takuya77088/articles/f529dc762bbea2 | 現役エンジニアが厳選！IntelliJ IDEA 必携プラグイン10選
+https://tech.acesinc.co.jp/entry/2024/12/27/083000 | 5年間ソフトウェアエンジニアをやっていた僕がCREを始めた理由 - ACES エンジニアブログ
+https://note.com/udzura/n/ne5653dc1b432 | 技術おたくのままプロダクトエンジニアになる｜Uchio Kondo
+https://news.mynavi.jp/article/20180301-591672/ | Intel Optane SSD DC P4800Xで「Optaneの速さ」を体感する | マイナビニュース
+
+https://zenn.dev/lugendre/articles/021f8c39a7380a | 読むとお得なソフトウェアエンジニアリングの技術書一覧
+https://zenn.dev/morinokami/articles/hono-anywhere | あらゆるフレームワークで Hono を使いたい
+https://www.shoeisha.co.jp/book/detail/9784798188379 | Kubernetesで実践する Platform Engineering（株式会社スリーシェイク 元内 柊也 木曽 和則 戸澤 涼 長谷川 広樹 Mauricio Salatino）｜翔泳社の本
+https://note.com/mickmack/n/n4210788528bd | 新著が出ます：『センスの良いSQLを書く技術』｜ミック
+https://note.com/naro143/n/n551241f51461 | エンジニアは事業を理解すべきか？｜naro143
+https://pc.watch.impress.co.jp/docs/topic/popular/1648796.html | 【今年の人気記事】若者は知らないかもしれない、おじさんおすすめのフリーソフト - PC Watch
+https://zenn.dev/zenkigen_tech/articles/05b9604e871c0c | 全ビジネスパーソンに『GitLabに学ぶパフォーマンスを最大化させるドキュメンテーション技術』を勧めたい
+https://togetter.com/li/2485747 | 星野リゾートが「新入社員に薦める本」のリストが教科書的な良書が多くて参考になる？『ストーリーとしての競争戦略』ほか - Togetter [トゥギャッター]
+https://www.moguravr.com/gilzaren-iii-nijisanji-suprise/ | にじさんじを卒業した鈴鹿詩子＆鈴谷アキが、ギルザレンⅢ世の配信に予告無しで出演 人気ゲームを使って驚きの演出を仕掛ける - MoguLive
+https://studyhacker.net/achievement-automation | あなたの仕事、どこまで「自動化」できていますか？　誰でもすぐ出来る、初心者のための自動化ツール設定方法 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://pc.watch.impress.co.jp/docs/topic/popular/1648795.html | 【今年の人気記事】個人向けの買い切り版「Office 2024」が登場 - PC Watch
+https://sakidori.co/article/35304 | 【2024年版】マザーボードのおすすめ19選。Intel用・AMD用に分けてご紹介
+https://gigazine.net/news/20241223-ai-best-of-n-jailbreaking/ | ランダムな文字列で質問し続けるとAIから有害な回答を引き出せるという攻撃手法「Best-of-N Jailbreaking」が開発される、GPT-4oを89％の確率で突破可能 - GIGAZINE
+https://qiita.com/Sashiiii111/items/1f24cfe0eb58311cdec2 | 作業効率を上げるために買って良かったもの7選（在宅エンジニア） #リモートワーク - Qiita
+https://zenn.dev/matsubokkuri/articles/cloudflare-wordpress | 個人WordPressサイトをCloudflare経由で爆速にしてみた
+https://zenn.dev/moga/articles/using-technologies-2024 | 2024年に触った技術
+https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day23 | テストアーキテクチャの実践 - freee Developers Hub
+https://zenn.dev/osawa_koki/articles/8b843950486410 | AWS認定試験の全冠記
+https://logmi.jp/brandtopics/331258 | 慣れ親しんだやり方にこだわり新システムを拒む社員　社内の抵抗勢力を手っ取り早く説得する秘策 | ログミーBusiness
+https://levtech.jp/media/article/focus/detail_584/ | CSVエディタを24年作り続けて。フリーソフト「Cassava Editor」開発者の静かな献身【フォーカス】 | レバテックラボ（レバテックLAB）
+https://logmi.jp/brandtopics/331256 | モンスター化したExcelが、ある日突然崩壊　昭和のガス工事会社を生まれ変わらせた、起死回生のノーコード活用術 | ログミーBusiness
+https://gihyo.jp/article/2024/12/ruby-3-4 | Ruby 3.4リリース、デフォルトのパーサーにPrismを採用 | gihyo.jp
+https://codezine.jp/article/detail/20461 | いいエンジニアになるための2つのポイント ──元Google技術者・石原氏が説く「シリコンバレー流ソフトウェア開発術」 (1/3)|CodeZine（コードジン）
+https://dev.classmethod.jp/articles/book-review-introduction-to-terraform/ | 【書評】入門Terraform クラウド時代のインフラ統合管理 | DevelopersIO
+https://codezine.jp/article/detail/20723 | JavaScriptのWebフレームワーク、「Astro 5.1」リリース|CodeZine（コードジン）
+https://dev.classmethod.jp/articles/aws-resource-naming-rule-2024/ | AWSリソースの命名規則を考えてみた (2024年版) | DevelopersIO
+https://news.nifty.com/article/magazine/12179-3697218/ | 仕事を効率化する「ポモドーロ・テクニック」とは?　日本版にアレンジした方法を解説｜ニフティニュース
+https://zenn.dev/catatsuy/articles/fda1e42acad421 | Goの古いコードが動かなくなることはほぼない理由
+https://zenn.dev/mizutani/books/secmon-platform | 実践セキュリティ監視基盤構築
+https://zenn.dev/yskn_sid25/articles/ff9514a99ea811 | 文字列は実質Any問題に対するKotlinのアプローチ 〜TypeScriptのBranded Typesを添えて〜
+https://x.com/slackwarejp/status/1873158089433915564 | x.com/slackwarejp/status/1873158089433915564
+https://qiita.com/ishi720/items/320e557e0aa8372d803f | 🏪JavaScriptのWeb Audio APIで「ファミマの入店音」を奏でる🏪 #WebAudioAPI - Qiita
+https://qiita.com/kmfj/items/d92df9dc2cb6f221d706 | TailwindでもSubgridを使ってみたい #CSS - Qiita
+https://japan.zdnet.com/article/35227656/ | 「Linux」に関する6つの俗説を論破--「ターミナルの使用は必須」なのか？ - ZDNET Japan
+https://news.mynavi.jp/techplus/article/20241229-3089633/ | Googleオススメの「2024年のChrome拡張機能」12選 | TECH+（テックプラス）
+https://akiba-pc.watch.impress.co.jp/docs/topic/special/1651155.html | DRAMレスSSDをPS5/PS5 Proの増設に使っても問題ない？DRAMキャッシュあり/なしモデルで検証してみた - AKIBA PC Hotline![Sponsored]
+
+https://qiita.com/tatsuki1112/items/6d029f0de7b475305b63 | Laravel はダメで時代遅れなんですか？ #PHP - Qiita
+https://qiita.com/KNR109/items/1fa6d697a936c54329c6 | IPA(情報処理推進機構)が公開している資料が有益すぎる #Security - Qiita
+https://qiita.com/socialmediadev/items/ada951ece0619b4ae4ac | Githubの認定資格が無料（1.5万円）で受験できるようになったの知ってた？ #GitHub - Qiita
+https://zenn.dev/spacemarket/articles/8ddba858aa09c2 | TypeScriptによるDependency Injection入門：DIコンテナを自作して内部構造を理解する
+https://note.com/mikkemac/n/neacf57f1fd04 | 週5での在宅勤務をするわたしが、2024年に買ってよかったもの｜みずのけいすけ｜パーソナル編集者®
+https://qiita.com/nucomiya/items/f4251cfd3e2ff8fd2612 | 知ってそうで知らないHTTPS #HTTP - Qiita
+https://www.publickey1.jp/blog/24/google_cloudpostgresqlalloydb_omni.html | Google Cloudが開発したPostgreSQL互換ソフトウェア「AlloyDB Omni」がバージョンアップ、より高性能に － Publickey
+https://zenn.dev/fukurou_labo/articles/72ecc834d5c8cb | ひとり情シスが着任後、最初に行うべきこと
+https://dev.classmethod.jp/articles/koty-mousa-why-rds-dynamodb-difference/ | どうして RDS と DynamoDB は接続方法が異なるのか？ | DevelopersIO
+https://www.tokyo-np.co.jp/article/367851 | 「マイナ保険証を使ってほしいもんですから」　資格確認書の交付を渋る健保組合…この手口、オキテ破りでは？：東京新聞デジタル
+https://tech.giftee.co.jp/entry/2024/11/12/101202 | 「プロダクトセキュリティ」の社内講義の資料を公開します - giftee Tech Blog
+https://kai-you.net/article/91008 | “フルートの運指”をLive2Dで再現──個人勢VTuber古都Lazの技術力に注目 - KAI-YOU
+https://cloud.watch.impress.co.jp/docs/news/ranking/1640194.html | IPAによる、「データスペース」の利用手順やその内容を解説したガイドブック公開を報じた記事が先週の1位 - クラウド Watch
+https://rheb.hatenablog.com/entry/2024/11/14/142344 | Spring BootでApache Camelを始めてみる(formerly Fuse) - 赤帽エンジニアブログ
+https://developers.freee.co.jp/entry/freee-developers-advent-calendar-2024-day7 | エンジニアになりたかった6年前のわたしへ - freee Developers Hub
+https://qiita.com/ | Qiita
+https://www.tokyo-np.co.jp/article/370721 | マイナ保険証、なぜ自動更新でない？　期限切れたら「市役所に」って…高齢者は手続きに出向くのも一苦労なのに：東京新聞デジタル
+https://tech.layerx.co.jp/entry/2024/12/07/105714 | MySQL の UPDATE で IN 句の要素が多すぎてデッドロックした話 #LayerXテックアドカレ - LayerX エンジニアブログ
+https://zenn.dev/syumai/articles/ct7je2f24dtgb5uso610 | import / exportの記法だけではない、CommonJS modulesとES modulesの違い
+https://type.jp/et/feature/27363/ | 日本のエンジニアは甘すぎ？ 「初学者への育成論」が米国からみると超不毛な理由 - エンジニアtype | 転職type
+https://codezine.jp/article/detail/20567 | 日本在住の英語を話すソフトウェア開発者、年収の中央値は950万円に|CodeZine（コードジン）
+https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day6 | 理想の働き方を実現するための、自分だけの快適なリモート・オフィス環境 〜freee QAエンジニア 2024年版〜 - freee Developers Hub
+https://www.lifehacker.jp/article/2411-how-a-simple-morning-review-helps-me-set-my-priorities-daily/ | タスクに追われる日々にさようなら、本当にやるべきことが見える「モーニングレビュー」のすすめ | ライフハッカー・ジャパン
+https://gigazine.net/news/20241211-google-chrome-extension-2024/ | Googleが「2024年のお気に入りChrome拡張機能」を発表、「音量を600％に増大する拡張機能」や「クーポンを自動で探す拡張機能」など - GIGAZINE
+https://prtimes.jp/main/html/rd/p/000000081.000061678.html | Cloudflare、2024年のインターネットトレンドを発表 ～Cloudflare 2024 Year in Review～ | クラウドフレアジャパン株式会社のプレスリリース
+https://zenn.dev/smartshopping/articles/4763ab1247a258 | つらくないRepositoryパターンを求めて
+https://zenn.dev/terraform_jp/articles/tftftf-introduction | バックエンドもフロントエンドもインフラも Terraform でつくってみた
+https://gadget.phileweb.com/post-90402/ | 『パルワールド』がモンスター召喚のアクションを変更。任天堂との訴訟に関わる部分 | Gadget Gate
+https://tech.dentsusoken.com/entry/sw-design-cognitive | ソフトウェア設計と認知科学的アプローチ - 電通総研 テックブログ
+https://zenn.dev/smartshopping/articles/fd2825c0c61149 | 開発環境にCloudflare Accessを導入した話
+https://news.nifty.com/article/technology/techall/12337-3644105/ | Deno、Bun、Node.js: JavaScript/TypeScriptランタイムの比較｜ニフティニュース
+https://www.publickey1.jp/blog/24/twelve-factor_app.html | Twelve-Factor Appの定義がオープンソース化。今後はコミュニティによりアップデートされるように － Publickey
+https://zenn.dev/ambr_inc/articles/3af2acbb2b7536 | 弊社Unityアーキテクチャの凄いところを語る
+https://zenn.dev/counterworks/articles/c47f16379e900c | エンジニア一年目で読んでよかった本まとめ
+https://zenn.dev/meijin/articles/engineer-need-knowledge-more-than-ability-gpt | 「能力不足」ではなく「情報不足」 - 成長するエンジニアに必要な視点 ✏️ by GPT
+https://codezine.jp/article/detail/20606 | 2024年の提示年収が高いプログラミング言語は？ paiza調査によるランキングが発表|CodeZine（コードジン）
+https://valinux.hatenablog.com/entry/20241212 | Linuxカーネル解読室プロジェクト: 新Linuxカーネル解読室 - パケット受信処理 ～Ethernetドライバ ポーリング処理編～ - VA Linux エンジニアブログ
+https://cloud.watch.impress.co.jp/docs/news/1647007.html | オープンソース監視ツール「Zabbix 7.2」リリース、NVIDIA GPUの監視機能を搭載予定 - クラウド Watch
+https://japan.zdnet.com/article/35227159/ | 「BunsenLabs Linux」レビュー--軽量でありながら非常に機能的な「Linux」ディストロ - ZDNET Japan
+https://dev.classmethod.jp/articles/sqruff/ | 高速と噂される SQL リンターツール「sqruff」を実際に試してみた | DevelopersIO
+https://dev.classmethod.jp/articles/sqlfluff-2/ | SQLFluffを完全に理解する | DevelopersIO
+https://blog.satotaichi.info/training_for_software_engineers/ | 技術者教育について | さにあらず
+
+https://github.com/akashic-system/akashic-system/issues/217 | Playlog Server sessions のゲームコード・trait ごとの集計が欲しい · Issue #217 · akashic-system/akashic-system
+https://github.com/akashic-system/shinonomekazan.dockerfile/blob/main/.aws/codebuild/buildspec.yaml | shinonomekazan.dockerfile/.aws/codebuild/buildspec.yaml at main · akashic-system/shinonomekazan.dockerfile
+https://github.com/akashic-system/shinonomekazan.dockerfile/actions | Workflow runs · akashic-system/shinonomekazan.dockerfile
+https://github.com/akashic-system/shinonomekazan-aws-playbook/blob/main/2024-11-19.yml | shinonomekazan-aws-playbook/2024-11-19.yml at main · akashic-system/shinonomekazan-aws-playbook
+https://github.com/akashic-system/shinonomekazan-aws-playbook/tree/main/roles/elasticsearch | shinonomekazan-aws-playbook/roles/elasticsearch at main · akashic-system/shinonomekazan-aws-playbook
+https://aws.amazon.com/jp/blogs/devops/creating-multi-architecture-docker-images-to-support-graviton2-using-aws-codebuild-and-aws-codepipeline/ | Creating multi-architecture Docker images to support Graviton2 using AWS CodeBuild and AWS CodePipeline | AWS DevOps & Developer Productivity Blog
+https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/getting-started-cli.html | Amazon ECR におけるライフサイクルを通じたイメージの移行 - Amazon ECR
+
 https://elysiajs.com/ | Elysia - Ergonomic Framework for Humans | ElysiaJS
 https://www.google.com/search?q=elysia+hono&oq=elysia+hono&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGBMYHjIKCAIQABgIGBMYHjIKCAMQABgIGBMYHjIMCAQQABgIGAoYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgYIBxBFGDzSAQc5MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | elysia hono - Google 検索
 https://zenn.dev/koutyuke/scraps/0b640b9960e095 | Expo + Hono or Elysia + Next.jsで構成するアプリケーションの認証/認可ライブラリ選定ログ
