@@ -1,4 +1,4 @@
-name: 読書メモ
+name: reading log 読書メモ
 description: 読書時のメモ書き、概要、自己解釈など。
 assignees: []
 labels: [book]
@@ -10,11 +10,12 @@ body:
       label: 読書メモの URL
       description: |
         [Today I Learned リポジトリ](https://github.com/ndxbn/til/new/main/books)にこの本の読書メモのディレクトリを作成し、その URL を入れてください。
-
-        以下、コピペ用
-        
-        `README.md`
-        
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: （README.md コピペ用）
+      value: |
         ```
         ## （本のタイトル）
         国会図書館サーチ： （`https://ndlsearch.ndl.go.jp`）
@@ -23,5 +24,3 @@ body:
 
         ## 目次
         ```
-    validations:
-      required: true
