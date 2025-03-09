@@ -15,7 +15,7 @@ body:
   - type: textarea
     attributes:
       label: （README.md コピペ用）
-      value:
+      value: |
         ```
         ## （本のタイトル）
         国会図書館サーチ： （`https://ndlsearch.ndl.go.jp`）
