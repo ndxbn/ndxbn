@@ -2,6 +2,7 @@ xiv
 ffxiv
 
 choco
+winget
 automerge
 puml
 startuml
