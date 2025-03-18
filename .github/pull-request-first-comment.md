@@ -1,6 +1,6 @@
 ## for Reviewer Notification
 <details><summary>In doing a code review, you should make sure that:</summary>
-Google's [What to look for in a code review](https://google.github.io/eng-practices/review/reviewer/looking-for.html#summary)
+Google's <a href="https://google.github.io/eng-practices/review/reviewer/looking-for.html#summary" target="_blank">What to look for in a code review</a>
 
 - Design: The code is well-designed.
 - Functionality: The functionality is good for the users of the code.
