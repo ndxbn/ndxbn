@@ -1,3 +1,41 @@
+https://gigazine.net/news/20250422-forked-microsoft-oss/ | ゼロから立ち上げてコミュニティから高く評価されたオープンソースプロジェクトがMicrosoftによってフォークされ自信喪失した開発者の話 - GIGAZINE
+https://www.lifehacker.jp/article/2504-korekai-mobilemonitorstand-magnet/ | 持ち歩ける作業環境。これ1つでどこでもデュアルディスプレイ化 #これ買ってよかった | ライフハッカー・ジャパン
+https://blog-dry.com/entry/2025/04/21/090439 | 同期Rustと非同期Rustで同じものを作るとどれくらい実装が変わるのか - Don't Repeat Yourself
+https://dev.classmethod.jp/articles/typescript-d-ts/ | 型ファイルに.d.tsファイルを使うべきか | DevelopersIO
+https://www.gizmodo.jp/2025/04/amazon-sale-elecom-vesa-ect-3325bk.html | PC・テレビ周りの配線問題がようやく解決。答えはココ（VESA）だった | ギズモード・ジャパン
+https://www.dir.co.jp/world/entry/blog/new-employee-aws-jrchampions | 新入社員がAWS認定資格全12資格を6カ月で取得した体験記 - WOR(L)D ワード｜大和総研の用語解説サイト
+https://zenn.dev/kou_pg_0131/articles/ghats-introduction | TypeScript で GitHub Actions ワークフローを記述する「ghats」の紹介
+https://qiita.com/Yohei_Suda/items/1a7dccb00b2b87661b9e | 「Image.onloadはやめてImage.decodeを使おうね」はループの中以外の話 #JavaScript - Qiita
+https://blog.buffett-code.com/entry/2025/04/21/125914 | 業務委託を始めて3ヶ月経った振り返り - バフェット・コードのブログ
+https://zenn.dev/toliner/articles/9a93ed487525d9 | JetBrains IDEs Go AI: JetBrainsの大規模AIアップデート
+https://www.google.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%8B+%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3&newwindow=1&client=ms-android-sonymobile-rvo3&sca_esv=f6a497ac183af84e&sxsrf=AHTn8zp8ZjUaxnHf7Rl1rac8VlQz8kY1gg%3A1745658493149&ei=faIMaKD4CKeMvr0PrLXo0QQ&oq=%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%8B+%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhzjg57jg6vjgrPjg7zjg4sg44Om44OL44Kq44OzMgUQABiABDIFEAAYgAQyCBAAGKIEGIkFMggQABiABBiiBDIIEAAYgAQYogQyBhAAGAoYHjIGEAAYChgeSJI_UKYeWOE8cAB4ApABAJgB3gGgAboGqgEFMi4zLjG4AQPIAQD4AQGYAgegAvQGwgIEEAAYR8ICBxAAGIAEGArCAgcQABiABBgEwgIIEAAYBBgKGB7CAgUQABjvBZgDAIgGAZAGCpIHBTEuNS4xoAeRGbIHBTEuNS4xuAf0Bg&sclient=mobile-gws-wiz-serp#ebo=0 | マルコーニ ユニオン - Google 検索
+https://gigazine.net/news/20200331-song-reduce-anxiety/ | 心理学者も認める「不安やストレスを軽減できる曲」トップ10 - GIGAZINE
+https://www.pospome.work/entry/2025/04/27/144734 | エンジニアとして緩やかに死んでいくんだろーなと思った話 - pospomeのプログラミング日記
+https://developers.freee.co.jp/entry/2025-datadog-ctf-blog | 社内のDatadogイベントに参加した感想 - freee Developers Hub
+https://speakerdeck.com/kaminashi/how-was-adopting-backend-typescript-in-a-golang-company | Goの組織でバックエンドTypeScriptを採用してどうだったか / How was adopting backend TypeScript in a Golang company - Speaker Deck
+https://forbesjapan.com/articles/detail/78649 | たった週6時間で、「戦略的」に1400万円を稼ぐ手段を構築する | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+https://susisu.hatenablog.com/entry/2025/04/28/202020 | Effective TypeScript 読んだ / 郷に入っては郷に従う - Object.create(null)
+https://dev.classmethod.jp/articles/using-dbt-mcp/ | dbtの公式MCPサーバーを使ってモデルの情報を取得してみる | DevelopersIO
+https://www.lifehacker.jp/article/2504-korekai-gakkensf-writewhiteplus/ | ToDoリストどこにメモするか。たどり着いたのは、書いて消せるホワイトボード #これ買ってよかった | ライフハッカー・ジャパン
+https://www.tokyo-np.co.jp/article/400840 | 新宿駅前に異変…再開発が「足踏み状態」に　西南口の一等地が更地のまま　やっかいな「悪循環」と「難工事」：東京新聞デジタル
+https://internet.watch.impress.co.jp/docs/news/2010013.html | 海外では恨みから、日本では金銭的理由からが多く、IT部門が関与しにくいことが特徴…組織を襲う「内部脅威」をSplunkが解説 - INTERNET Watch
+https://ascii.jp/elem/000/004/266/4266077/ | ASCII.jp：IBMのMCAバスに対抗してAT互換機メーカー9社が共同で開発したEISA　消え去ったI/F史 (1/3)
+https://www.hotpepper.jp/strJ000012098/yoyaku/hpds/?ROUTE_KBN=20&dspn=QSKbg6ruZ3ATM7umJ6leEouOugzGCMuvfk33pxCv8r54wmH1-kenBXg1hLJLE4eSxSYJiJutD4idLABW_xkUfQ | 酒洛のネット予約・空席確認 | ホットペッパーグルメ
+
+https://zenn.dev/taro_cccmkhd/articles/64db8363b880d6 | Tポイント分析基盤の歴史とSnowflakeへ移行した話①
+https://studyhacker.net/stickynote-visualization | 付箋×優先度でタスク整理革命｜仕事の優先順位が明確になる4ステップを試してみた - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://www.lifehacker.jp/article/2504clock-app-productivity-hack/ | ポモドーロテクニックに最適な時計アプリはこれ！ 使わないと損です【今日のワークハック】 | ライフハッカー・ジャパン
+https://nazology.kusuguru.co.jp/archives/174585 | 【ノート派必見】繰り返し使えて’手書き感’がある「永久ノート」が誕生 - ナゾロジー
+https://getnavi.jp/stationery/1028256/ | 進化した電子ペーパー端末「QUADERNO(クアデルノ)」でGetNaviスタッフの仕事とプライベートがはかどった18のポイント | GetNavi web ゲットナビ
+https://studyhacker.net/after-reading | 『読むだけ』で終わらせない！ 本の知識を ”自分のもの” にする効果的アウトプット術 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+
+https://togetter.com/li/2536557 | 「下手なホラーより怖いんだが？」NEXCO中日本で起きたETC障害、「原因不明」「人手によるデータ操作で応急措置」とエンジニアが見たらゾッとする内容 - Togetter [トゥギャッター]
+https://togetter.com/li/2536140 | 二桁年はPCを触ってるけど「文字入力をしようとするとたまに左上にボックスで出るあれ」の発生条件と存在意義がいまだにわからないまま生きている - Togetter [トゥギャッター]
+https://www.oricon.co.jp/news/2378904/full/ | 柏木由紀＆竹達彩奈、秋元康氏プロデュース「22/7」新メンバーオーディションで特別審査員に決定　アイドル選考＆声優選考の2コース制 | ORICON NEWS
+
+https://news.livedoor.com/article/detail/28420578/ | 「マイナ免許証」がスタートするも「ちぐはぐ感」は拭えない！　メリットがないとはいわないが結局「普通の免許ももっておく」が正解？ - ライブドアニュース
+https://logmi.jp/main/management/331574 | 組織をダメにする“害虫”の正体は間違った思い込み　AIやDXなど手段のみにこだわるダメ上司の見極め方 | ログミーBusiness 学び続ける次世代リーダーのためのメディア
+
 https://akiba-pc.watch.impress.co.jp/docs/news/news/1497204.html | PCIe 5.0 SSDを4枚搭載できる拡張カードがASRockから - AKIBA PC Hotline!
 https://studyhacker.net/ivy-lee-method-2 | 忙しいという感覚がなくなる！ 「アイビー・リー・メソッド」というタスク管理術。 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
 https://zenn.dev/eightbeat/articles/9128dd906c3654 | GithubCopilot経由で､ClineでClaude3.7をエラー無く使う方法
@@ -23,12 +61,7 @@ https://codezine.jp/article/detail/20981 | GitHub、あらゆるエディタやI
 https://www.gdm.or.jp/review/2025/0308/575425 | これで全てが分かる。SilverStone「FLP01」徹底解説 - エルミタージュ秋葉原
 https://qiita.com/li_beiyao/items/fc5720cb053d2b4ba531 | DockerでローカルHTTPS通信を実現 #docker-compose - Qiita
 https://qiita.com/uist1idrju3i/items/30012cf52bd0b9af3408 | OpenBlinkが公開されました #OpenBlink - Qiita
-https://www.google.com/search?q=SSI-CEB&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | SSI-CEB - Google 検索
-https://www.google.com/search?q=pwm+%E3%83%9A%E3%83%AA%E3%83%95%E3%82%A7%E3%83%A9%E3%83%AB+%E5%9B%9E%E8%BB%A2%E6%95%B0%E5%88%B6%E5%BE%A1&newwindow=1&client=ms-android-sonymobile-rvo3&sca_esv=e917225dad46243b&sxsrf=AHTn8zoEX1jxGkIOGmMAE52XrdJi_Iakzg%3A1741444607908&ei=_1XMZ92KN9Wk2roPzv-LmQ8&oq=pwm+%E3%83%9A%E3%83%AA%E3%83%95%E3%82%A7%E3%83%A9%E3%83%AB+%E5%9B%9E%E8%BB%A2%E6%95%B0%E5%88%B6%E5%BE%A1&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIiZwd20g44Oa44Oq44OV44Kn44Op44OrIOWbnui7ouaVsOWItuW-oUipP1CMDVi8PHAAeACQAQCYAb0CoAHbEKoBCDAuMTUuMC4xuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfsBg&sclient=mobile-gws-wiz-serp | pwm ペリフェラル 回転数制御 - Google 検索
-https://jyn.jp/pwm-splitter/ | PWM分岐ケーブルの使い方 | なうびるどいんぐ
-https://www.google.com/search?q=%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA+%E3%81%8F%E3%81%BE&newwindow=1&client=ms-android-sonymobile-rvo3&sca_esv=c41ee2553d2c8202&sxsrf=AHTn8zqun3xQOY1wEw0GiMt3aGGJgrL1bA%3A1741478683645&ei=G9vMZ-vzJtCzvr0PmuHOkQ8&oq=%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA+%E3%81%8F%E3%81%BE&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhPjgr_jg6rjg7zjgrog44GP44G-MgUQABiABDIHEAAYgAQYBDIKEAAYgAQYQxiKBTIFEAAYgAQyBxAAGIAEGAQyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABEi5JVDCC1j-IXACeAGQAQKYAYwBoAGrDKoBAzkuNrgBA8gBAPgBAZgCC6ACqgioAg_CAgoQABiwAxjWBBhHwgINEAAYsAMY1gQYRxjJA8ICDhAAGIAEGLADGJIDGIoFwgIHECMYJxjqAsICBBAjGCfCAgoQABiABBixAxgEwgIIEAAYgAQYsQPCAg0QABiABBixAxhDGIoFwgINEAAYgAQYsQMYgwEYBMICEBAAGIAEGLEDGEMYgwEYigXCAgsQABiABBixAxiDAcICDhAAGIAEGLEDGIMBGIoFmAMR8QU8-9rFAHYlN4gGAZAGC5IHAzMuOKAHrFc&sclient=mobile-gws-wiz-serp | タリーズ くま - Google 検索
 https://www.tullys.co.jp/menu/goods/index.html#teddies | グッズ|商品情報|TULLY'S COFFEE - タリーズコーヒー
-https://www.google.com/search?q=14700k+ak620&newwindow=1&client=ms-android-sonymobile-rvo3&sca_esv=b7a610355b080182&sxsrf=AHTn8zrvIeknqnAQUiDygUFc5h5yThKvVQ%3A1741480347610&ei=m-HMZ_jwJOTP2roPz6Wq-As&oq=14700k+ak620&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgwxNDcwMGsgYWs2MjAyBRAAGIAEMgQQABgeMgYQABgIGB4yBhAAGAgYHjIFEAAY7wUyCBAAGIAEGKIEMggQABiiBBiJBTIFEAAY7wVI-KgBUNQHWIaiAXABeAKQAQCYAboBoAGOCaoBAzAuN7gBA8gBAPgBAZgCCaAC7gnCAgQQABhHwgIKECMYgAQYJxiKBcICBRAhGKABwgIEECMYJ8ICChAAGIAEGEMYigXCAgcQABiABBgEwgIGEAAYBRgemAMAiAYBkAYKkgcDMi43oAfBIQ&sclient=mobile-gws-wiz-serp | 14700k ak620 - Google 検索
 
 https://innovatopia.jp/cyber-security/cyber-security-news/48575/ | C++創始者Stroustrup氏、メモリ安全性向上へ緊急行動を呼びかけ - イノベトピア
 https://www.news-postseven.com/archives/20250303_2026069.html?DETAIL | 今も続く「令和の米騒動」　一攫千金を狙って買い込んだ”転売ヤー”たちの嘆き「SNSやフリマアプリでもほとんど売れない」｜NEWSポストセブン
