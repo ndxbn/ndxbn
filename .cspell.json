@@ -15,10 +15,12 @@
         "filetypes",
         "npm",
         "names",
+        "gnu-cli",
         "my-misc"
     ],
     "dictionaryDefinitions": [
         { "name": "names", "path": "./.dics/names.txt" },
+        { "name": "gnu-cli", "path": "./.dics/gnu.txt" },
         { "name": "my-misc", "path": "./.dics/misc.txt" }
     ],
     "ignorePaths": [
