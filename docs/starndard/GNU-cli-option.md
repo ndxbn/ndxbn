@@ -1,3 +1,9 @@
+## スプレッドシート版
+
+https://docs.google.com/spreadsheets/d/1A5p-tXS2OqDQuO7v8WnXBUgj9Z8PeI1nXqV-AwnCQoI/edit?usp=sharing
+
+検索やソートをする場合は、こちらのほうが使いやすいと思います。
+
 ## source
 
 [ここのテーブルが元データだよ](https://www.gnu.org/prep/standards/standards.html#Option-Table)
