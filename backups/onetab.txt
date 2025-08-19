@@ -1,3 +1,122 @@
+https://github.com/ndxbn/ndxbn/blob/main/.github/workflows/lint.yml | ndxbn/.github/workflows/lint.yml at main · ndxbn/ndxbn
+https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md | runner-images/images/ubuntu/Ubuntu2404-Readme.md at main · actions/runner-images
+https://www.redhat.com/ja/topics/open-source/buildah-toha | Buildah とは
+https://www.redhat.com/ja/topics/virtualization/what-is-kubevirt | KubeVirt とは？をわかりやすく解説
+https://www.redhat.com/ja/topics/edge-computing/microshift | MicroShift とは？をわかりやすく解説
+https://www.redhat.com/ja/topics/devops/what-is-argocd | Argo CD とは？をわかりやすく解説 | Red Hat
+https://www.google.com/search?q=CodeQL&rlz=1C1TMBY_enJP1152JP1152&sourceid=chrome&ie=UTF-8 | CodeQL - Google 検索
+https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning | About code scanning - GitHub Docs
+
+https://github.com/textlint-ja | textlint-ja
+https://github.com/textlint-ja/textlint-rule-preset-ai-writing | textlint-ja/textlint-rule-preset-ai-writing: textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
+https://github.com/textlint-ja/textlint-rule-preset-JTF-style | textlint-ja/textlint-rule-preset-JTF-style: JTF日本語標準スタイルガイド for textlint.
+https://www.jtf.jp/pdf/jtf_style_guide.pdf | JTF日本語標準スタイルガイド 第3.0版
+
+https://note.com/simplearchitect/n/n312c0e0e1a37 | ディープコードリーディングのすすめ｜牛尾　剛
+https://dev.to/shayy/20-typescript-tricks-every-developer-should-know-94c | 20 TypeScript Tricks Every Developer Should Know - DEV Community
+https://gigazine.net/news/20250706-exo-ai-cluster/ | スマホやPCなど家の中の計算資源をかき集めて自分用AIクラスターを構築できる「exo」 - GIGAZINE
+https://note.com/everyleaf/n/n9e1ac0a1c302 | 初心者が実務コードで気づいた『名前』の大切さと命名のコツ｜万葉
+https://note.com/suthio/n/nb0c1d5cb1aea | どうして開発チームはClaude Codeをうまく活用できないのか｜suthio
+https://gihyo.jp/article/2025/06/ride-modern-frontend-09 | モダンなフロントエンドにおけるテストについて ［Modern Featured Test］ | gihyo.jp
+https://internet.watch.impress.co.jp/docs/news/2028429.html | NTT、LLMが持つ「学習データからの情報漏えいリスク」を低減しつつ高い応答精度も保つ新技術を開発 - INTERNET Watch
+https://qiita.com/ssc-dninomiya/items/d5f5e8eac0ddc915ba46 | JavaScriptのforEachでawaitが効かない理由 #JavaScript - Qiita
+https://www.gizmodo.jp/2025/07/geminis-custom-features-gems.html | gizmodo.jp/2025/07/geminis-custom-features-gems.html
+https://zenn.dev/tatesoto/articles/7671b6226daffa | 実務未経験が約１週間で情報処理安全確保支援士試験に合格しました #情報処理安全確保支援士
+https://ascii.jp/elem/000/004/296/4296974/ | ASCII.jp：任天堂「Switch 2」入手しづらい要因、社長が弁明
+https://qiita.com/rana_kualu/items/bb723ce27efd238deff5 | 【PHP next】PHPにおけるジェネリクスの現状 #日本語訳 - Qiita
+https://www.publickey1.jp/blog/25/nuxtjsnuxt_labsnextjsvercel.html | Nuxt.jsの開発元NuxtLabs、Next.jsの開発元Vercelへの合流を発表 － Publickey
+https://zenn.dev/yoshiko/articles/difit-from-reviewit | Git diff閲覧ツール「ReviewIt」が「difit」に変わります
+https://qiita.com/tamura__246/items/bd5d62b1213610618f20 | プロンプトエンジニアリング超入門 – プロンプトエンジニアリングは本当に死んだのか？ #ChatGPT - Qiita
+https://techblog.lycorp.co.jp/ja/20250708a | 大規模レガシーシステムのマイクロサービス化における0→1ではない-1→1の新規開発
+https://www.yomiuri.co.jp/world/20250709-OYT1T50042/ | テキサスの大規模洪水、少なくとも１６１人が行方不明・死者１０９人…州知事「更に増える可能性高い」 : 読売新聞
+https://toyokeizai.net/articles/-/889037?display=b | オタクは国境を越える！性的描写が厳しいインドネシアでも盛り上がる現地「コミケ」のリアル | ゲーム・エンタメ | 東洋経済オンライン
+https://kaminashi-developer.hatenablog.jp/entry/2025/07/08/090424 | Notion MCPで「ヒアリング→チケット」自動化はじめました - カミナシ エンジニアブログ
+https://qiita.com/ishi720/items/7d9defe5301e8089b9ff | リンク機構の軌跡を可視化するメカニカルアートをp5.jsで作ってみた #JavaScript - Qiita
+https://www.businessinsider.jp/article/2507-amazon-stricter-performance-review-process-leadership-principles/ | アマゾンは「リーダーシップ原則」をより重視、厳格なパフォーマンス評価プロセスを導入する | Business Insider Japan
+https://dev.classmethod.jp/articles/tb-gemini-bot/ | 壁打ち相手として自分の特徴を持つBotをGeminiのGemで作成した | DevelopersIO
+https://dev.classmethod.jp/articles/why-i-wanted-to-do-infrastructure-reflection-maruto/ | インフラをやりたくなった理由と今を振り返ってみた | DevelopersIO
+https://speakerdeck.com/soudai/survival-db-skill | DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所 - Speaker Deck
+https://cockscomb.hatenablog.com/entry/passkey-as-a-multi-factor-cryptographic-authenticator | パスキーの安全性について - cockscomblog?
+https://zenn.dev/hrsh7th/articles/ecb9664a9316c0 | ファジーにテキストをマッチングする処理について
+https://www.oricon.co.jp/news/2394818/full/ | 講談社、ロシア企業への著作権侵害訴訟が終結　『進撃の巨人』など判決に「極めて意義深い」 | ORICON NEWS
+https://forest.watch.impress.co.jp/docs/serial/aistream/2030333.html | 「Claude 4」が作った自家用スキャナーエージェントが家族に大好評 - 生成AIストリーム - 窓の杜
+https://kaminashi-developer.hatenablog.jp/entry/2025/07/09/local-private-go-module-github-app-device-flow | kaminashi-developer.hatenablog.jp/entry/2025/07/09/local-private-go-module-github-app-device-flow
+https://qiita.com/sigma_devsecops/items/d203c5d8b895f4d38218 | qiita.com/sigma_devsecops/items/d203c5d8b895f4d38218
+https://wired.jp/article/human-creativity-in-ai-era-rei-inamoto/ | 人間にしかできない「創造」とは？：レイ・イナモトが考えるAI時代のクリエイティビティの行く先 | WIRED.jp
+https://japan.cnet.com/article/35235376/ | ChatGPTやGeminiで「読まれない資料」を「一瞬で伝わるビジュアル」に変える方法 - CNET Japan
+https://www.businessinsider.jp/article/2507-vibe-coding-increase-the-number-of-engineers-gitlab-ceo-swe/ | AIによってコーディングが容易になるにつれ、エンジニアの数は増える | Business Insider Japan
+https://www.itmedia.co.jp/aiplus/articles/2507/09/news084.html | itmedia.co.jp/aiplus/articles/2507/09/news084.html
+https://japan.zdnet.com/article/35235410/ | japan.zdnet.com/article/35235410/
+https://forest.watch.impress.co.jp/docs/serial/yajiuma/2030182.html | forest.watch.impress.co.jp/docs/serial/yajiuma/2030182.html
+https://news.yahoo.co.jp/articles/7482330c7eabe97b6a73d51b351f53d08d26f972 | Yahoo!ニュース
+https://smhn.info/202507-xperia-1-vii-shimanto | Xperia 1 VII は「最後の清流」。ソースコード解析から判明した衝撃の事実とは - すまほん!!
+https://www.4gamer.net/games/047/G004755/20250718016/ | ゲーマー向けブランド「ROG」から初音ミクエディションの製品が続々登場
+https://zenn.dev/syunpp/articles/39d3b74761b677 | zenn.dev/syunpp/articles/39d3b74761b677
+https://www.itmedia.co.jp/news/articles/2507/09/news074.html | サイボウズ、新卒エンジニア向け研修資料を無料公開　AIツール「Dify」や「GitHub Copilot」など全19種 - ITmedia NEWS
+https://knowledge.sakura.ad.jp/45070/ | さくらのIaaS基盤を支えるしくみと課題 | さくらのナレッジ
+https://codezine.jp/article/detail/21881 | NewSQLとは何か？　SQL（RDBMS）やNoSQLとの違いと「いいとこどり」の特徴をマンガで解説|CodeZine（コードジン）
+https://zenn.dev/hellorusk/articles/f75f6d41b0a30c | フォワードデプロイドエンジニア（FDE）とは何か
+https://gigazine.net/news/20250723-alibaba-qwen3-coder/ | Claude Sonnet 4に匹敵するコーディング特化のオープンモデル「Qwen3-Coder」をAlibabaが発表 - GIGAZINE
+https://studyhacker.net/burner-list-todo | 「勉強したいのに手がつかない人」に効く｜元Google社員のタスク管理術「バーナーリスト」 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://logmi.jp/main/management/331992 | “教えたのに新人は理解できていない”現象はなぜ起きるのか　組織マネジメント・人材教育を難しくさせる「知識の呪い」 [1/2] | ログミーBusiness
+https://kai-you.net/article/92974 | VTuber「kson」が所属エージェンシー「VShojo」に説明要求　同僚アイアンマウスの告発を受け - KAI-YOU
+https://zenn.dev/ame_b/articles/da0f86077fddad | ubuntuをインストールしたときにしている環境構築メモ
+https://blog.generative-agents.co.jp/entry/semcheck | 仕様書とコードの「意味的な整合性」を検証するツール『Semcheck』の利用モデル別性能評価 - Generative Agents Tech Blog
+https://qiita.com/abe_masanori/items/a617bcd64708dabededf | Text-to-SQLについて考えていることをだらだらと書く #LLM - Qiita
+https://logmi.jp/main/skillup/331997 | なぜあの人は仕事ができないのか？　できない人の思考パターンから学ぶ、無駄な失敗を避けるコツ | ログミーBusiness
+https://tech-blog.rakus.co.jp/entry/20250722/refactoring | レガシーシステムに挑む！リファクタリング実践レポート - RAKUS Developers Blog | ラクス エンジニアブログ
+https://note.com/konho/n/n296c82586c4c | 【初級バイブコーダー向け】なぜフロントエンドからデータベースを使ってはいけないのか｜けいすけ
+https://gihyo.jp/article/2025/07/book-guide-to-mathematical-models | 数理モデルの力を引き出す書籍ガイド | gihyo.jp
+https://findy-code.io/media/articles/technote-metadata-syou6162 | 知の巡りをよくするためのメタデータ管理
+https://note.com/npaka/n/n6baefe7dd1d5 | Google Opal の概要｜npaka
+https://qiita.com/tatsuya_1995/items/95599016e55f6e666d4e | リーダーばかりやってきた私が気づいたこと #ポエム - Qiita
+https://zenn.dev/socialplus/articles/ai-powered-codemod-refactoring | AI に codemod を書かせて大規模リファクタリングに立ち向かう
+https://zenn.dev/kotoba_tech/articles/98feb05f24c082 | LLM Servingを支える技術
+https://zenn.dev/taro_cccmkhd/articles/5c825bfc352175 | 25年に渡るデータマネジメント私史～あるエンジニアの取組み
+https://www3.nhk.or.jp/news/html/20250727/k10014875741000.html | タイとカンボジア国境地帯に「渡航中止勧告」外務省 危険情報 レベル3に引き上げ | NHK | 外務省
+https://zenn.dev/oikon/articles/kiro-and-aitools | Kiroの登場と最近のAIコーディングツールについて思うこと
+chrome-native://newtab/ | New tab
+https://zenn.dev/sakupanda/articles/ecb4ae7e9a240e | Claude Codeで開発効率85%UP！AIとの往復を20回→3回に減らす実践テクニック
+https://levtech.jp/media/article/column/detail_710/ | 「最短経路問題」の新アルゴリズム。数十年来の“理論的限界”破ったと発表【研究紹介】 | レバテックラボ（レバテックLAB）
+https://qiita.com/hoborei/items/a0aedd392a7ce54b6015 | 技術書をスポンジのように吸収する方法 #本 - Qiita
+https://syu-m-5151.hatenablog.com/entry/2025/08/14/143527 | 缶つぶし機とソフトウェア移行技術 - Refactoring to Rust の読書感想文 - じゃあ、おうちで学べる
+https://www.google.com/search?q=kofuasterisk&oq=kofuasterisk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiiBBiJBTIHCAQQABjvBTIHCAUQABjvBdIBCDY2MDNqMGo3qAIUsAIB8QWf51fzvMfdzQ&client=ms-android-sonymobile-rvo3&sourceid=chrome-mobile&ie=UTF-8 | kofuasterisk - Google 検索
+https://internet.watch.impress.co.jp/docs/index/2037972.html | 予算6万円で1台5役、M.2スロット×6搭載のミニPCで作る楽しい自宅クラウド！ - INTERNET Watch
+https://prtimes.jp/main/html/rd/p/000000055.000036921.html | 当社AIデータセンターに『NVIDIA B200搭載 GPUサーバー』第一陣が到着 | データセクション株式会社のプレスリリース
+https://zenn.dev/sotarok/articles/0ee334cfd9f9c4 | Git Worktree を使いやすくする gw コマンドを作った
+https://jbpress.ismedia.jp/articles/-/90037 | GPT-5の出力品質を低下させる「絶対にやってはいけないプロンプト」 【生成AI事件簿】OpenAI史上最も賢く、速いGPT-5に「頭が悪くなった」の批判、なぜ問題が起きてしまったのか(1/6) | JBpress (ジェイビープレス)
+https://codezine.jp/article/detail/22088 | デジタル庁、「さくらのクラウド」のガバメントクラウド対応 進捗状況を発表|CodeZine（コードジン）
+https://www.lifehacker.jp/article/2508-roomie-cp-holder-belt/ | 釣りをしない人にもおすすめ！DAIWAの隠れた逸品がマルチに使えて便利な理由 | ライフハッカー・ジャパン
+
+https://www.ipa.go.jp/archive/publish/tn20191220.html | ユーザのための要件定義ガイド 第2版 要件定義を成功に導く128の勘どころ | アーカイブ | IPA 独立行政法人 情報処理推進機構
+https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf | ユーザのための要件定義ガイド第２版２刷
+https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2025/tbl5kb000000ag23-att/tbl5kb000000ag9u.pdf | 脆弱性診断内製化ガイド
+
+https://forest.watch.impress.co.jp/docs/news/2035110.html | 「NotebookLM」が機能強化、ナレーション付きスライドが作成可能に - 窓の杜
+https://www.sankei.com/article/20250725-2UVN4HDQLNNUVMJCQBD4NV4WHU/ | 「全焼するぞ」…京都の芸能神社がXで大炎上　警察沙汰に発展した生成AIイラストの賛否 - 産経ニュース
+https://japan.zdnet.com/article/35236045/ | 「バイブコーディング」が招いた暴走--「Replit」による命令無視と本番DB消去という惨劇 - ZDNET Japan
+https://aws.amazon.com/jp/blogs/news/aws-serverless-yamaokaya-kitchen/ | AWS サーバレスサービスで実現するラーメン山岡家のキッチンオペレーション効率化 | Amazon Web Services ブログ
+https://gihyo.jp/article/2025/07/how-to-study-to-pass-technical-qualifications | 技術資格に「合格する」ための勉強法 ——IPA&AWS試験で成果を出した“実践ノウハウ”を公開 | gihyo.jp
+
+https://gihyo.jp/article/2025/06/ride-modern-frontend-09 | モダンなフロントエンドにおけるテストについて ［Modern Featured Test］ | gihyo.jp
+https://gigazine.net/news/20250708-cheatingdaddy-glass-apache-gplv3-license/ | オープンソースプロジェクトのソースコードがスタートアップにまるごと盗用された上に異なるライセンスを勝手に付けられる事態が発生して大炎上 - GIGAZINE
+https://gigazine.net/news/20250708-nvidia-gpu-expensive/ | NVIDIAのグラボが高すぎる割に性能や品質が低いとして「NVIDIAはデタラメまみれ」と題したブログ記事が話題に、「DLSSで性能を水増し」「レビュワーに多大な要求」などなど - GIGAZINE
+https://www.lifehacker.jp/article/2507-simple-productivity-rule-fix/ | なぜ、ToDoリストを完遂できないのか？思考のノイズを断ち切る「たった1つのルール」とは | ライフハッカー・ジャパン
+https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-250707-202507060002646 | 人気グラドル「キューティーハニー」90センチのコスプレ姿に反響続々「完璧すぎてもうメロメロ」（日刊スポーツ）｜ｄメニューニュース（NTTドコモ）
+https://www.gizmodo.jp/2025/07/305963.html | ヤマハのコンデンサーマイク｢YCM705｣は、音も良ければルックスもいい | ギズモード・ジャパン
+
+https://notebooklm.google.com/notebook/74d547dc-1506-46bc-bcfb-8f848c1cd603 | UML 2.5.1 リファレンス - NotebookLM
+https://ja.wikipedia.org/wiki/%E8%A6%8B%E5%87%BA%E3%81%97 | 見出し - Wikipedia
+https://www.google.com/search?q=%E6%96%87%E5%8C%96%E5%BA%81+%E8%A6%8B%E5%87%BA%E3%81%97&rlz=1C1TMBY_enJP1152JP1152&oq=%E6%96%87%E5%8C%96%E5%BA%81+%E8%A6%8B%E5%87%BA%E3%81%97&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDI1ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8 | 文化庁 見出し - Google 検索
+https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93651301_01.pdf | 93651301_01.pdf
+https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/93098001_01.pdf | 93098001_01.pdf
+https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/kokugo_kadai/iinkai_40/pdf/92786101_04.pdf | 92786101_04.pdf
+https://www.bunka.go.jp/tokei_hakusho_shuppan/tokeichosa/index.html | 統計・調査研究等 | 文化庁
+https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenjihokokusho/index.html | 白書・年次報告等 | 文化庁
+https://www.mext.go.jp/b_menu/hakusho/html/hpab202001/mext_02820.html | 令和5年度　文部科学白書：文部科学省
+https://www.mext.go.jp/b_menu/hakusho/html/hpaa202501/1421221_00015.html | 令和7年版 科学技術・イノベーション白書：文部科学省
+https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/kokugo_kadai/iinkai_64/pdf/94042101_01.pdf | 94042101_01.pdf
+
 https://xtech.nikkei.com/atcl/nxt/column/18/00001/10716/ | 「ITパスポートの次」に受ける試験新設、情報処理技術者試験見直しでデータ管理など | 日経クロステック（xTECH）
 https://note.com/choo/n/n44ea8a77770f | ソフトウェアエンジニアとしての将来が見えなくなってきた｜choo
 https://qiita.com/WdknWdkn/items/2755301aebff878e0075 | 「Claude Code」導入をめっちゃスムーズにする「ドキュメントの下地」を作るプロンプト #生成AI - Qiita
