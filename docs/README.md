@@ -7,7 +7,7 @@
 - [ndxbn.github.io](https://ndxbn.github.io): テスト用途とか、静的コンテンツのみで構成されているドキュメント。
 - [ndxbn-tokyo.github.io](https://ndxbn-tokyo.github.io): GitHub Orgs "ndxbn.tokyo" 関連
 
-## github.com/ndxbn/ndxbn.github.io リポジトリについて
+## `ndxbn.github.io` リポジトリについて
 
 このリポジトリには、Gemini Gem で使っているプレプロンプトや、IDE の設定に関する情報、デスクトップの設定のバックアップなど、特定のリポジトリに依存しない、多岐にわたる様々なデータを置いています。それらのファイルは、利用する際には結局ブラウザからアクセスしてコピペするっていう手作業を伴うため、自分用のウェブサイトからも参照できるようにそのリポジトリにおいています。当然ですが、ターミナルや CLI ツールの設定であれば、 dotfiles リポジトリに置きます。
 
