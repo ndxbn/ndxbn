@@ -59,7 +59,7 @@ labels: ffxiv, weekly, todo, bot
 
 週末にやる
 
-- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn/edit/main/backups/onetab.txt)
+- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn.github.io/edit/main/backup/onetab.txt)
 - [ ] `apt update -y && apt upgrade -y` WSL 環境
 - [x] `apt update -y && apt upgrade -y` サーバー
 - [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
