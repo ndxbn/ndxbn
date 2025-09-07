@@ -11,7 +11,7 @@
 
 [![ndxbn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<details><summary>More Profile</summary>
+<details><summary>More Stats</summary>
   
 [
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndxbn&theme=dark)
