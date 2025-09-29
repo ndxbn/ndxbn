@@ -7,20 +7,15 @@ title: （本のタイトル）
 body:
   - type: input
     attributes:
-      label: 読書メモの URL
+      label: 国会図書館サーチでの URL
       description: |
-        [Today I Learned リポジトリ](https://github.com/ndxbn/til/new/main/books)にこの本の読書メモのディレクトリを作成し、その URL を入れてください。
+        [国会図書館サーチ](https://ndlsearch.ndl.go.jp) での書籍のページURL
     validations:
       required: true
-  - type: textarea
+  - type: input
     attributes:
-      label: （README.md コピペ用）
-      value: |
-        ```
-        ## （本のタイトル）
-        国会図書館サーチ： （`https://ndlsearch.ndl.go.jp`）
-        
-        ISBN：
-
-        ## 目次
-        ```
+      label: ISBN
+      description: |
+        この書籍の ISBN 番号
+    validations:
+      required: true
