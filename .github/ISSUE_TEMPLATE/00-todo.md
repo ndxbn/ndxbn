@@ -2,7 +2,8 @@
 name: todo template
 about: make todo list
 title: ""
-labels: todo
+labels: ["Type:Task"]
+projects: [ndxbn/7]
 assignees:
 ---
 
