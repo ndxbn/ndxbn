@@ -2,7 +2,7 @@
 name: todo template
 about: make todo list
 title: ""
-labels: todo
+labels: ["Type:Task"]
 assignees:
 ---
 
