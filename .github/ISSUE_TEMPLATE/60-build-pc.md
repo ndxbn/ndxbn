@@ -2,7 +2,8 @@
 name: build New Windows Desktop PC Checklist
 about: 新しく Windows Desktop PC を組み立てるときにやること
 title: New Desktop PC for XXXX
-labels: todo
+labels: ["Type:Task"]
+projects: [ndxbn/7]
 assignees: ndxbn
 ---
 
