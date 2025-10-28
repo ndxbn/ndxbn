@@ -1,0 +1,99 @@
+name: "UserStory (ユーザー価値)"
+description: "(DoR必要) ユーザー価値の最小単位 (例: [Story] As a 読者, I want 記事をブックマークしたい)"
+title: "As a [役割], I want [ゴール]"
+labels: ["Type:UserStory", "NeedRefinement"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        これは `DoR` (開始条件) が必要な `WorkItem`（成果物）です。
+        作成されると、自動的に `Backlog` レーンに追加されます。
+        `Ready` レーンに移動するには、以下の `DoR` がすべて明確になっている必要があります。
+
+  - type: textarea
+    id: user-story-why
+    attributes:
+      label: "User Story (Why - 理由/ビジネス価値)"
+      description: |
+        タイトルで書いた `As a... I want...` を受けて、その「理由/ビジネス価値」を定義してください。
+        （例：なぜなら、あとでまとめて読み返すことができるようにするためだ。）
+      value: "so that … / なぜなら、…"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **<重要>**
+        作成後、GitHub の Sub-Issue 機能を使って、
+        この UserStory がどの `Epic` に紐づくのか、親子関係を必ず設定してください。
+
+  - type: textarea
+    id: dor-what
+    attributes:
+      label: "DoR: スコープ (What)"
+      description: "このストーリーのスコープ、UIモック(Figmaリンク)、API定義、非機能要件 (NFRs) などをチェックリスト形式で記述してください。"
+      value: |
+        - [ ] (スコープ内) ○○画面での△△機能
+        - [ ] (スコープ外) ××画面の修正
+        - NFRs: パフォーマンスは 1.5s 以内
+    validations:
+      required: true
+
+  - type: textarea
+    id: dor-how-to-check
+    attributes:
+      label: "DoR: 受け入れ基準 (AC - How to Check)"
+      description: |
+        Gherkin (Given-When-Then) 記法で、このストーリーの「振る舞い」と「検証項目」を定義してください。
+        
+        書式：
+        ```
+        Scenario: (シナリオ名)
+          Given (前提)
+          When (行動)
+          Then (結果)
+        ```
+      placeholder: "Scenario: ..."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### DoR: Sizing (見積もり)
+        **注意:** ストーリーポイントは「時間」ではありません。「デカさ」（複雑さ・不確実性・作業量）を相対的に見積もるための単位です。
+        「1ポイント=8時間」のような時間換算は、見積もりの精度を下げるため**行いません**。
+
+  - type: dropdown
+    id: dor-sizing
+    attributes:
+      label: "Sizing (Story Points)"
+      description: "この UserStory の「デカさ」を相対的なポイントで選択してください。 (Backlog Refinement で決定)"
+      options:
+        - "? (見積もり不能 = Spike が必要)"
+        - "0"
+        - "1"
+        - "2"
+        - "3"
+        - "5"
+        - "8"
+        - "13"
+        - "21"
+    validations:
+      required: true
+
+  - type: textarea
+    id: dod
+    attributes:
+      label: "完了条件 (DoD)"
+      description: "この UserStory が「完了」とみなされるための、機能レベルのチェックリストです。"
+      value: |
+        - [ ] 上記の「受け入れ基準 (AC)」をすべて満たしている
+        - [ ] E2Eテスト（または受け入れテスト）がパスしている
+        - [ ] Staging環境（または本番環境）にデプロイされ、動作確認が取れている
+        - [ ] （もしPOがいれば）プロダクトオーナー (PO) のレビューと承認を得ている
+        - [ ] 関連するドキュメント（READMEやリリースノートなど）が更新されている
+    validations:
+      required: true
