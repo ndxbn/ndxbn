@@ -1,0 +1,65 @@
+name: "Spike (調査タスク)"
+description: "(DoR不要) WorkItem の DoR を明確にするためのタイムボックス化された調査"
+title: "〜〜の調査、見積もり"
+labels: ["Type:Spike"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        これは `DoR` (開始条件) が不要な `Activity`（行動）です。
+        作成されると、自動的に `Ready` に追加されます。
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "調査対象の WorkItem と目的"
+      description: |
+        この Spike が「どの WorkItem」の「どの DoR」を明確にするために必要なのかを書いてください。
+        
+        例1 (Sizing のため):
+        ```
+        - 対象Issue: #123
+        - 目的: DoR の Sizing (T-Shirt) を決定するため
+        ```
+        例2 (What / How-to-Check のため):
+        ```
+        - 対象Issue: #456
+        - 目的: DoR の What (スコープ) と How-to-Check (AC) を具体化するため
+        ```
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **<重要>**
+        作成後、GitHub の Sub-Issue 機能を使って、
+        この Spike がどの `WorkItem` に紐づくのか、親子関係を必ず設定してください。
+
+  - type: dropdown
+    id: timebox
+    attributes:
+      label: "タイムボックス (作業上限時間)"
+      description: "この Spike にかける作業時間の上限を設定してください。時間が来たら、結果が不完全でも調査を終了し、DoD（成果物）をまとめます。"
+      options:
+        - "2時間"
+        - "4時間 (半日)"
+        - "8時間 (1日)"
+        - "(別途指定)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: dod
+    attributes:
+      label: "完了条件 (DoD - 成果物)"
+      description: "この Spike が完了したとみなすための「成果物」を定義してください。"
+      value: |
+        - [ ] 上記の「タイムボックス」が終了した
+        - [ ] 調査結果（わかったこと、わからなかったこと）がこの Issue に記載されている
+        - [ ] 対象 WorkItem の DoR が、調査結果に基づいて更新されている
+        - [ ] (もし目的が Sizing なら) 対象 WorkItem の Sizing が決定している
+        - [ ] (もし目的が What なら) 分解後の Task リストが作成されている
+    validations:
+      required: true
