@@ -30,12 +30,17 @@ body:
     validations:
       required: true
 
-  - type: markdown
+  - type: textarea
+    id: parent-issue-check
     attributes:
+      label: "親子関係の設定 (Parent Issue)"
+      description: |
+        **この項目は編集しないでください。**
+        Issue 作成後、Parent Issue を設定したらチェック （`[x]`）を入れてください。
       value: |
-        **<重要>**
-        作成後、GitHub の Sub-Issue 機能を使って、
-        この Spike がどの `WorkItem` に紐づくのか、親子関係を必ず設定してください。
+        - [ ] Parent Issue を設定したら✅️
+    validations:
+      required: true
 
   - type: dropdown
     id: timebox
@@ -44,9 +49,8 @@ body:
       description: "この Spike にかける作業時間の上限を設定してください。時間が来たら、結果が不完全でも調査を終了し、DoD（成果物）をまとめます。"
       options:
         - "2時間"
-        - "4時間 (半日)"
-        - "8時間 (1日)"
-        - "(別途指定)"
+        - "4時間"
+        - "8時間"
     validations:
       required: true
 
