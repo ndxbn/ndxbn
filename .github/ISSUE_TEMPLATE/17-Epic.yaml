@@ -1,0 +1,104 @@
+name: "Epic (ビジネス目標)"
+description: "(DoR必要) 複数の UserStory を束ねるビジネス目標 (例: [Epic] 決済システムをリニューアルする)"
+title: ""
+labels: ["Type:Epic", "NeedRefinement"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        これは `DoR` (開始条件) が必要な `WorkItem`（成果物）です。
+        `Ready` レーンに移動するには、以下の `DoR` の各チェックリスト項目が「定義済み」の状態になっている必要があります。
+
+  - type: textarea
+    id: epic-why
+    attributes:
+      label: "DoR: Why - ビジネスゴール"
+      description: |
+        この Epic が達成しようとしている「ビジネス上のゴール」や「解決したい課題」をチェックリスト形式で定義してください。
+        それぞれ達成できたらチェックを入れてください。
+      value: |
+        - [ ] ゴール: (例: 決済時のユーザー離脱率を 5% 改善する)
+        - [ ] 背景: (例: 現状の決済フローが複雑で...)
+        - [ ] KPI: (例: 決済完了率, 離脱ポイント)
+    validations:
+      required: true
+
+  - type: textarea
+    id: dor-stakeholders
+    attributes:
+      label: "DoR: Stakeholders (Who)"
+      description: "この Epic に利害関係のある主要な人物やチームをチェックリスト形式で定義してください。"
+      value: |
+        - [ ] 利用者 (Users) / テナント (Tenants)
+        - [ ] PO (Product Owner)
+        - [ ] スポンサー / 経営層
+        - [ ] Design Team
+        - [ ] Legal (法務) / Security
+        - [ ] Marketing / Sales
+        - [ ] Customer Support
+        - [ ] Operations (運用チーム)
+    validations:
+      required: true
+
+  - type: textarea
+    id: dor-what
+    attributes:
+      label: "DoR: スコープ (What)"
+      description: |
+        この Epic に含まれる主要な UserStory や機能、スコープ外の項目をチェックリスト形式で定義してください。
+        スクショはドラッグ＆ドロップしてメディアとして追加ください。
+        それぞれ完了したらチェックを入れてください。
+      value: |
+        - [ ] (スコープ内) Amazon Pay 導入
+        - [ ] (スコープ内) クレジットカード決済フローのUI改善
+        - [ ] (スコープ外) 銀行振込機能の改修
+    validations:
+      required: true
+
+  - type: textarea
+    id: dor-how-to-check
+    attributes:
+      label: "DoR: 検証項目 (How to Check)"
+      description: |
+        この Epic が「成功した」と判断するための、ビジネスレベルでの検証項目をチェックリスト形式で定義してください。
+      value: |
+        - [ ] 上記の「KPI (決済完了率)」が計測可能になっている
+        - [ ] 関連する法務・セキュリティレビューの観点が洗い出されている
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dor-sizing-tshirt
+    attributes:
+      label: "DoR: Sizing (T-Shirt Size)"
+      description: |
+        この Epic の「デカさ」を相対的な Tシャツサイズで選択してください。
+        
+        **注意:** Epic の見積もりは「時間」ではなく、`UserStory` との相対的な「デカさ」で行います。
+      options:
+        - "(未見積もり)"
+        - "? (見積もり不能 = Spike が必要)"
+        - "S (小規模)"
+        - "M (中規模)"
+        - "L (大規模)"
+        - "XL (超大規模)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: dod
+    attributes:
+      label: "完了条件 (DoD)"
+      description: "この Epic が「完了」とみなされるための、ビジネスレベルのチェックリストです。これとは別に、ステークホルダのチェックリストもあります。"
+      value: |
+        - [ ] `DoR: What (スコープ)` がすべて提供されている
+        - [ ] `DoR: How-to-Check (検証項目)` がすべて実行され、レビューされている
+        - [ ] 成果（KPI）を測定・追跡するためのフォローアップ Issue が起票されている
+    validations:
+      required: true
+  - type: textarea
+    id: dod-stakeholders
+    attributes:
+      label: "完了条件 (DoD)：ステークホルダ"
+      description: "ステークホルダによるレビュー・承認や、ステークホルダへの通知のリストです。`DoR: Stakeholders (Who)` からのコピペで良いです。"
