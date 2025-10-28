@@ -1,0 +1,59 @@
+name: "KPI測定 (フォローアップ)"
+description: "(DoR不要) Epic完了後のビジネス成果（KPI）を測定・追跡します"
+title: "【実施日時】 ＜＜実施する内容＞＞"
+labels: ["Type:Task"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        これは `DoR` (開始条件) が不要な `Activity`（行動）です。
+        `Epic` の `DoD` の一環として作成されます。
+
+  - type: textarea
+    id: parent-issue-check
+    attributes:
+      label: "親子関係の設定 (Parent Issue)"
+      description: |
+        **この項目は編集しないでください。**
+        Issue 作成後、GitHub の Sub-Issue 機能（`Add parent issue`）を使って、
+        この Issue が `context` で指定した Epic に紐づいたら、下のチェックボックスにチェック（`[x]`）を入れてください。
+      value: |
+        - [ ] Parent Issue を設定したら✅️
+    validations:
+      required: true
+
+  - type: textarea
+    id: measurement-plan
+    attributes:
+      label: "測定計画"
+      description: "いつ、どのような方法で KPI を測定するかを、以下の Markdown 形式で具体的に定義してください。"
+      value: |
+        ## 測定 KPI
+        - (例: 決済完了率)
+        - (例: 離脱ポイント)
+
+        ### 測定時期
+        - (例: リリース1週間後)
+        - (例: リリース1ヶ月後)
+
+        ### 測定方法
+        - (例: Google Analytics の XX レポートを参照)
+
+        ### 比較対象 (Baseline)
+        - (例: リリース前の同期間の数値)
+    validations:
+      required: true
+
+  - type: textarea
+    id: dod
+    attributes:
+      label: "完了条件 (DoD)"
+      description: "この測定タスクが「完了」したとみなすためのチェックリストです。"
+      value: |
+        - [ ] 上記の計画に基づき、KPI の測定が実施された
+        - [ ] 測定結果がこの Issue に記録（またはリンク）されている
+        - [ ] 測定結果に基づき、ステークホルダへ報告が行われた
+        - [ ] （もし必要なら）次のアクション（追加の改善 Issue など）が決定または起票された
+    validations:
+      required: true
