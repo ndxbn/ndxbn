@@ -9,16 +9,17 @@ body:
       value: |
         これは `DoR` (開始条件) が必要な `WorkItem`（成果物）です。
         作成されると、自動的に `Backlog` レーンに追加されます。
-        `Ready` レーンに移動するには、以下の `DoR` がすべて明確になっている必要があります。
+        `Ready` レーンに移動するには、以下の `DoR` の各チェックリスト項目が「定義済み」の状態になっている必要があります。
 
   - type: textarea
     id: user-story-why
     attributes:
-      label: "User Story (Why - 理由/ビジネス価値)"
+      label: "DoR: Why - 理由/ビジネス価値"
       description: |
-        タイトルで書いた `As a... I want...` を受けて、その「理由/ビジネス価値」を定義してください。
+        タイトルで書いた `As a... I want...` を受けて、その「理由/ビジネス価値」を（チェックリスト形式で）定義してください。
         （例：なぜなら、あとでまとめて読み返すことができるようにするためだ。）
-      value: "so that … / なぜなら、…"
+      value: |
+        so that [理由/ビジネス価値]
     validations:
       required: true
 
@@ -33,11 +34,11 @@ body:
     id: dor-what
     attributes:
       label: "DoR: スコープ (What)"
-      description: "このストーリーのスコープ、UIモック(Figmaリンク)、API定義、非機能要件 (NFRs) などをチェックリスト形式で記述してください。"
+      description: "このストーリーのスコープ、UIモック(Figmaリンク)、API定義、非機能要件 (NFRs) などを（チェックリスト形式で）定義してください。スクショは D&D してください。"
       value: |
         - [ ] (スコープ内) ○○画面での△△機能
         - [ ] (スコープ外) ××画面の修正
-        - NFRs: パフォーマンスは 1.5s 以内
+        - [ ] NFRs: パフォーマンスは 1.5s 以内
     validations:
       required: true
 
@@ -45,33 +46,25 @@ body:
     id: dor-how-to-check
     attributes:
       label: "DoR: 受け入れ基準 (AC - How to Check)"
-      description: |
-        Gherkin (Given-When-Then) 記法で、このストーリーの「振る舞い」と「検証項目」を定義してください。
-        
-        書式：
-        ```
-        Scenario: (シナリオ名)
-          Given (前提)
-          When (行動)
-          Then (結果)
-        ```
-      placeholder: "Scenario: ..."
+      description: "Gherkin (Given-When-Then) 記法で、このストーリーの「振る舞い」と「検証項目」をチェックリスト形式で定義してください。"
+      value: |
+        ### Scenario: (シナリオ名)
+        - Given: (前提)
+        - When: (行動)
+        - Then: (結果)
     validations:
       required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        ### DoR: Sizing (見積もり)
-        **注意:** ストーリーポイントは「時間」ではありません。「デカさ」（複雑さ・不確実性・作業量）を相対的に見積もるための単位です。
-        「1ポイント=8時間」のような時間換算は、見積もりの精度を下げるため**行いません**。
 
   - type: dropdown
     id: dor-sizing
     attributes:
-      label: "Sizing (Story Points)"
-      description: "この UserStory の「デカさ」を相対的なポイントで選択してください。 (Backlog Refinement で決定)"
+      label: "DoR: Sizing (Story Points)"
+      description: |
+        この UserStory の「デカさ」を相対的なポイントで選択してください。 (Backlog Refinement で決定)
+        
+        **注意:** ストーリーポイントは「時間」ではありません。「デカさ」（複雑さ・不確実性・作業量）を相対的に見積もるための単位です。
       options:
+        - "(未見積もり)"
         - "? (見積もり不能 = Spike が必要)"
         - "0"
         - "1"
@@ -90,10 +83,10 @@ body:
       label: "完了条件 (DoD)"
       description: "この UserStory が「完了」とみなされるための、機能レベルのチェックリストです。"
       value: |
-        - [ ] 上記の「受け入れ基準 (AC)」をすべて満たしている
+        - [ ] `DoR: What (スコープ)` がすべて提供されている
+        - [ ] `DoR: AC (受け入れ基準)` がすべて実行され、パスしている
         - [ ] E2Eテスト（または受け入れテスト）がパスしている
         - [ ] Staging環境（または本番環境）にデプロイされ、動作確認が取れている
-        - [ ] （もしPOがいれば）プロダクトオーナー (PO) のレビューと承認を得ている
         - [ ] 関連するドキュメント（READMEやリリースノートなど）が更新されている
     validations:
       required: true
