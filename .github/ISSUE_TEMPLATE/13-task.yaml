@@ -1,6 +1,6 @@
 name: "Task (実行タスク)"
 description: "(DoR不要) 1〜2時間で完了する具体的な実行タスクを起票します"
-title: "[Task] "
+title: "XXX する"
 labels: ["Type:Task"]
 
 body:
@@ -19,7 +19,7 @@ body:
         
         例:
         ```
-        UserStory #123 のXX機能実装のため、○○のAPIを叩く必要がある...
+        UserStory #123 のXX機能実装のため、YYのAPIを叩く必要がある...
         ```
     validations:
       required: true
