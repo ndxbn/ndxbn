@@ -9,6 +9,7 @@ assignees: ndxbn
 
 # その他
 
+- [x] Task Grooming（Google Tasks で直接管理している）
 - [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn.github.io/edit/main/backup/onetab.txt)
 - [ ] `apt update -y && apt upgrade -y` WSL 環境
 - [ ] `apt update -y && apt upgrade -y` サーバー
