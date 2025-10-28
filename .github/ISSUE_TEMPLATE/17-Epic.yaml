@@ -11,33 +11,44 @@ body:
         `Ready` レーンに移動するには、以下の `DoR` の各チェックリスト項目が「定義済み」の状態になっている必要があります。
 
   - type: textarea
-    id: epic-why
+    id: epic-why-goal
     attributes:
       label: "DoR: Why - ビジネスゴール"
       description: |
-        この Epic が達成しようとしている「ビジネス上のゴール」や「解決したい課題」をチェックリスト形式で定義してください。
-        それぞれ達成できたらチェックを入れてください。
+        この Epic が達成しようとしている「ビジネス上のゴール」と「その背景」を定義してください。
       value: |
-        - [ ] ゴール: (例: 決済時のユーザー離脱率を 5% 改善する)
-        - [ ] 背景: (例: 現状の決済フローが複雑で...)
-        - [ ] KPI: (例: 決済完了率, 離脱ポイント)
+        ### ゴール: (例: 決済時のユーザー離脱率を 5% 改善する)
+        ### 背景
+        (例: 現状の決済フローが複雑で...)
     validations:
       required: true
-
+  - type: textarea
+    id: epic-why-kpi
+    attributes:
+      label: "DoR: Why - KPI"
+      description: |
+        ゴールを達成しているか測定するための KPI を定義してください。
+      values: |
+        - [ ] (例: 決済完了率, 離脱ポイント)
+        - [ ] (例: 決済完了率, 離脱ポイント)
+    validations:
+      required: true
   - type: textarea
     id: dor-stakeholders
     attributes:
       label: "DoR: Stakeholders (Who)"
-      description: "この Epic に利害関係のある主要な人物やチームをチェックリスト形式で定義してください。"
+      description: |
+        この Epic に利害関係のある主要な人物やチームをチェックリスト形式で定義してください。
+        それぞれのステークホルダについて、レビューが必要か、告知をするだけで良いかも併記してください。
       value: |
-        - [ ] 利用者 (Users) / テナント (Tenants)
-        - [ ] PO (Product Owner)
-        - [ ] スポンサー / 経営層
-        - [ ] Design Team
-        - [ ] Legal (法務) / Security
-        - [ ] Marketing / Sales
-        - [ ] Customer Support
-        - [ ] Operations (運用チーム)
+        - [ ] 利用者 (Users) / テナント (Tenants)（通知のみ）
+        - [ ] PO (Product Owner)（レビュー必須）
+        - [ ] スポンサー / 経営層（レビュー必須）
+        - [ ] Design Team（レビュー必須）
+        - [ ] Legal (法務) / Security（レビュー必須）
+        - [ ] Marketing / Sales（レビュー必須）
+        - [ ] Customer Support（通知のみ）
+        - [ ] Operations (運用チーム)（レビュー必須）
     validations:
       required: true
 
