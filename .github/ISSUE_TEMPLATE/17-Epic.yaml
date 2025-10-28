@@ -1,6 +1,6 @@
 name: "Epic (ビジネス目標)"
 description: "(DoR必要) 複数の UserStory を束ねるビジネス目標 (例: [Epic] 決済システムをリニューアルする)"
-title: ""
+title: "〜〜する"
 labels: ["Type:Epic", "NeedRefinement"]
 
 body:
