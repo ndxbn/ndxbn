@@ -7,6 +7,14 @@ assignees: ndxbn
 ---
 [修正](https://github.com/ndxbn/ndxbn/edit/main/.github/ISSUE_TEMPLATE/zz34-weekly-todo.md)
 
+# その他
+
+- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn.github.io/edit/main/backup/onetab.txt)
+- [ ] `apt update -y && apt upgrade -y` WSL 環境
+- [ ] `apt update -y && apt upgrade -y` サーバー
+- [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
+- [ ] YouTube のプレイリストの整理
+
 # 家事
 
 - [ ] 掃除機のゴミ捨て
@@ -49,18 +57,9 @@ assignees: ndxbn
 - [ ] お得意様（完了したら ☑）
 - [ ] クロの空想帳（受け取ったら ☑）
 - [ ] 攻略手帳（満足したら ☑）
-<!--
+
 # メイプルストーリー
 
 ## 常設
 
-- [ ] ユニオンコイン回収
--->
-# その他
-
-週末にやる
-
-- [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn.github.io/edit/main/backup/onetab.txt)
-- [ ] `apt update -y && apt upgrade -y` WSL 環境
-- [x] `apt update -y && apt upgrade -y` サーバー
-- [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
+- [x] ユニオンコイン回収
