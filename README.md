@@ -9,7 +9,7 @@
 <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="Redis" width="50"/></a>
 
-[![ndxbn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ndxbn's GitHub Stats](https://github-readme-stats-ten-blue-49.vercel.app/api?username=ndxbn&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details><summary>More Stats</summary>
   
