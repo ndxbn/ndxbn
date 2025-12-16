@@ -17,7 +17,3 @@ jobs:
           user: ndxbn
           template: classic
           config_timezone: Asia/Tokyo
-          plugin_achievements: true
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: true
-          plugin_achievements_threshold: A
