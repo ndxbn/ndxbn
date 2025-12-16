@@ -1,4 +1,4 @@
-name: Genelrate profile cards for README
+name: Generate profile cards for README
 on:
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
@@ -17,9 +17,3 @@ jobs:
           user: ndxbn
           template: classic
           config_timezone: Asia/Tokyo
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
-        with:
-          USERNAME: ndxbn
-          UTC_OFFSET: Asia/Tokyo
