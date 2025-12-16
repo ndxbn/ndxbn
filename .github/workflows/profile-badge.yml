@@ -1,4 +1,4 @@
-name: Metrics
+name: Genelrate profile cards for README
 on:
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
