@@ -21,4 +21,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ndxbn
+          UTC_OFFSET: Asia/Tokyo
