@@ -40,6 +40,7 @@ jobs:
         run: yarn lint:prettier
   fossa-scan:
     runs-on: ubuntu-latest
+    environment: main
     steps:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
       - uses: fossas/fossa-action@47e40022a8733be19f15bb8467c828ee8991f83e # main
