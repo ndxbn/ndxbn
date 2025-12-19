@@ -10,12 +10,12 @@
 - [ndxbn.tokyo](https://ndxbn.tokyo): 私個人の Main Web Site。
 - [ndxbn-tokyo.github.io](https://ndxbn-tokyo.github.io): orgs 向けのドキュメント置き場。 `github.com/ndxbn/ndxbn/docs/` 相当かも？明確な「これをつかうっていう基準」は特に思いつかない。
 
-リポジトリ名 | Read/Write heavy | stability | Configure or Behavior
-:-- | --- | ---
-ndxbn/ndxbn | Write | Devel | Behavior
-ndxbn.github.io | Read | Devel | Configure
-ndxbn.tokyo | Read | Prod | Behavior
-ndxbn-tokyo.github.io | Write | Prod | Configure
+| リポジトリ名          | Read/Write heavy | stability | Configure or Behavior |
+| :-------------------- | ---------------- | --------- | --------------------- |
+| ndxbn/ndxbn           | Write            | Devel     | Behavior              |
+| ndxbn.github.io       | Read             | Devel     | Configure             |
+| ndxbn.tokyo           | Read             | Prod      | Behavior              |
+| ndxbn-tokyo.github.io | Write            | Prod      | Configure             |
 
 こうやって見ると、ndxbn-tokyo.github.io が Write Heavy なことが他の要素と矛盾しており、使い道よくわからんと感じるのは正しいかも。
 
