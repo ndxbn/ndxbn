@@ -25,7 +25,6 @@
     ],
     "ignorePaths": [
         "package.json",
-        "yarn.lock",
         "node_modules",
         "backups",
         "asset"
