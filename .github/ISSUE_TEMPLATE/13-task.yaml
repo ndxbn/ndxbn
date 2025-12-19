@@ -1,5 +1,5 @@
 name: "Task (実行タスク)"
-description: "(DoR不要) 1〜2時間で完了する具体的な実行タスクを起票します"
+description: "(DoR不要) 1〜2時間で完了する具体的な実行タスク"
 title: "XXX する"
 labels: ["Type:Task"]
 
