@@ -1,5 +1,5 @@
 name: "KPI測定 (フォローアップ)"
-description: "(DoR不要) Epic完了後のビジネス成果（KPI）を測定・追跡します"
+description: "(DoR不要) Epic完了後のビジネス成果（KPI）を測定・追跡"
 title: "【実施日時】 ＜＜実施する内容＞＞"
 labels: ["Type:Task"]
 
