@@ -26,4 +26,4 @@ assignees: ndxbn
 -->
 # その他
 
-- [ ] [今月の Yearly タスクの消化](https://github.com/ndxbn/ndxbn/issues/2493)
+- [ ] [今月の Yearly タスクの消化](https://github.com/ndxbn/ndxbn/issues/3075)
