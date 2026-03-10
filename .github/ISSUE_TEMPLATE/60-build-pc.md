@@ -4,7 +4,7 @@ about: 新しく Windows Desktop PC を組み立てるときにやること
 title: New Desktop PC for XXXX
 labels: ["Type:Task"]
 projects: [ndxbn/7]
-assignees: ndxbn
+assignees: []
 ---
 
 See https://github.com/ndxbn/bootstrap-windows
