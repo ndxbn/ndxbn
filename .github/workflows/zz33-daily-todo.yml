@@ -1,8 +1,9 @@
 name: create daily task list
 
 on:
-  schedule:
-    - cron: "0 15 * * *"
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 15 * * *"
 
 jobs:
   main:
