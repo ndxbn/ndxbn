@@ -12,7 +12,7 @@ assignees: []
 - [x] Task Grooming（Google Tasks で直接管理している）
 - [ ] onetab のバックアップを [GitHub にする](https://github.com/ndxbn/ndxbn.github.io/edit/main/backup/onetab.txt)
 - [ ] `apt update -y && apt upgrade -y` WSL 環境
-- [ ] `apt update -y && apt upgrade -y` サーバー
+- [x] `apt update -y && apt upgrade -y` サーバー
 - [ ] [Google Keep](https://keep.google.com/) にあるタスクを Issue に移す
 - [ ] YouTube のプレイリストの整理
 
@@ -24,7 +24,7 @@ assignees: []
 # FF14
 
 - [ ] メイン
-- [ ] サブ
+- [x] サブ
 
 内容：
 
