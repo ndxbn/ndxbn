@@ -1,8 +1,9 @@
 name: create weekly task list
 
 on:
-  schedule:
-    - cron: "35 7 * * 2"
+  workflow_dispatch:
+  #schedule:
+    #- cron: "35 7 * * 2"
 
 jobs:
   main:
